@@ -4,6 +4,7 @@ import (
 	"crypto/tls"
 	"fmt"
 	"net/http"
+	"sync"
 	"time"
 )
 
@@ -11,31 +12,27 @@ import (
 type Service struct {
 	Name     string
 	URL      string
-	Insecure bool // true for local devices with self-signed certs
+	Insecure bool
 }
 
-// checkHTTPS checks an HTTPS endpoint
-func checkHTTPS(url string, insecure bool) bool {
+// ServiceResult holds the check result for a service
+type ServiceResult struct {
+	Service      Service
+	Online       bool
+	ResponseTime time.Duration
+}
+
+// checkService checks a service and measures response time
+func checkService(url string, insecure bool) (bool, time.Duration) {
 	client := http.Client{
-		Timeout: 5 * time.Second,
+		Timeout: 10 * time.Second,
 	}
 
-	// If insecure, skip certificate verification
 	if insecure {
 		tr := &http.Transport{
 			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 		}
 		client.Transport = tr
-	}
-
-	_, err := client.Get(url)
-	return err == nil
-}
-
-// checkLatency measures response time to a URL
-func checkLatency(url string) (bool, time.Duration) {
-	client := http.Client{
-		Timeout: 10 * time.Second,
 	}
 
 	start := time.Now()
@@ -48,31 +45,43 @@ func checkLatency(url string) (bool, time.Duration) {
 	return true, elapsed
 }
 
-// checkService tests a service and prints results
-func checkService(svc Service, measureLatency bool) {
+// checkServiceConcurrent checks a service and sends result to a channel
+func checkServiceConcurrent(svc Service, results chan<- ServiceResult, wg *sync.WaitGroup) {
+	defer wg.Done()
+
 	fmt.Printf("Checking %s at %s...\n", svc.Name, svc.URL)
 
-	if measureLatency {
-		online, latency := checkLatency(svc.URL)
-		status := "DOWN"
-		if online {
-			status = "UP"
-		}
-		fmt.Printf("[%s] %s - Latency: %v\n\n", status, svc.Name, latency)
+	online, responseTime := checkService(svc.URL, svc.Insecure)
+
+	result := ServiceResult{
+		Service:      svc,
+		Online:       online,
+		ResponseTime: responseTime,
+	}
+
+	results <- result
+}
+
+// printResult displays a service check result
+func printResult(result ServiceResult) {
+	status := "DOWN"
+	if result.Online {
+		status = "UP"
+	}
+
+	if result.Online {
+		// Format with 2 decimal places for seconds
+		seconds := result.ResponseTime.Seconds()
+		fmt.Printf("[%s] %-30s Response time: %.2fs\n", status, result.Service.Name, seconds)
 	} else {
-		online := checkHTTPS(svc.URL, svc.Insecure)
-		status := "DOWN"
-		if online {
-			status = "UP"
-		}
-		fmt.Printf("[%s] %s\n\n", status, svc.Name)
+		fmt.Printf("[%s] %-30s (No response)\n", status, result.Service.Name)
 	}
 }
 
 func main() {
 	fmt.Println("=== Network Health Monitor ===")
 
-	// Define all services to monitor in a slice
+	// Define all services to monitor
 	services := []Service{
 		{Name: "Home Router", URL: "https://192.168.3.1", Insecure: true},
 		{Name: "Google", URL: "https://www.google.com", Insecure: false},
@@ -80,10 +89,34 @@ func main() {
 		{Name: "Cape Town, SA (UCT)", URL: "https://www.uct.ac.za", Insecure: false},
 	}
 
-	// Check each service
+	// Create a channel to receive results
+	results := make(chan ServiceResult, len(services))
+
+	// WaitGroup to track goroutines
+	var wg sync.WaitGroup
+
+	// Record start time
+	startTime := time.Now()
+
+	// Launch a goroutine for each service check
 	for _, service := range services {
-		// Measure latency only for Cape Town
-		measureLatency := service.Name == "Cape Town, SA (UCT)"
-		checkService(service, measureLatency)
+		wg.Add(1)
+		go checkServiceConcurrent(service, results, &wg)
 	}
+
+	// Wait for all goroutines to complete
+	wg.Wait()
+	close(results)
+
+	// Collect and print all results
+	fmt.Println("\n=== Results ===")
+	for result := range results {
+		printResult(result)
+	}
+
+	// Show total execution time
+	elapsed := time.Since(startTime)
+	fmt.Printf("\n=== Summary ===")
+	fmt.Printf("\nTotal services checked: %d", len(services))
+	fmt.Printf("\nTotal execution time: %.2fs\n", elapsed.Seconds())
 }
