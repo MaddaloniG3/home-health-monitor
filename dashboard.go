@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"html/template"
-	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	"sort"
 	"strings"
 	"time"
@@ -86,7 +86,7 @@ func dataAPIHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func loadDashboardData() (*DashboardData, error) {
-	fileData, err := ioutil.ReadFile("latency_history.json")
+	fileData, err := os.ReadFile("latency_history.json")
 	if err != nil {
 		return nil, err
 	}
@@ -158,6 +158,7 @@ func loadDashboardData() (*DashboardData, error) {
 		return summary[i].Location < summary[j].Location
 	})
 
+	// Don't use template.JS - just pass the raw JSON string
 	timeSeriesBytes, err := json.Marshal(summary)
 	if err != nil {
 		return nil, err
@@ -167,7 +168,7 @@ func loadDashboardData() (*DashboardData, error) {
 		LastUpdate:     time.Now().Format("2006-01-02 15:04:05"),
 		TotalEndpoints: len(summary),
 		Summary:        summary,
-		TimeSeriesJSON: template.JS(string(timeSeriesBytes)),
+		TimeSeriesJSON: template.JS(timeSeriesBytes), // Pass bytes directly, not string
 	}, nil
 }
 
@@ -360,8 +361,7 @@ const dashboardHTML = `<!DOCTYPE html>
     <script>
         let timeSeriesData = [];
         try {
-            const rawData = {{.TimeSeriesJSON}};
-            timeSeriesData = JSON.parse(rawData);
+            timeSeriesData = {{.TimeSeriesJSON}};
             console.log('Loaded data points:', timeSeriesData.length);
         } catch (e) {
             console.error('Failed to parse data:', e);

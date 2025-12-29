@@ -4,7 +4,6 @@ import (
 	"encoding/csv"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"sort"
 	"strconv"
@@ -19,7 +18,7 @@ type DataPoint struct {
 
 func main() {
 	// Read the JSON file
-	data, err := ioutil.ReadFile("latency_history.json")
+	data, err := os.ReadFile("latency_history.json")
 	if err != nil {
 		fmt.Printf("Error reading file: %v\n", err)
 		os.Exit(1)

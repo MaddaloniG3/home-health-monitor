@@ -31,128 +31,128 @@
   ],
   "Ashburn, VA [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888821-05:00",
-      "ResponseTime": 102068542
+      "Timestamp": "2025-12-29T10:01:34.600803-05:00",
+      "ResponseTime": 105903083
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888812-05:00",
-      "ResponseTime": 76616916
+      "Timestamp": "2025-12-29T10:02:04.599664-05:00",
+      "ResponseTime": 67966583
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888965-05:00",
-      "ResponseTime": 85840166
+      "Timestamp": "2025-12-29T10:02:34.600016-05:00",
+      "ResponseTime": 73648583
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.88896-05:00",
-      "ResponseTime": 85512833
+      "Timestamp": "2025-12-29T10:19:11.33959-05:00",
+      "ResponseTime": 123355875
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889484-05:00",
-      "ResponseTime": 49165959
+      "Timestamp": "2025-12-29T10:19:41.338245-05:00",
+      "ResponseTime": 92093584
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891186-05:00",
-      "ResponseTime": 72952167
+      "Timestamp": "2025-12-29T10:20:11.337402-05:00",
+      "ResponseTime": 103029000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888616-05:00",
-      "ResponseTime": 86832459
+      "Timestamp": "2025-12-29T10:20:41.339583-05:00",
+      "ResponseTime": 62734083
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889831-05:00",
-      "ResponseTime": 100208083
+      "Timestamp": "2025-12-29T10:21:11.338205-05:00",
+      "ResponseTime": 105490541
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180391-05:00",
-      "ResponseTime": 75297709
+      "Timestamp": "2025-12-29T10:21:41.338857-05:00",
+      "ResponseTime": 137324791
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181104-05:00",
-      "ResponseTime": 72713666
+      "Timestamp": "2025-12-29T10:22:11.337942-05:00",
+      "ResponseTime": 79620500
     }
   ],
   "Ashburn, VA [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888312-05:00",
-      "ResponseTime": 173465833
+      "Timestamp": "2025-12-29T10:01:34.601144-05:00",
+      "ResponseTime": 231655875
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889623-05:00",
-      "ResponseTime": 153008708
+      "Timestamp": "2025-12-29T10:02:04.598509-05:00",
+      "ResponseTime": 134426292
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889549-05:00",
-      "ResponseTime": 141380125
+      "Timestamp": "2025-12-29T10:02:34.600247-05:00",
+      "ResponseTime": 136453959
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889464-05:00",
-      "ResponseTime": 132321459
+      "Timestamp": "2025-12-29T10:19:11.339775-05:00",
+      "ResponseTime": 187924000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888228-05:00",
-      "ResponseTime": 142323166
+      "Timestamp": "2025-12-29T10:19:41.338077-05:00",
+      "ResponseTime": 165166375
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889562-05:00",
-      "ResponseTime": 126855959
+      "Timestamp": "2025-12-29T10:20:11.338025-05:00",
+      "ResponseTime": 160968250
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888626-05:00",
-      "ResponseTime": 156676041
+      "Timestamp": "2025-12-29T10:20:41.337516-05:00",
+      "ResponseTime": 144474375
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890119-05:00",
-      "ResponseTime": 154941250
+      "Timestamp": "2025-12-29T10:21:11.337967-05:00",
+      "ResponseTime": 163470250
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180678-05:00",
-      "ResponseTime": 144603458
+      "Timestamp": "2025-12-29T10:21:41.33921-05:00",
+      "ResponseTime": 201773791
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178796-05:00",
-      "ResponseTime": 149581667
+      "Timestamp": "2025-12-29T10:22:11.33724-05:00",
+      "ResponseTime": 149825167
     }
   ],
   "Ashburn, VA [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.88885-05:00",
-      "ResponseTime": 16379000
+      "Timestamp": "2025-12-29T10:01:34.600848-05:00",
+      "ResponseTime": 41678000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889173-05:00",
-      "ResponseTime": 16346000
+      "Timestamp": "2025-12-29T10:02:04.599659-05:00",
+      "ResponseTime": 18445000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889275-05:00",
-      "ResponseTime": 16575000
+      "Timestamp": "2025-12-29T10:02:34.600132-05:00",
+      "ResponseTime": 59589000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889263-05:00",
-      "ResponseTime": 19175000
+      "Timestamp": "2025-12-29T10:19:11.33972-05:00",
+      "ResponseTime": 16538000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889485-05:00",
-      "ResponseTime": 16745000
+      "Timestamp": "2025-12-29T10:19:41.338423-05:00",
+      "ResponseTime": 15764000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.89118-05:00",
-      "ResponseTime": 15541000
+      "Timestamp": "2025-12-29T10:20:11.337703-05:00",
+      "ResponseTime": 18632000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888621-05:00",
-      "ResponseTime": 16608000
+      "Timestamp": "2025-12-29T10:20:41.339644-05:00",
+      "ResponseTime": 19666000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890019-05:00",
-      "ResponseTime": 14398000
+      "Timestamp": "2025-12-29T10:21:11.338329-05:00",
+      "ResponseTime": 20274000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180533-05:00",
-      "ResponseTime": 19633000
+      "Timestamp": "2025-12-29T10:21:41.339013-05:00",
+      "ResponseTime": 15516000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181172-05:00",
-      "ResponseTime": 16280000
+      "Timestamp": "2025-12-29T10:22:11.337114-05:00",
+      "ResponseTime": 16386000
     }
   ],
   "Bangkok (Thailand)": [
@@ -237,254 +237,254 @@
   ],
   "Cape Town, ZA [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.887579-05:00",
-      "ResponseTime": 83206417
+      "Timestamp": "2025-12-29T10:01:34.598378-05:00",
+      "ResponseTime": 61331375
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888189-05:00",
-      "ResponseTime": 46698417
+      "Timestamp": "2025-12-29T10:02:04.598298-05:00",
+      "ResponseTime": 47510250
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888585-05:00",
-      "ResponseTime": 60065750
+      "Timestamp": "2025-12-29T10:02:34.598782-05:00",
+      "ResponseTime": 74934541
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887513-05:00",
-      "ResponseTime": 51476667
+      "Timestamp": "2025-12-29T10:19:11.335354-05:00",
+      "ResponseTime": 68451167
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88763-05:00",
-      "ResponseTime": 50561500
+      "Timestamp": "2025-12-29T10:19:41.336847-05:00",
+      "ResponseTime": 75187541
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.887755-05:00",
-      "ResponseTime": 45962208
+      "Timestamp": "2025-12-29T10:20:11.335415-05:00",
+      "ResponseTime": 61683875
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887522-05:00",
-      "ResponseTime": 49932791
+      "Timestamp": "2025-12-29T10:20:41.337779-05:00",
+      "ResponseTime": 78211333
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.887838-05:00",
-      "ResponseTime": 76235959
+      "Timestamp": "2025-12-29T10:21:11.337371-05:00",
+      "ResponseTime": 68498875
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177357-05:00",
-      "ResponseTime": 90256292
+      "Timestamp": "2025-12-29T10:21:41.33725-05:00",
+      "ResponseTime": 88604584
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178232-05:00",
-      "ResponseTime": 53740375
+      "Timestamp": "2025-12-29T10:22:11.3372-05:00",
+      "ResponseTime": 54893500
     }
   ],
   "Cape Town, ZA [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.887624-05:00",
-      "ResponseTime": 856405750
+      "Timestamp": "2025-12-29T10:01:34.599713-05:00",
+      "ResponseTime": 885488667
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888453-05:00",
-      "ResponseTime": 815947792
+      "Timestamp": "2025-12-29T10:02:04.598094-05:00",
+      "ResponseTime": 798164917
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.887611-05:00",
-      "ResponseTime": 840592042
+      "Timestamp": "2025-12-29T10:02:34.599444-05:00",
+      "ResponseTime": 939998083
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888339-05:00",
-      "ResponseTime": 828110333
+      "Timestamp": "2025-12-29T10:19:11.3348-05:00",
+      "ResponseTime": 846010834
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888095-05:00",
-      "ResponseTime": 811012750
+      "Timestamp": "2025-12-29T10:19:41.336791-05:00",
+      "ResponseTime": 840187417
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888772-05:00",
-      "ResponseTime": 801043208
+      "Timestamp": "2025-12-29T10:20:11.337216-05:00",
+      "ResponseTime": 812614333
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887791-05:00",
-      "ResponseTime": 831572209
+      "Timestamp": "2025-12-29T10:20:41.338259-05:00",
+      "ResponseTime": 824946708
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889221-05:00",
-      "ResponseTime": 862258000
+      "Timestamp": "2025-12-29T10:21:11.337086-05:00",
+      "ResponseTime": 834037417
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177479-05:00",
-      "ResponseTime": 845383083
+      "Timestamp": "2025-12-29T10:21:41.337776-05:00",
+      "ResponseTime": 825179375
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180937-05:00",
-      "ResponseTime": 812653500
+      "Timestamp": "2025-12-29T10:22:11.337367-05:00",
+      "ResponseTime": 822293375
     }
   ],
   "Cape Town, ZA [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.887894-05:00",
-      "ResponseTime": 252124000
+      "Timestamp": "2025-12-29T10:01:34.599515-05:00",
+      "ResponseTime": 335173000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888318-05:00",
-      "ResponseTime": 255983000
+      "Timestamp": "2025-12-29T10:02:04.598326-05:00",
+      "ResponseTime": 259640000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888324-05:00",
-      "ResponseTime": 245138000
+      "Timestamp": "2025-12-29T10:02:34.598616-05:00",
+      "ResponseTime": 322263000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888066-05:00",
-      "ResponseTime": 246526000
+      "Timestamp": "2025-12-29T10:19:11.335416-05:00",
+      "ResponseTime": 246203000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887614-05:00",
-      "ResponseTime": 255240000
+      "Timestamp": "2025-12-29T10:19:41.336396-05:00",
+      "ResponseTime": 254011000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888449-05:00",
-      "ResponseTime": 245861000
+      "Timestamp": "2025-12-29T10:20:11.33655-05:00",
+      "ResponseTime": 254333000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88742-05:00",
-      "ResponseTime": 246267000
+      "Timestamp": "2025-12-29T10:20:41.33802-05:00",
+      "ResponseTime": 243940000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.887673-05:00",
-      "ResponseTime": 254923000
+      "Timestamp": "2025-12-29T10:21:11.337553-05:00",
+      "ResponseTime": 255265000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177291-05:00",
-      "ResponseTime": 256295000
+      "Timestamp": "2025-12-29T10:21:41.337479-05:00",
+      "ResponseTime": 252847000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178848-05:00",
-      "ResponseTime": 257214999
+      "Timestamp": "2025-12-29T10:22:11.33728-05:00",
+      "ResponseTime": 244640000
     }
   ],
   "Columbus, OH [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888346-05:00",
-      "ResponseTime": 87787875
+      "Timestamp": "2025-12-29T10:01:34.601255-05:00",
+      "ResponseTime": 90834250
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890748-05:00",
-      "ResponseTime": 84180417
+      "Timestamp": "2025-12-29T10:02:04.598555-05:00",
+      "ResponseTime": 57049042
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890072-05:00",
-      "ResponseTime": 73608209
+      "Timestamp": "2025-12-29T10:02:34.600538-05:00",
+      "ResponseTime": 111645833
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889684-05:00",
-      "ResponseTime": 74255167
+      "Timestamp": "2025-12-29T10:19:11.338846-05:00",
+      "ResponseTime": 94155666
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888376-05:00",
-      "ResponseTime": 286215958
+      "Timestamp": "2025-12-29T10:19:41.338268-05:00",
+      "ResponseTime": 106801167
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.890151-05:00",
-      "ResponseTime": 64177500
+      "Timestamp": "2025-12-29T10:20:11.337729-05:00",
+      "ResponseTime": 93663709
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888634-05:00",
-      "ResponseTime": 79463625
+      "Timestamp": "2025-12-29T10:20:41.337736-05:00",
+      "ResponseTime": 101439375
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890372-05:00",
-      "ResponseTime": 38805625
+      "Timestamp": "2025-12-29T10:21:11.338098-05:00",
+      "ResponseTime": 109094750
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180963-05:00",
-      "ResponseTime": 89645458
+      "Timestamp": "2025-12-29T10:21:41.338225-05:00",
+      "ResponseTime": 136102042
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178931-05:00",
-      "ResponseTime": 75388458
+      "Timestamp": "2025-12-29T10:22:11.337365-05:00",
+      "ResponseTime": 58514333
     }
   ],
   "Columbus, OH [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888709-05:00",
-      "ResponseTime": 219829708
+      "Timestamp": "2025-12-29T10:01:34.601373-05:00",
+      "ResponseTime": 255111375
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890508-05:00",
-      "ResponseTime": 176563042
+      "Timestamp": "2025-12-29T10:02:04.599585-05:00",
+      "ResponseTime": 238886041
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890545-05:00",
-      "ResponseTime": 185294459
+      "Timestamp": "2025-12-29T10:02:34.601458-05:00",
+      "ResponseTime": 220133000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889606-05:00",
-      "ResponseTime": 180606500
+      "Timestamp": "2025-12-29T10:19:11.339149-05:00",
+      "ResponseTime": 205242875
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888759-05:00",
-      "ResponseTime": 387463667
+      "Timestamp": "2025-12-29T10:19:41.33858-05:00",
+      "ResponseTime": 219041459
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891041-05:00",
-      "ResponseTime": 160155834
+      "Timestamp": "2025-12-29T10:20:11.338151-05:00",
+      "ResponseTime": 202463250
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888643-05:00",
-      "ResponseTime": 184392916
+      "Timestamp": "2025-12-29T10:20:41.338637-05:00",
+      "ResponseTime": 194163375
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.89091-05:00",
-      "ResponseTime": 192074791
+      "Timestamp": "2025-12-29T10:21:11.338247-05:00",
+      "ResponseTime": 221892166
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181236-05:00",
-      "ResponseTime": 203878542
+      "Timestamp": "2025-12-29T10:21:41.338416-05:00",
+      "ResponseTime": 234298625
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180718-05:00",
-      "ResponseTime": 180885834
+      "Timestamp": "2025-12-29T10:22:11.337543-05:00",
+      "ResponseTime": 163697500
     }
   ],
   "Columbus, OH [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888479-05:00",
-      "ResponseTime": 31666000
+      "Timestamp": "2025-12-29T10:01:34.601145-05:00",
+      "ResponseTime": 37716000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890749-05:00",
-      "ResponseTime": 29314000
+      "Timestamp": "2025-12-29T10:02:04.598915-05:00",
+      "ResponseTime": 27190000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.8904-05:00",
-      "ResponseTime": 30024000
+      "Timestamp": "2025-12-29T10:02:34.60084-05:00",
+      "ResponseTime": 53105000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889572-05:00",
-      "ResponseTime": 34322000
+      "Timestamp": "2025-12-29T10:19:11.339008-05:00",
+      "ResponseTime": 33551000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888478-05:00",
-      "ResponseTime": 30040000
+      "Timestamp": "2025-12-29T10:19:41.338465-05:00",
+      "ResponseTime": 31758000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891025-05:00",
-      "ResponseTime": 29341000
+      "Timestamp": "2025-12-29T10:20:11.337872-05:00",
+      "ResponseTime": 30354000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888639-05:00",
-      "ResponseTime": 31271000
+      "Timestamp": "2025-12-29T10:20:41.338321-05:00",
+      "ResponseTime": 30491000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890826-05:00",
-      "ResponseTime": 31056000
+      "Timestamp": "2025-12-29T10:21:11.338241-05:00",
+      "ResponseTime": 30582000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181118-05:00",
-      "ResponseTime": 32046999
+      "Timestamp": "2025-12-29T10:21:41.338299-05:00",
+      "ResponseTime": 29175000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180356-05:00",
-      "ResponseTime": 27992000
+      "Timestamp": "2025-12-29T10:22:11.337453-05:00",
+      "ResponseTime": 30801000
     }
   ],
   "Dallas (Texas, USA)": [
@@ -549,128 +549,128 @@
   ],
   "Dubai, AE [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889139-05:00",
-      "ResponseTime": 84852875
+      "Timestamp": "2025-12-29T10:01:34.600019-05:00",
+      "ResponseTime": 106625750
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889429-05:00",
-      "ResponseTime": 59332875
+      "Timestamp": "2025-12-29T10:02:04.599087-05:00",
+      "ResponseTime": 75089625
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888918-05:00",
-      "ResponseTime": 84313333
+      "Timestamp": "2025-12-29T10:02:34.599398-05:00",
+      "ResponseTime": 56800291
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889563-05:00",
-      "ResponseTime": 58222792
+      "Timestamp": "2025-12-29T10:19:11.339241-05:00",
+      "ResponseTime": 127493917
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888536-05:00",
-      "ResponseTime": 58872292
+      "Timestamp": "2025-12-29T10:19:41.338032-05:00",
+      "ResponseTime": 96643084
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889631-05:00",
-      "ResponseTime": 57611500
+      "Timestamp": "2025-12-29T10:20:11.337369-05:00",
+      "ResponseTime": 90455292
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887559-05:00",
-      "ResponseTime": 66724375
+      "Timestamp": "2025-12-29T10:20:41.337817-05:00",
+      "ResponseTime": 70399000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890073-05:00",
-      "ResponseTime": 66721750
+      "Timestamp": "2025-12-29T10:21:11.338262-05:00",
+      "ResponseTime": 104947500
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180403-05:00",
-      "ResponseTime": 81622459
+      "Timestamp": "2025-12-29T10:21:41.338056-05:00",
+      "ResponseTime": 122269167
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180314-05:00",
-      "ResponseTime": 65980709
+      "Timestamp": "2025-12-29T10:22:11.337609-05:00",
+      "ResponseTime": 97076875
     }
   ],
   "Dubai, AE [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889756-05:00",
-      "ResponseTime": 629927042
+      "Timestamp": "2025-12-29T10:01:34.60035-05:00",
+      "ResponseTime": 727434959
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888763-05:00",
-      "ResponseTime": 601413541
+      "Timestamp": "2025-12-29T10:02:04.599624-05:00",
+      "ResponseTime": 592122167
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889536-05:00",
-      "ResponseTime": 577468500
+      "Timestamp": "2025-12-29T10:02:34.599721-05:00",
+      "ResponseTime": 588880709
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.88803-05:00",
-      "ResponseTime": 608350167
+      "Timestamp": "2025-12-29T10:19:11.33918-05:00",
+      "ResponseTime": 660349208
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888941-05:00",
-      "ResponseTime": 605415375
+      "Timestamp": "2025-12-29T10:19:41.338304-05:00",
+      "ResponseTime": 602837583
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891033-05:00",
-      "ResponseTime": 598678917
+      "Timestamp": "2025-12-29T10:20:11.337835-05:00",
+      "ResponseTime": 616953167
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887835-05:00",
-      "ResponseTime": 644625000
+      "Timestamp": "2025-12-29T10:20:41.338377-05:00",
+      "ResponseTime": 593091042
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890382-05:00",
-      "ResponseTime": 595506833
+      "Timestamp": "2025-12-29T10:21:11.338604-05:00",
+      "ResponseTime": 635401167
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180694-05:00",
-      "ResponseTime": 596182834
+      "Timestamp": "2025-12-29T10:21:41.338241-05:00",
+      "ResponseTime": 635860833
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181023-05:00",
-      "ResponseTime": 617738541
+      "Timestamp": "2025-12-29T10:22:11.337641-05:00",
+      "ResponseTime": 616442875
     }
   ],
   "Dubai, AE [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889211-05:00",
-      "ResponseTime": 166735000
+      "Timestamp": "2025-12-29T10:01:34.600132-05:00",
+      "ResponseTime": 199609000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888731-05:00",
-      "ResponseTime": 171592000
+      "Timestamp": "2025-12-29T10:02:04.599542-05:00",
+      "ResponseTime": 213386000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889246-05:00",
-      "ResponseTime": 173457000
+      "Timestamp": "2025-12-29T10:02:34.59942-05:00",
+      "ResponseTime": 185438000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887769-05:00",
-      "ResponseTime": 174008000
+      "Timestamp": "2025-12-29T10:19:11.339087-05:00",
+      "ResponseTime": 165657000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888736-05:00",
-      "ResponseTime": 173003000
+      "Timestamp": "2025-12-29T10:19:41.338141-05:00",
+      "ResponseTime": 172908000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.890971-05:00",
-      "ResponseTime": 174989000
+      "Timestamp": "2025-12-29T10:20:11.337687-05:00",
+      "ResponseTime": 174347000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887741-05:00",
-      "ResponseTime": 172032000
+      "Timestamp": "2025-12-29T10:20:41.338055-05:00",
+      "ResponseTime": 175165000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890104-05:00",
-      "ResponseTime": 187753000
+      "Timestamp": "2025-12-29T10:21:11.338434-05:00",
+      "ResponseTime": 171448000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180561-05:00",
-      "ResponseTime": 171394000
+      "Timestamp": "2025-12-29T10:21:41.338142-05:00",
+      "ResponseTime": 172499000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181015-05:00",
-      "ResponseTime": 170214000
+      "Timestamp": "2025-12-29T10:22:11.337761-05:00",
+      "ResponseTime": 168697000
     }
   ],
   "Frankfurt (Germany)": [
@@ -705,128 +705,128 @@
   ],
   "Frankfurt, DE [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.89032-05:00",
-      "ResponseTime": 88406917
+      "Timestamp": "2025-12-29T10:01:34.599428-05:00",
+      "ResponseTime": 88228375
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.88841-05:00",
-      "ResponseTime": 72696083
+      "Timestamp": "2025-12-29T10:02:04.598574-05:00",
+      "ResponseTime": 72122542
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.89011-05:00",
-      "ResponseTime": 84989875
+      "Timestamp": "2025-12-29T10:02:34.604188-05:00",
+      "ResponseTime": 109046792
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888904-05:00",
-      "ResponseTime": 88416084
+      "Timestamp": "2025-12-29T10:19:11.336718-05:00",
+      "ResponseTime": 80557334
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887999-05:00",
-      "ResponseTime": 281362708
+      "Timestamp": "2025-12-29T10:19:41.338015-05:00",
+      "ResponseTime": 81541666
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.887851-05:00",
-      "ResponseTime": 75093292
+      "Timestamp": "2025-12-29T10:20:11.336371-05:00",
+      "ResponseTime": 97588416
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888511-05:00",
-      "ResponseTime": 75787709
+      "Timestamp": "2025-12-29T10:20:41.337212-05:00",
+      "ResponseTime": 85197792
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889061-05:00",
-      "ResponseTime": 84201833
+      "Timestamp": "2025-12-29T10:21:11.339284-05:00",
+      "ResponseTime": 114915542
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180742-05:00",
-      "ResponseTime": 83369000
+      "Timestamp": "2025-12-29T10:21:41.337833-05:00",
+      "ResponseTime": 138285375
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180922-05:00",
-      "ResponseTime": 67597333
+      "Timestamp": "2025-12-29T10:22:11.33751-05:00",
+      "ResponseTime": 58339667
     }
   ],
   "Frankfurt, DE [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890667-05:00",
-      "ResponseTime": 402019583
+      "Timestamp": "2025-12-29T10:01:34.599784-05:00",
+      "ResponseTime": 457749875
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.887745-05:00",
-      "ResponseTime": 376642375
+      "Timestamp": "2025-12-29T10:02:04.599693-05:00",
+      "ResponseTime": 430986625
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891048-05:00",
-      "ResponseTime": 368443708
+      "Timestamp": "2025-12-29T10:02:34.600621-05:00",
+      "ResponseTime": 498696584
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889259-05:00",
-      "ResponseTime": 389444625
+      "Timestamp": "2025-12-29T10:19:11.338854-05:00",
+      "ResponseTime": 362494125
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888182-05:00",
-      "ResponseTime": 565538750
+      "Timestamp": "2025-12-29T10:19:41.33733-05:00",
+      "ResponseTime": 381865792
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889001-05:00",
-      "ResponseTime": 383914125
+      "Timestamp": "2025-12-29T10:20:11.336642-05:00",
+      "ResponseTime": 401852708
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887628-05:00",
-      "ResponseTime": 366241209
+      "Timestamp": "2025-12-29T10:20:41.337712-05:00",
+      "ResponseTime": 419879833
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889394-05:00",
-      "ResponseTime": 372694333
+      "Timestamp": "2025-12-29T10:21:11.339091-05:00",
+      "ResponseTime": 398253417
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177476-05:00",
-      "ResponseTime": 375747500
+      "Timestamp": "2025-12-29T10:21:41.337968-05:00",
+      "ResponseTime": 411145875
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178987-05:00",
-      "ResponseTime": 370157167
+      "Timestamp": "2025-12-29T10:22:11.337088-05:00",
+      "ResponseTime": 360430792
     }
   ],
   "Frankfurt, DE [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890517-05:00",
-      "ResponseTime": 102510000
+      "Timestamp": "2025-12-29T10:01:34.599597-05:00",
+      "ResponseTime": 106600000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888593-05:00",
-      "ResponseTime": 94403000
+      "Timestamp": "2025-12-29T10:02:04.59958-05:00",
+      "ResponseTime": 115295000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890699-05:00",
-      "ResponseTime": 95713000
+      "Timestamp": "2025-12-29T10:02:34.604442-05:00",
+      "ResponseTime": 111031000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889015-05:00",
-      "ResponseTime": 93214000
+      "Timestamp": "2025-12-29T10:19:11.338722-05:00",
+      "ResponseTime": 91782000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888126-05:00",
-      "ResponseTime": 93433000
+      "Timestamp": "2025-12-29T10:19:41.337323-05:00",
+      "ResponseTime": 98274000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888895-05:00",
-      "ResponseTime": 97803000
+      "Timestamp": "2025-12-29T10:20:11.337432-05:00",
+      "ResponseTime": 93714000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888545-05:00",
-      "ResponseTime": 92325000
+      "Timestamp": "2025-12-29T10:20:41.337153-05:00",
+      "ResponseTime": 94597000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889128-05:00",
-      "ResponseTime": 108121000
+      "Timestamp": "2025-12-29T10:21:11.339076-05:00",
+      "ResponseTime": 94010000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180951-05:00",
-      "ResponseTime": 91987000
+      "Timestamp": "2025-12-29T10:21:41.337951-05:00",
+      "ResponseTime": 91588000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178873-05:00",
-      "ResponseTime": 99264000
+      "Timestamp": "2025-12-29T10:22:11.336984-05:00",
+      "ResponseTime": 110814000
     }
   ],
   "George Maddaloni Website": [
@@ -951,254 +951,254 @@
   ],
   "Hyderabad, IN [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890346-05:00",
-      "ResponseTime": 74761416
+      "Timestamp": "2025-12-29T10:01:34.599358-05:00",
+      "ResponseTime": 78140625
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889349-05:00",
-      "ResponseTime": 59357750
+      "Timestamp": "2025-12-29T10:02:04.599702-05:00",
+      "ResponseTime": 48692667
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890218-05:00",
-      "ResponseTime": 63700125
+      "Timestamp": "2025-12-29T10:02:34.600458-05:00",
+      "ResponseTime": 108358791
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889557-05:00",
-      "ResponseTime": 73778667
+      "Timestamp": "2025-12-29T10:19:11.339511-05:00",
+      "ResponseTime": 110123500
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88836-05:00",
-      "ResponseTime": 71715500
+      "Timestamp": "2025-12-29T10:19:41.337909-05:00",
+      "ResponseTime": 89062625
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891105-05:00",
-      "ResponseTime": 51944917
+      "Timestamp": "2025-12-29T10:20:11.338965-05:00",
+      "ResponseTime": 105071667
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888568-05:00",
-      "ResponseTime": 78054667
+      "Timestamp": "2025-12-29T10:20:41.338814-05:00",
+      "ResponseTime": 100507917
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890796-05:00",
-      "ResponseTime": 73413333
+      "Timestamp": "2025-12-29T10:21:11.338662-05:00",
+      "ResponseTime": 91104250
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180467-05:00",
-      "ResponseTime": 74520125
+      "Timestamp": "2025-12-29T10:21:41.338975-05:00",
+      "ResponseTime": 106994000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181091-05:00",
-      "ResponseTime": 67189333
+      "Timestamp": "2025-12-29T10:22:11.337588-05:00",
+      "ResponseTime": 72204583
     }
   ],
   "Hyderabad, IN [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890361-05:00",
-      "ResponseTime": 838811417
+      "Timestamp": "2025-12-29T10:01:34.599658-05:00",
+      "ResponseTime": 887183166
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889577-05:00",
-      "ResponseTime": 833251292
+      "Timestamp": "2025-12-29T10:02:04.599324-05:00",
+      "ResponseTime": 819875083
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890769-05:00",
-      "ResponseTime": 841990291
+      "Timestamp": "2025-12-29T10:02:34.600374-05:00",
+      "ResponseTime": 939107291
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889706-05:00",
-      "ResponseTime": 837565041
+      "Timestamp": "2025-12-29T10:19:11.339124-05:00",
+      "ResponseTime": 884168625
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888643-05:00",
-      "ResponseTime": 821448208
+      "Timestamp": "2025-12-29T10:19:41.338157-05:00",
+      "ResponseTime": 847811500
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889035-05:00",
-      "ResponseTime": 813879417
+      "Timestamp": "2025-12-29T10:20:11.339141-05:00",
+      "ResponseTime": 880241542
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88856-05:00",
-      "ResponseTime": 848260500
+      "Timestamp": "2025-12-29T10:20:41.337121-05:00",
+      "ResponseTime": 912936250
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890812-05:00",
-      "ResponseTime": 827469917
+      "Timestamp": "2025-12-29T10:21:11.338957-05:00",
+      "ResponseTime": 875393291
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180293-05:00",
-      "ResponseTime": 836441083
+      "Timestamp": "2025-12-29T10:21:41.339273-05:00",
+      "ResponseTime": 852098917
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181006-05:00",
-      "ResponseTime": 849961875
+      "Timestamp": "2025-12-29T10:22:11.337791-05:00",
+      "ResponseTime": 842599084
     }
   ],
   "Hyderabad, IN [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890559-05:00",
-      "ResponseTime": 258685000
+      "Timestamp": "2025-12-29T10:01:34.599461-05:00",
+      "ResponseTime": 332963000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.88955-05:00",
-      "ResponseTime": 251012000
+      "Timestamp": "2025-12-29T10:02:04.599704-05:00",
+      "ResponseTime": 261635000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890461-05:00",
-      "ResponseTime": 256046000
+      "Timestamp": "2025-12-29T10:02:34.600201-05:00",
+      "ResponseTime": 346065000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889692-05:00",
-      "ResponseTime": 251651000
+      "Timestamp": "2025-12-29T10:19:11.338898-05:00",
+      "ResponseTime": 253868000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888499-05:00",
-      "ResponseTime": 251731000
+      "Timestamp": "2025-12-29T10:19:41.338038-05:00",
+      "ResponseTime": 253530000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888973-05:00",
-      "ResponseTime": 258798000
+      "Timestamp": "2025-12-29T10:20:11.339128-05:00",
+      "ResponseTime": 256781000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888569-05:00",
-      "ResponseTime": 252352000
+      "Timestamp": "2025-12-29T10:20:41.33703-05:00",
+      "ResponseTime": 255924000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890805-05:00",
-      "ResponseTime": 251098000
+      "Timestamp": "2025-12-29T10:21:11.338775-05:00",
+      "ResponseTime": 256439000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180185-05:00",
-      "ResponseTime": 252101000
+      "Timestamp": "2025-12-29T10:21:41.339152-05:00",
+      "ResponseTime": 253147000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181098-05:00",
-      "ResponseTime": 250896000
+      "Timestamp": "2025-12-29T10:22:11.337702-05:00",
+      "ResponseTime": 251780000
     }
   ],
   "Jakarta, ID [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888214-05:00",
-      "ResponseTime": 85815042
+      "Timestamp": "2025-12-29T10:01:34.59946-05:00",
+      "ResponseTime": 75245667
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888332-05:00",
-      "ResponseTime": 56729542
+      "Timestamp": "2025-12-29T10:02:04.599654-05:00",
+      "ResponseTime": 56092042
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888579-05:00",
-      "ResponseTime": 65543958
+      "Timestamp": "2025-12-29T10:02:34.600073-05:00",
+      "ResponseTime": 70935125
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888863-05:00",
-      "ResponseTime": 54685125
+      "Timestamp": "2025-12-29T10:19:11.339421-05:00",
+      "ResponseTime": 110213250
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888391-05:00",
-      "ResponseTime": 76689041
+      "Timestamp": "2025-12-29T10:19:41.337082-05:00",
+      "ResponseTime": 99371167
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889369-05:00",
-      "ResponseTime": 65335417
+      "Timestamp": "2025-12-29T10:20:11.336449-05:00",
+      "ResponseTime": 95106500
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88758-05:00",
-      "ResponseTime": 50369250
+      "Timestamp": "2025-12-29T10:20:41.338445-05:00",
+      "ResponseTime": 89869125
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890836-05:00",
-      "ResponseTime": 93704000
+      "Timestamp": "2025-12-29T10:21:11.337609-05:00",
+      "ResponseTime": 88807833
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177441-05:00",
-      "ResponseTime": 62716375
+      "Timestamp": "2025-12-29T10:21:41.338477-05:00",
+      "ResponseTime": 118424917
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181216-05:00",
-      "ResponseTime": 53724584
+      "Timestamp": "2025-12-29T10:22:11.337411-05:00",
+      "ResponseTime": 75010166
     }
   ],
   "Jakarta, ID [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.88859-05:00",
-      "ResponseTime": 861886708
+      "Timestamp": "2025-12-29T10:01:34.599848-05:00",
+      "ResponseTime": 886933000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888663-05:00",
-      "ResponseTime": 815658375
+      "Timestamp": "2025-12-29T10:02:04.599639-05:00",
+      "ResponseTime": 849523458
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889316-05:00",
-      "ResponseTime": 844272458
+      "Timestamp": "2025-12-29T10:02:34.600426-05:00",
+      "ResponseTime": 939007458
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888155-05:00",
-      "ResponseTime": 836522583
+      "Timestamp": "2025-12-29T10:19:11.338995-05:00",
+      "ResponseTime": 891832417
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888575-05:00",
-      "ResponseTime": 851863667
+      "Timestamp": "2025-12-29T10:19:41.337544-05:00",
+      "ResponseTime": 870689541
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889295-05:00",
-      "ResponseTime": 849945875
+      "Timestamp": "2025-12-29T10:20:11.337496-05:00",
+      "ResponseTime": 863656042
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888418-05:00",
-      "ResponseTime": 822542791
+      "Timestamp": "2025-12-29T10:20:41.338918-05:00",
+      "ResponseTime": 892073708
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890908-05:00",
-      "ResponseTime": 855217834
+      "Timestamp": "2025-12-29T10:21:11.33798-05:00",
+      "ResponseTime": 869445959
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180302-05:00",
-      "ResponseTime": 847211667
+      "Timestamp": "2025-12-29T10:21:41.338797-05:00",
+      "ResponseTime": 879783709
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181178-05:00",
-      "ResponseTime": 852536833
+      "Timestamp": "2025-12-29T10:22:11.337227-05:00",
+      "ResponseTime": 865689375
     }
   ],
   "Jakarta, ID [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888382-05:00",
-      "ResponseTime": 261649000
+      "Timestamp": "2025-12-29T10:01:34.599629-05:00",
+      "ResponseTime": 325182000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888517-05:00",
-      "ResponseTime": 254344000
+      "Timestamp": "2025-12-29T10:02:04.599687-05:00",
+      "ResponseTime": 264041999
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888969-05:00",
-      "ResponseTime": 259132000
+      "Timestamp": "2025-12-29T10:02:34.600208-05:00",
+      "ResponseTime": 325064000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888989-05:00",
-      "ResponseTime": 260648000
+      "Timestamp": "2025-12-29T10:19:11.338945-05:00",
+      "ResponseTime": 260315999
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888432-05:00",
-      "ResponseTime": 261435999
+      "Timestamp": "2025-12-29T10:19:41.337379-05:00",
+      "ResponseTime": 255777000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889222-05:00",
-      "ResponseTime": 255885000
+      "Timestamp": "2025-12-29T10:20:11.337186-05:00",
+      "ResponseTime": 261211000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888044-05:00",
-      "ResponseTime": 255842000
+      "Timestamp": "2025-12-29T10:20:41.338777-05:00",
+      "ResponseTime": 262437000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890917-05:00",
-      "ResponseTime": 258664000
+      "Timestamp": "2025-12-29T10:21:11.337786-05:00",
+      "ResponseTime": 255778000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180153-05:00",
-      "ResponseTime": 259368000
+      "Timestamp": "2025-12-29T10:21:41.338735-05:00",
+      "ResponseTime": 256394999
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181224-05:00",
-      "ResponseTime": 252726000
+      "Timestamp": "2025-12-29T10:22:11.337514-05:00",
+      "ResponseTime": 255080000
     }
   ],
   "Johannesburg (South Africa)": [
@@ -1263,128 +1263,128 @@
   ],
   "London, UK [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890872-05:00",
-      "ResponseTime": 113496500
+      "Timestamp": "2025-12-29T10:01:34.599958-05:00",
+      "ResponseTime": 89375334
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.8882-05:00",
-      "ResponseTime": 32979667
+      "Timestamp": "2025-12-29T10:02:04.597994-05:00",
+      "ResponseTime": 72661625
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891795-05:00",
-      "ResponseTime": 92628958
+      "Timestamp": "2025-12-29T10:02:34.600866-05:00",
+      "ResponseTime": 109811625
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887622-05:00",
-      "ResponseTime": 64394291
+      "Timestamp": "2025-12-29T10:19:11.335381-05:00",
+      "ResponseTime": 64330500
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887839-05:00",
-      "ResponseTime": 51329000
+      "Timestamp": "2025-12-29T10:19:41.337549-05:00",
+      "ResponseTime": 102333875
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889253-05:00",
-      "ResponseTime": 65064000
+      "Timestamp": "2025-12-29T10:20:11.337276-05:00",
+      "ResponseTime": 96994208
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887733-05:00",
-      "ResponseTime": 76403583
+      "Timestamp": "2025-12-29T10:20:41.337987-05:00",
+      "ResponseTime": 85501333
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.888075-05:00",
-      "ResponseTime": 103788167
+      "Timestamp": "2025-12-29T10:21:11.33924-05:00",
+      "ResponseTime": 114372042
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180135-05:00",
-      "ResponseTime": 75592375
+      "Timestamp": "2025-12-29T10:21:41.337293-05:00",
+      "ResponseTime": 87413125
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.179683-05:00",
-      "ResponseTime": 74926167
+      "Timestamp": "2025-12-29T10:22:11.337286-05:00",
+      "ResponseTime": 64413958
     }
   ],
   "London, UK [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889241-05:00",
-      "ResponseTime": 354972042
+      "Timestamp": "2025-12-29T10:01:34.600045-05:00",
+      "ResponseTime": 446435791
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888268-05:00",
-      "ResponseTime": 334026834
+      "Timestamp": "2025-12-29T10:02:04.598332-05:00",
+      "ResponseTime": 410462500
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890231-05:00",
-      "ResponseTime": 341932958
+      "Timestamp": "2025-12-29T10:02:34.602109-05:00",
+      "ResponseTime": 406028959
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888341-05:00",
-      "ResponseTime": 302951834
+      "Timestamp": "2025-12-29T10:19:11.338803-05:00",
+      "ResponseTime": 315567042
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888017-05:00",
-      "ResponseTime": 331874459
+      "Timestamp": "2025-12-29T10:19:41.337811-05:00",
+      "ResponseTime": 361109542
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.88959-05:00",
-      "ResponseTime": 319038625
+      "Timestamp": "2025-12-29T10:20:11.336762-05:00",
+      "ResponseTime": 360672291
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888505-05:00",
-      "ResponseTime": 320918666
+      "Timestamp": "2025-12-29T10:20:41.338519-05:00",
+      "ResponseTime": 374727500
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889744-05:00",
-      "ResponseTime": 344465708
+      "Timestamp": "2025-12-29T10:21:11.33847-05:00",
+      "ResponseTime": 366598000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180422-05:00",
-      "ResponseTime": 326331584
+      "Timestamp": "2025-12-29T10:21:41.337442-05:00",
+      "ResponseTime": 383517667
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181135-05:00",
-      "ResponseTime": 330023542
+      "Timestamp": "2025-12-29T10:22:11.33746-05:00",
+      "ResponseTime": 321191042
     }
   ],
   "London, UK [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890876-05:00",
-      "ResponseTime": 92109000
+      "Timestamp": "2025-12-29T10:01:34.600796-05:00",
+      "ResponseTime": 95052000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888353-05:00",
-      "ResponseTime": 79260000
+      "Timestamp": "2025-12-29T10:02:04.59813-05:00",
+      "ResponseTime": 79460000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.892009-05:00",
-      "ResponseTime": 79538000
+      "Timestamp": "2025-12-29T10:02:34.601583-05:00",
+      "ResponseTime": 97946000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888172-05:00",
-      "ResponseTime": 79761000
+      "Timestamp": "2025-12-29T10:19:11.335383-05:00",
+      "ResponseTime": 79604000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887978-05:00",
-      "ResponseTime": 81501000
+      "Timestamp": "2025-12-29T10:19:41.337743-05:00",
+      "ResponseTime": 81694000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889441-05:00",
-      "ResponseTime": 82545000
+      "Timestamp": "2025-12-29T10:20:11.336482-05:00",
+      "ResponseTime": 81620000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888363-05:00",
-      "ResponseTime": 78078000
+      "Timestamp": "2025-12-29T10:20:41.338218-05:00",
+      "ResponseTime": 79932000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.88937-05:00",
-      "ResponseTime": 79827000
+      "Timestamp": "2025-12-29T10:21:11.338441-05:00",
+      "ResponseTime": 82254000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180281-05:00",
-      "ResponseTime": 80356000
+      "Timestamp": "2025-12-29T10:21:41.337403-05:00",
+      "ResponseTime": 80339000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181128-05:00",
-      "ResponseTime": 81888000
+      "Timestamp": "2025-12-29T10:22:11.337372-05:00",
+      "ResponseTime": 79293000
     }
   ],
   "MA Connect Website": [
@@ -1479,128 +1479,128 @@
   ],
   "Melbourne, AU [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888001-05:00",
-      "ResponseTime": 61333042
+      "Timestamp": "2025-12-29T10:01:34.601464-05:00",
+      "ResponseTime": 93786000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888218-05:00",
-      "ResponseTime": 65636875
+      "Timestamp": "2025-12-29T10:02:04.599624-05:00",
+      "ResponseTime": 88909667
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888354-05:00",
-      "ResponseTime": 75824208
+      "Timestamp": "2025-12-29T10:02:34.599322-05:00",
+      "ResponseTime": 57641458
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888267-05:00",
-      "ResponseTime": 70421167
+      "Timestamp": "2025-12-29T10:19:11.339781-05:00",
+      "ResponseTime": 1146904333
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889521-05:00",
-      "ResponseTime": 267510917
+      "Timestamp": "2025-12-29T10:19:41.337726-05:00",
+      "ResponseTime": 80378291
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891168-05:00",
-      "ResponseTime": 62412209
+      "Timestamp": "2025-12-29T10:20:11.335797-05:00",
+      "ResponseTime": 104730500
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888554-05:00",
-      "ResponseTime": 77369792
+      "Timestamp": "2025-12-29T10:20:41.339361-05:00",
+      "ResponseTime": 90065625
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890912-05:00",
-      "ResponseTime": 68309500
+      "Timestamp": "2025-12-29T10:21:11.339574-05:00",
+      "ResponseTime": 106115667
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177435-05:00",
-      "ResponseTime": 72657542
+      "Timestamp": "2025-12-29T10:21:41.339182-05:00",
+      "ResponseTime": 110122375
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180946-05:00",
-      "ResponseTime": 72203709
+      "Timestamp": "2025-12-29T10:22:11.337957-05:00",
+      "ResponseTime": 74569583
     }
   ],
   "Melbourne, AU [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888571-05:00",
-      "ResponseTime": 726035208
+      "Timestamp": "2025-12-29T10:01:34.601461-05:00",
+      "ResponseTime": 883769750
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888604-05:00",
-      "ResponseTime": 753091459
+      "Timestamp": "2025-12-29T10:02:04.599617-05:00",
+      "ResponseTime": 770873625
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.88866-05:00",
-      "ResponseTime": 748435375
+      "Timestamp": "2025-12-29T10:02:34.599646-05:00",
+      "ResponseTime": 735233375
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888772-05:00",
-      "ResponseTime": 733157833
+      "Timestamp": "2025-12-29T10:19:11.33945-05:00",
+      "ResponseTime": 2037431375
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889391-05:00",
-      "ResponseTime": 954386417
+      "Timestamp": "2025-12-29T10:19:41.338068-05:00",
+      "ResponseTime": 747461083
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891162-05:00",
-      "ResponseTime": 740891917
+      "Timestamp": "2025-12-29T10:20:11.337064-05:00",
+      "ResponseTime": 758217208
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888557-05:00",
-      "ResponseTime": 757275542
+      "Timestamp": "2025-12-29T10:20:41.339381-05:00",
+      "ResponseTime": 760773958
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890915-05:00",
-      "ResponseTime": 737403541
+      "Timestamp": "2025-12-29T10:21:11.337789-05:00",
+      "ResponseTime": 770326167
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.18025-05:00",
-      "ResponseTime": 756652292
+      "Timestamp": "2025-12-29T10:21:41.338642-05:00",
+      "ResponseTime": 784343792
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180992-05:00",
-      "ResponseTime": 748558791
+      "Timestamp": "2025-12-29T10:22:11.337929-05:00",
+      "ResponseTime": 745852209
     }
   ],
   "Melbourne, AU [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888119-05:00",
-      "ResponseTime": 222077000
+      "Timestamp": "2025-12-29T10:01:34.601275-05:00",
+      "ResponseTime": 267216999
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888419-05:00",
-      "ResponseTime": 222420000
+      "Timestamp": "2025-12-29T10:02:04.599629-05:00",
+      "ResponseTime": 230931000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.88855-05:00",
-      "ResponseTime": 223809000
+      "Timestamp": "2025-12-29T10:02:34.599374-05:00",
+      "ResponseTime": 239358000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888503-05:00",
-      "ResponseTime": 221772000
+      "Timestamp": "2025-12-29T10:19:11.33938-05:00",
+      "ResponseTime": 221561000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889535-05:00",
-      "ResponseTime": 220555000
+      "Timestamp": "2025-12-29T10:19:41.337878-05:00",
+      "ResponseTime": 222499000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891173-05:00",
-      "ResponseTime": 221620000
+      "Timestamp": "2025-12-29T10:20:11.336344-05:00",
+      "ResponseTime": 220387000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888556-05:00",
-      "ResponseTime": 222454000
+      "Timestamp": "2025-12-29T10:20:41.339621-05:00",
+      "ResponseTime": 221767000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890914-05:00",
-      "ResponseTime": 221072000
+      "Timestamp": "2025-12-29T10:21:11.337647-05:00",
+      "ResponseTime": 222348000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180101-05:00",
-      "ResponseTime": 223208000
+      "Timestamp": "2025-12-29T10:21:41.338461-05:00",
+      "ResponseTime": 224840000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180999-05:00",
-      "ResponseTime": 225832000
+      "Timestamp": "2025-12-29T10:22:11.337899-05:00",
+      "ResponseTime": 220988000
     }
   ],
   "Mexico City (Mexico)": [
@@ -1635,254 +1635,254 @@
   ],
   "Milan, IT [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890062-05:00",
-      "ResponseTime": 81490792
+      "Timestamp": "2025-12-29T10:01:34.599433-05:00",
+      "ResponseTime": 75091417
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888241-05:00",
-      "ResponseTime": 32511750
+      "Timestamp": "2025-12-29T10:02:04.599577-05:00",
+      "ResponseTime": 53051083
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891336-05:00",
-      "ResponseTime": 63397375
+      "Timestamp": "2025-12-29T10:02:34.599991-05:00",
+      "ResponseTime": 59732209
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889443-05:00",
-      "ResponseTime": 60638166
+      "Timestamp": "2025-12-29T10:19:11.334852-05:00",
+      "ResponseTime": 90312750
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888171-05:00",
-      "ResponseTime": 278586709
+      "Timestamp": "2025-12-29T10:19:41.337475-05:00",
+      "ResponseTime": 106430250
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889353-05:00",
-      "ResponseTime": 65258416
+      "Timestamp": "2025-12-29T10:20:11.336057-05:00",
+      "ResponseTime": 90727834
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888108-05:00",
-      "ResponseTime": 68595000
+      "Timestamp": "2025-12-29T10:20:41.339096-05:00",
+      "ResponseTime": 64187292
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890915-05:00",
-      "ResponseTime": 74266833
+      "Timestamp": "2025-12-29T10:21:11.338792-05:00",
+      "ResponseTime": 90994167
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180889-05:00",
-      "ResponseTime": 82082042
+      "Timestamp": "2025-12-29T10:21:41.337323-05:00",
+      "ResponseTime": 86769334
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181148-05:00",
-      "ResponseTime": 62601792
+      "Timestamp": "2025-12-29T10:22:11.337856-05:00",
+      "ResponseTime": 60602500
     }
   ],
   "Milan, IT [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890219-05:00",
-      "ResponseTime": 402513375
+      "Timestamp": "2025-12-29T10:01:34.599788-05:00",
+      "ResponseTime": 553244958
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889193-05:00",
-      "ResponseTime": 384799750
+      "Timestamp": "2025-12-29T10:02:04.598351-05:00",
+      "ResponseTime": 458950875
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888662-05:00",
-      "ResponseTime": 401585916
+      "Timestamp": "2025-12-29T10:02:34.599754-05:00",
+      "ResponseTime": 409833333
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889466-05:00",
-      "ResponseTime": 402345417
+      "Timestamp": "2025-12-29T10:19:11.338814-05:00",
+      "ResponseTime": 406838250
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888428-05:00",
-      "ResponseTime": 601531625
+      "Timestamp": "2025-12-29T10:19:41.337806-05:00",
+      "ResponseTime": 418383125
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889485-05:00",
-      "ResponseTime": 400089917
+      "Timestamp": "2025-12-29T10:20:11.336851-05:00",
+      "ResponseTime": 410191709
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888542-05:00",
-      "ResponseTime": 392438125
+      "Timestamp": "2025-12-29T10:20:41.337474-05:00",
+      "ResponseTime": 376525167
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890917-05:00",
-      "ResponseTime": 396271625
+      "Timestamp": "2025-12-29T10:21:11.338132-05:00",
+      "ResponseTime": 409511291
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.18026-05:00",
-      "ResponseTime": 418787750
+      "Timestamp": "2025-12-29T10:21:41.337864-05:00",
+      "ResponseTime": 441663208
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178257-05:00",
-      "ResponseTime": 399425792
+      "Timestamp": "2025-12-29T10:22:11.337553-05:00",
+      "ResponseTime": 389212000
     }
   ],
   "Milan, IT [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890121-05:00",
-      "ResponseTime": 103551000
+      "Timestamp": "2025-12-29T10:01:34.599613-05:00",
+      "ResponseTime": 134005000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888399-05:00",
-      "ResponseTime": 103250000
+      "Timestamp": "2025-12-29T10:02:04.597763-05:00",
+      "ResponseTime": 132053000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888507-05:00",
-      "ResponseTime": 108360000
+      "Timestamp": "2025-12-29T10:02:34.59953-05:00",
+      "ResponseTime": 123197000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889715-05:00",
-      "ResponseTime": 103032000
+      "Timestamp": "2025-12-29T10:19:11.338685-05:00",
+      "ResponseTime": 100634000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888338-05:00",
-      "ResponseTime": 103525000
+      "Timestamp": "2025-12-29T10:19:41.337618-05:00",
+      "ResponseTime": 101958000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.88941-05:00",
-      "ResponseTime": 101790000
+      "Timestamp": "2025-12-29T10:20:11.336409-05:00",
+      "ResponseTime": 106273000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88838-05:00",
-      "ResponseTime": 102967000
+      "Timestamp": "2025-12-29T10:20:41.336686-05:00",
+      "ResponseTime": 120326000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890916-05:00",
-      "ResponseTime": 104446000
+      "Timestamp": "2025-12-29T10:21:11.338966-05:00",
+      "ResponseTime": 100665000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177407-05:00",
-      "ResponseTime": 101866000
+      "Timestamp": "2025-12-29T10:21:41.337783-05:00",
+      "ResponseTime": 105198000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181165-05:00",
-      "ResponseTime": 111609000
+      "Timestamp": "2025-12-29T10:22:11.337928-05:00",
+      "ResponseTime": 101503000
     }
   ],
   "Montreal, CA [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889015-05:00",
-      "ResponseTime": 114058583
+      "Timestamp": "2025-12-29T10:01:34.601484-05:00",
+      "ResponseTime": 70275292
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890418-05:00",
-      "ResponseTime": 65325875
+      "Timestamp": "2025-12-29T10:02:04.599614-05:00",
+      "ResponseTime": 63360416
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890443-05:00",
-      "ResponseTime": 88158125
+      "Timestamp": "2025-12-29T10:02:34.60442-05:00",
+      "ResponseTime": 107655792
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889752-05:00",
-      "ResponseTime": 84633791
+      "Timestamp": "2025-12-29T10:19:11.339579-05:00",
+      "ResponseTime": 77600875
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889039-05:00",
-      "ResponseTime": 82945667
+      "Timestamp": "2025-12-29T10:19:41.338532-05:00",
+      "ResponseTime": 79729916
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.89114-05:00",
-      "ResponseTime": 73857875
+      "Timestamp": "2025-12-29T10:20:11.338455-05:00",
+      "ResponseTime": 112578084
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88863-05:00",
-      "ResponseTime": 89352083
+      "Timestamp": "2025-12-29T10:20:41.338834-05:00",
+      "ResponseTime": 84612792
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890115-05:00",
-      "ResponseTime": 100955167
+      "Timestamp": "2025-12-29T10:21:11.338048-05:00",
+      "ResponseTime": 81523875
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180856-05:00",
-      "ResponseTime": 68182375
+      "Timestamp": "2025-12-29T10:21:41.339033-05:00",
+      "ResponseTime": 137524959
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.18089-05:00",
-      "ResponseTime": 52178125
+      "Timestamp": "2025-12-29T10:22:11.337769-05:00",
+      "ResponseTime": 82853708
     }
   ],
   "Montreal, CA [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.887836-05:00",
-      "ResponseTime": 159857125
+      "Timestamp": "2025-12-29T10:01:34.598627-05:00",
+      "ResponseTime": 213527916
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.887446-05:00",
-      "ResponseTime": 144001625
+      "Timestamp": "2025-12-29T10:02:04.597989-05:00",
+      "ResponseTime": 134916625
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.887825-05:00",
-      "ResponseTime": 143066083
+      "Timestamp": "2025-12-29T10:02:34.598808-05:00",
+      "ResponseTime": 191851750
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887737-05:00",
-      "ResponseTime": 144606375
+      "Timestamp": "2025-12-29T10:19:11.33485-05:00",
+      "ResponseTime": 157745833
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88778-05:00",
-      "ResponseTime": 132229583
+      "Timestamp": "2025-12-29T10:19:41.336493-05:00",
+      "ResponseTime": 156396833
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888026-05:00",
-      "ResponseTime": 148108834
+      "Timestamp": "2025-12-29T10:20:11.335605-05:00",
+      "ResponseTime": 187110958
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887617-05:00",
-      "ResponseTime": 158563209
+      "Timestamp": "2025-12-29T10:20:41.336724-05:00",
+      "ResponseTime": 158332833
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.888329-05:00",
-      "ResponseTime": 170580166
+      "Timestamp": "2025-12-29T10:21:11.337243-05:00",
+      "ResponseTime": 146974583
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177351-05:00",
-      "ResponseTime": 149102459
+      "Timestamp": "2025-12-29T10:21:41.337412-05:00",
+      "ResponseTime": 190428500
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178421-05:00",
-      "ResponseTime": 122508791
+      "Timestamp": "2025-12-29T10:22:11.337052-05:00",
+      "ResponseTime": 144592250
     }
   ],
   "Montreal, CA [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889158-05:00",
-      "ResponseTime": 17714000
+      "Timestamp": "2025-12-29T10:01:34.601554-05:00",
+      "ResponseTime": 37201000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890742-05:00",
-      "ResponseTime": 19474000
+      "Timestamp": "2025-12-29T10:02:04.599692-05:00",
+      "ResponseTime": 19014000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.89048-05:00",
-      "ResponseTime": 20176000
+      "Timestamp": "2025-12-29T10:02:34.604489-05:00",
+      "ResponseTime": 39304000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889789-05:00",
-      "ResponseTime": 20502000
+      "Timestamp": "2025-12-29T10:19:11.3396-05:00",
+      "ResponseTime": 18523000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889264-05:00",
-      "ResponseTime": 19552000
+      "Timestamp": "2025-12-29T10:19:41.338637-05:00",
+      "ResponseTime": 21004000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891147-05:00",
-      "ResponseTime": 19090000
+      "Timestamp": "2025-12-29T10:20:11.338936-05:00",
+      "ResponseTime": 19262000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888645-05:00",
-      "ResponseTime": 17968000
+      "Timestamp": "2025-12-29T10:20:41.33897-05:00",
+      "ResponseTime": 21551000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890724-05:00",
-      "ResponseTime": 18327000
+      "Timestamp": "2025-12-29T10:21:11.338188-05:00",
+      "ResponseTime": 17421000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181029-05:00",
-      "ResponseTime": 22827000
+      "Timestamp": "2025-12-29T10:21:41.339196-05:00",
+      "ResponseTime": 24261000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180898-05:00",
-      "ResponseTime": 20260000
+      "Timestamp": "2025-12-29T10:22:11.337855-05:00",
+      "ResponseTime": 18394000
     }
   ],
   "Mumbai (India)": [
@@ -1917,254 +1917,254 @@
   ],
   "Mumbai, IN [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890627-05:00",
-      "ResponseTime": 113691041
+      "Timestamp": "2025-12-29T10:01:34.599688-05:00",
+      "ResponseTime": 107875292
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888581-05:00",
-      "ResponseTime": 70580916
+      "Timestamp": "2025-12-29T10:02:04.599619-05:00",
+      "ResponseTime": 78710583
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890919-05:00",
-      "ResponseTime": 82202000
+      "Timestamp": "2025-12-29T10:02:34.599586-05:00",
+      "ResponseTime": 65771625
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888967-05:00",
-      "ResponseTime": 75130625
+      "Timestamp": "2025-12-29T10:19:11.33923-05:00",
+      "ResponseTime": 134492458
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889002-05:00",
-      "ResponseTime": 72323542
+      "Timestamp": "2025-12-29T10:19:41.337287-05:00",
+      "ResponseTime": 86264084
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889517-05:00",
-      "ResponseTime": 65581625
+      "Timestamp": "2025-12-29T10:20:11.33911-05:00",
+      "ResponseTime": 106666375
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888553-05:00",
-      "ResponseTime": 84540416
+      "Timestamp": "2025-12-29T10:20:41.337987-05:00",
+      "ResponseTime": 85036500
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890001-05:00",
-      "ResponseTime": 98851292
+      "Timestamp": "2025-12-29T10:21:11.339425-05:00",
+      "ResponseTime": 106142208
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180116-05:00",
-      "ResponseTime": 69824834
+      "Timestamp": "2025-12-29T10:21:41.339158-05:00",
+      "ResponseTime": 119513500
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181067-05:00",
-      "ResponseTime": 82639666
+      "Timestamp": "2025-12-29T10:22:11.337294-05:00",
+      "ResponseTime": 70625875
     }
   ],
   "Mumbai, IN [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890255-05:00",
-      "ResponseTime": 713067667
+      "Timestamp": "2025-12-29T10:01:34.599525-05:00",
+      "ResponseTime": 885705458
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889121-05:00",
-      "ResponseTime": 695290625
+      "Timestamp": "2025-12-29T10:02:04.599677-05:00",
+      "ResponseTime": 767874208
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890028-05:00",
-      "ResponseTime": 711452125
+      "Timestamp": "2025-12-29T10:02:34.600119-05:00",
+      "ResponseTime": 684401792
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889385-05:00",
-      "ResponseTime": 703416041
+      "Timestamp": "2025-12-29T10:19:11.339462-05:00",
+      "ResponseTime": 765438250
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888845-05:00",
-      "ResponseTime": 694601417
+      "Timestamp": "2025-12-29T10:19:41.337582-05:00",
+      "ResponseTime": 704390958
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.890174-05:00",
-      "ResponseTime": 731543667
+      "Timestamp": "2025-12-29T10:20:11.339225-05:00",
+      "ResponseTime": 721922875
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888555-05:00",
-      "ResponseTime": 700310791
+      "Timestamp": "2025-12-29T10:20:41.338541-05:00",
+      "ResponseTime": 705920209
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890725-05:00",
-      "ResponseTime": 707995042
+      "Timestamp": "2025-12-29T10:21:11.338388-05:00",
+      "ResponseTime": 714963417
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180328-05:00",
-      "ResponseTime": 709066167
+      "Timestamp": "2025-12-29T10:21:41.338921-05:00",
+      "ResponseTime": 759357750
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181082-05:00",
-      "ResponseTime": 700162458
+      "Timestamp": "2025-12-29T10:22:11.337463-05:00",
+      "ResponseTime": 673269375
     }
   ],
   "Mumbai, IN [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890754-05:00",
-      "ResponseTime": 202774000
+      "Timestamp": "2025-12-29T10:01:34.599492-05:00",
+      "ResponseTime": 258557000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.88875-05:00",
-      "ResponseTime": 199986000
+      "Timestamp": "2025-12-29T10:02:04.599681-05:00",
+      "ResponseTime": 220433000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891545-05:00",
-      "ResponseTime": 201150000
+      "Timestamp": "2025-12-29T10:02:34.600017-05:00",
+      "ResponseTime": 231484000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889092-05:00",
-      "ResponseTime": 204310000
+      "Timestamp": "2025-12-29T10:19:11.339371-05:00",
+      "ResponseTime": 206259000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888802-05:00",
-      "ResponseTime": 205420000
+      "Timestamp": "2025-12-29T10:19:41.33745-05:00",
+      "ResponseTime": 200802000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889653-05:00",
-      "ResponseTime": 200343000
+      "Timestamp": "2025-12-29T10:20:11.339211-05:00",
+      "ResponseTime": 217733000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888554-05:00",
-      "ResponseTime": 201691000
+      "Timestamp": "2025-12-29T10:20:41.338223-05:00",
+      "ResponseTime": 200507000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890072-05:00",
-      "ResponseTime": 197409000
+      "Timestamp": "2025-12-29T10:21:11.338347-05:00",
+      "ResponseTime": 192789000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180144-05:00",
-      "ResponseTime": 204682000
+      "Timestamp": "2025-12-29T10:21:41.339297-05:00",
+      "ResponseTime": 197692000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181075-05:00",
-      "ResponseTime": 201065000
+      "Timestamp": "2025-12-29T10:22:11.337371-05:00",
+      "ResponseTime": 219471000
     }
   ],
   "Osaka, JP [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888398-05:00",
-      "ResponseTime": 90026666
+      "Timestamp": "2025-12-29T10:01:34.601529-05:00",
+      "ResponseTime": 95962208
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890732-05:00",
-      "ResponseTime": 63938833
+      "Timestamp": "2025-12-29T10:02:04.599591-05:00",
+      "ResponseTime": 76708959
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889233-05:00",
-      "ResponseTime": 56939042
+      "Timestamp": "2025-12-29T10:02:34.600319-05:00",
+      "ResponseTime": 74299250
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888752-05:00",
-      "ResponseTime": 73037583
+      "Timestamp": "2025-12-29T10:19:11.338833-05:00",
+      "ResponseTime": 99061083
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888424-05:00",
-      "ResponseTime": 65177916
+      "Timestamp": "2025-12-29T10:19:41.33747-05:00",
+      "ResponseTime": 66896458
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891127-05:00",
-      "ResponseTime": 48041958
+      "Timestamp": "2025-12-29T10:20:11.33835-05:00",
+      "ResponseTime": 73989167
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888541-05:00",
-      "ResponseTime": 79764333
+      "Timestamp": "2025-12-29T10:20:41.338022-05:00",
+      "ResponseTime": 90282709
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890759-05:00",
-      "ResponseTime": 74689583
+      "Timestamp": "2025-12-29T10:21:11.339628-05:00",
+      "ResponseTime": 104196292
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180708-05:00",
-      "ResponseTime": 103086750
+      "Timestamp": "2025-12-29T10:21:41.338142-05:00",
+      "ResponseTime": 111980542
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180355-05:00",
-      "ResponseTime": 70396625
+      "Timestamp": "2025-12-29T10:22:11.337406-05:00",
+      "ResponseTime": 64446208
     }
   ],
   "Osaka, JP [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888146-05:00",
-      "ResponseTime": 637884917
+      "Timestamp": "2025-12-29T10:01:34.600872-05:00",
+      "ResponseTime": 751795583
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890714-05:00",
-      "ResponseTime": 638415875
+      "Timestamp": "2025-12-29T10:02:04.599602-05:00",
+      "ResponseTime": 650412666
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888853-05:00",
-      "ResponseTime": 669571167
+      "Timestamp": "2025-12-29T10:02:34.600068-05:00",
+      "ResponseTime": 654343958
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889068-05:00",
-      "ResponseTime": 658603042
+      "Timestamp": "2025-12-29T10:19:11.339167-05:00",
+      "ResponseTime": 683351125
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88874-05:00",
-      "ResponseTime": 643378916
+      "Timestamp": "2025-12-29T10:19:41.336938-05:00",
+      "ResponseTime": 651280584
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891121-05:00",
-      "ResponseTime": 642193625
+      "Timestamp": "2025-12-29T10:20:11.338734-05:00",
+      "ResponseTime": 680720458
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888543-05:00",
-      "ResponseTime": 671235000
+      "Timestamp": "2025-12-29T10:20:41.338607-05:00",
+      "ResponseTime": 686781709
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.89088-05:00",
-      "ResponseTime": 658370750
+      "Timestamp": "2025-12-29T10:21:11.338813-05:00",
+      "ResponseTime": 703689500
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180938-05:00",
-      "ResponseTime": 677599917
+      "Timestamp": "2025-12-29T10:21:41.338324-05:00",
+      "ResponseTime": 708508333
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180954-05:00",
-      "ResponseTime": 652954167
+      "Timestamp": "2025-12-29T10:22:11.337584-05:00",
+      "ResponseTime": 648809417
     }
   ],
   "Osaka, JP [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888525-05:00",
-      "ResponseTime": 187546000
+      "Timestamp": "2025-12-29T10:01:34.60168-05:00",
+      "ResponseTime": 215030000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890737-05:00",
-      "ResponseTime": 187455000
+      "Timestamp": "2025-12-29T10:02:04.599597-05:00",
+      "ResponseTime": 220433000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889496-05:00",
-      "ResponseTime": 190144000
+      "Timestamp": "2025-12-29T10:02:34.60061-05:00",
+      "ResponseTime": 208208000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888952-05:00",
-      "ResponseTime": 191226000
+      "Timestamp": "2025-12-29T10:19:11.339018-05:00",
+      "ResponseTime": 189527000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888541-05:00",
-      "ResponseTime": 193948000
+      "Timestamp": "2025-12-29T10:19:41.337552-05:00",
+      "ResponseTime": 191094000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891134-05:00",
-      "ResponseTime": 192120000
+      "Timestamp": "2025-12-29T10:20:11.338377-05:00",
+      "ResponseTime": 189290000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888542-05:00",
-      "ResponseTime": 188616000
+      "Timestamp": "2025-12-29T10:20:41.33828-05:00",
+      "ResponseTime": 185923000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.89086-05:00",
-      "ResponseTime": 196150000
+      "Timestamp": "2025-12-29T10:21:11.338736-05:00",
+      "ResponseTime": 188320000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180732-05:00",
-      "ResponseTime": 185339000
+      "Timestamp": "2025-12-29T10:21:41.33821-05:00",
+      "ResponseTime": 186387000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180682-05:00",
-      "ResponseTime": 191691000
+      "Timestamp": "2025-12-29T10:22:11.337504-05:00",
+      "ResponseTime": 189188000
     }
   ],
   "Paris (France)": [
@@ -2199,254 +2199,254 @@
   ],
   "Paris, FR [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888944-05:00",
-      "ResponseTime": 64709166
+      "Timestamp": "2025-12-29T10:01:34.599928-05:00",
+      "ResponseTime": 74310084
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889405-05:00",
-      "ResponseTime": 46007708
+      "Timestamp": "2025-12-29T10:02:04.598265-05:00",
+      "ResponseTime": 78231083
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889018-05:00",
-      "ResponseTime": 65755375
+      "Timestamp": "2025-12-29T10:02:34.600582-05:00",
+      "ResponseTime": 107951917
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888189-05:00",
-      "ResponseTime": 75547417
+      "Timestamp": "2025-12-29T10:19:11.334933-05:00",
+      "ResponseTime": 90283375
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888111-05:00",
-      "ResponseTime": 51288042
+      "Timestamp": "2025-12-29T10:19:41.337502-05:00",
+      "ResponseTime": 73907042
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888149-05:00",
-      "ResponseTime": 64547292
+      "Timestamp": "2025-12-29T10:20:11.337846-05:00",
+      "ResponseTime": 85488083
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887683-05:00",
-      "ResponseTime": 49688375
+      "Timestamp": "2025-12-29T10:20:41.339117-05:00",
+      "ResponseTime": 114027875
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.888266-05:00",
-      "ResponseTime": 75386625
+      "Timestamp": "2025-12-29T10:21:11.338315-05:00",
+      "ResponseTime": 106714000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180316-05:00",
-      "ResponseTime": 88954083
+      "Timestamp": "2025-12-29T10:21:41.338123-05:00",
+      "ResponseTime": 86595709
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180351-05:00",
-      "ResponseTime": 79988458
+      "Timestamp": "2025-12-29T10:22:11.337241-05:00",
+      "ResponseTime": 63625500
     }
   ],
   "Paris, FR [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890145-05:00",
-      "ResponseTime": 357757042
+      "Timestamp": "2025-12-29T10:01:34.599206-05:00",
+      "ResponseTime": 454197375
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888253-05:00",
-      "ResponseTime": 334127875
+      "Timestamp": "2025-12-29T10:02:04.599456-05:00",
+      "ResponseTime": 423876959
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889704-05:00",
-      "ResponseTime": 327586000
+      "Timestamp": "2025-12-29T10:02:34.602254-05:00",
+      "ResponseTime": 407384250
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.88856-05:00",
-      "ResponseTime": 324567542
+      "Timestamp": "2025-12-29T10:19:11.338693-05:00",
+      "ResponseTime": 351652792
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88777-05:00",
-      "ResponseTime": 328461333
+      "Timestamp": "2025-12-29T10:19:41.337827-05:00",
+      "ResponseTime": 366052375
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888479-05:00",
-      "ResponseTime": 333466500
+      "Timestamp": "2025-12-29T10:20:11.336147-05:00",
+      "ResponseTime": 384824417
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88842-05:00",
-      "ResponseTime": 316420541
+      "Timestamp": "2025-12-29T10:20:41.339281-05:00",
+      "ResponseTime": 378421917
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889552-05:00",
-      "ResponseTime": 352237917
+      "Timestamp": "2025-12-29T10:21:11.33883-05:00",
+      "ResponseTime": 374971958
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180605-05:00",
-      "ResponseTime": 352431542
+      "Timestamp": "2025-12-29T10:21:41.337885-05:00",
+      "ResponseTime": 358829250
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180906-05:00",
-      "ResponseTime": 352600166
+      "Timestamp": "2025-12-29T10:22:11.337408-05:00",
+      "ResponseTime": 377096125
     }
   ],
   "Paris, FR [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889099-05:00",
-      "ResponseTime": 88170000
+      "Timestamp": "2025-12-29T10:01:34.599933-05:00",
+      "ResponseTime": 116680000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.887667-05:00",
-      "ResponseTime": 88798000
+      "Timestamp": "2025-12-29T10:02:04.598503-05:00",
+      "ResponseTime": 112047000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889451-05:00",
-      "ResponseTime": 101424000
+      "Timestamp": "2025-12-29T10:02:34.601562-05:00",
+      "ResponseTime": 111720000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888304-05:00",
-      "ResponseTime": 87886000
+      "Timestamp": "2025-12-29T10:19:11.334803-05:00",
+      "ResponseTime": 85974000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888123-05:00",
-      "ResponseTime": 86194000
+      "Timestamp": "2025-12-29T10:19:41.337653-05:00",
+      "ResponseTime": 85755000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888399-05:00",
-      "ResponseTime": 85900000
+      "Timestamp": "2025-12-29T10:20:11.338064-05:00",
+      "ResponseTime": 102736000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888417-05:00",
-      "ResponseTime": 87321000
+      "Timestamp": "2025-12-29T10:20:41.339178-05:00",
+      "ResponseTime": 84327000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889306-05:00",
-      "ResponseTime": 91671000
+      "Timestamp": "2025-12-29T10:21:11.338675-05:00",
+      "ResponseTime": 88217000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180454-05:00",
-      "ResponseTime": 86305000
+      "Timestamp": "2025-12-29T10:21:41.337794-05:00",
+      "ResponseTime": 87247000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180913-05:00",
-      "ResponseTime": 91558000
+      "Timestamp": "2025-12-29T10:22:11.337321-05:00",
+      "ResponseTime": 84976000
     }
   ],
   "Portland, OR [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.88886-05:00",
-      "ResponseTime": 105376250
+      "Timestamp": "2025-12-29T10:01:34.60122-05:00",
+      "ResponseTime": 91270542
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890641-05:00",
-      "ResponseTime": 81281500
+      "Timestamp": "2025-12-29T10:02:04.599578-05:00",
+      "ResponseTime": 75190541
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889983-05:00",
-      "ResponseTime": 87063125
+      "Timestamp": "2025-12-29T10:02:34.604385-05:00",
+      "ResponseTime": 77492042
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889379-05:00",
-      "ResponseTime": 83884208
+      "Timestamp": "2025-12-29T10:19:11.339661-05:00",
+      "ResponseTime": 1149527708
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888552-05:00",
-      "ResponseTime": 82165583
+      "Timestamp": "2025-12-29T10:19:41.338301-05:00",
+      "ResponseTime": 101448000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.89107-05:00",
-      "ResponseTime": 76877709
+      "Timestamp": "2025-12-29T10:20:11.337666-05:00",
+      "ResponseTime": 111414875
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888629-05:00",
-      "ResponseTime": 87340250
+      "Timestamp": "2025-12-29T10:20:41.337991-05:00",
+      "ResponseTime": 98862667
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890372-05:00",
-      "ResponseTime": 87597750
+      "Timestamp": "2025-12-29T10:21:11.33795-05:00",
+      "ResponseTime": 105219000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180838-05:00",
-      "ResponseTime": 94161417
+      "Timestamp": "2025-12-29T10:21:41.3387-05:00",
+      "ResponseTime": 123550875
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180857-05:00",
-      "ResponseTime": 81202167
+      "Timestamp": "2025-12-29T10:22:11.337603-05:00",
+      "ResponseTime": 86235667
     }
   ],
   "Portland, OR [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889012-05:00",
-      "ResponseTime": 331703958
+      "Timestamp": "2025-12-29T10:01:34.601586-05:00",
+      "ResponseTime": 441119709
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890001-05:00",
-      "ResponseTime": 332355833
+      "Timestamp": "2025-12-29T10:02:04.599603-05:00",
+      "ResponseTime": 398319834
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890872-05:00",
-      "ResponseTime": 329192500
+      "Timestamp": "2025-12-29T10:02:34.603977-05:00",
+      "ResponseTime": 315868458
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.8896-05:00",
-      "ResponseTime": 311977208
+      "Timestamp": "2025-12-29T10:19:11.339562-05:00",
+      "ResponseTime": 1379822958
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88884-05:00",
-      "ResponseTime": 313583959
+      "Timestamp": "2025-12-29T10:19:41.338492-05:00",
+      "ResponseTime": 334620875
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891102-05:00",
-      "ResponseTime": 313055792
+      "Timestamp": "2025-12-29T10:20:11.338141-05:00",
+      "ResponseTime": 372103542
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888638-05:00",
-      "ResponseTime": 319573042
+      "Timestamp": "2025-12-29T10:20:41.338576-05:00",
+      "ResponseTime": 331593166
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889974-05:00",
-      "ResponseTime": 328001959
+      "Timestamp": "2025-12-29T10:21:11.337859-05:00",
+      "ResponseTime": 337154750
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181079-05:00",
-      "ResponseTime": 334575500
+      "Timestamp": "2025-12-29T10:21:41.338859-05:00",
+      "ResponseTime": 373597875
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180878-05:00",
-      "ResponseTime": 299041708
+      "Timestamp": "2025-12-29T10:22:11.337749-05:00",
+      "ResponseTime": 316825750
     }
   ],
   "Portland, OR [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889227-05:00",
-      "ResponseTime": 75414000
+      "Timestamp": "2025-12-29T10:01:34.601349-05:00",
+      "ResponseTime": 87578000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890725-05:00",
-      "ResponseTime": 75619000
+      "Timestamp": "2025-12-29T10:02:04.599608-05:00",
+      "ResponseTime": 103574000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890257-05:00",
-      "ResponseTime": 76709000
+      "Timestamp": "2025-12-29T10:02:34.603919-05:00",
+      "ResponseTime": 113502000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889492-05:00",
-      "ResponseTime": 75154000
+      "Timestamp": "2025-12-29T10:19:11.339698-05:00",
+      "ResponseTime": 74410000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888602-05:00",
-      "ResponseTime": 75325000
+      "Timestamp": "2025-12-29T10:19:41.338606-05:00",
+      "ResponseTime": 74617000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891077-05:00",
-      "ResponseTime": 74713000
+      "Timestamp": "2025-12-29T10:20:11.337823-05:00",
+      "ResponseTime": 76082000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888613-05:00",
-      "ResponseTime": 76691000
+      "Timestamp": "2025-12-29T10:20:41.338246-05:00",
+      "ResponseTime": 73636000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889954-05:00",
-      "ResponseTime": 74815000
+      "Timestamp": "2025-12-29T10:21:11.337743-05:00",
+      "ResponseTime": 75846000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181039-05:00",
-      "ResponseTime": 77001000
+      "Timestamp": "2025-12-29T10:21:41.338702-05:00",
+      "ResponseTime": 76039000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180869-05:00",
-      "ResponseTime": 73992000
+      "Timestamp": "2025-12-29T10:22:11.337689-05:00",
+      "ResponseTime": 74998000
     }
   ],
   "Pune (India)": [
@@ -2511,128 +2511,128 @@
   ],
   "Riyadh, SA [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890198-05:00",
-      "ResponseTime": 71134708
+      "Timestamp": "2025-12-29T10:01:34.600505-05:00",
+      "ResponseTime": 66955000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889019-05:00",
-      "ResponseTime": 64370375
+      "Timestamp": "2025-12-29T10:02:04.599629-05:00",
+      "ResponseTime": 72484750
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889958-05:00",
-      "ResponseTime": 61706333
+      "Timestamp": "2025-12-29T10:02:34.600038-05:00",
+      "ResponseTime": 56628500
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888285-05:00",
-      "ResponseTime": 82059792
+      "Timestamp": "2025-12-29T10:19:11.339318-05:00",
+      "ResponseTime": 118455542
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889198-05:00",
-      "ResponseTime": 76210791
+      "Timestamp": "2025-12-29T10:19:41.338198-05:00",
+      "ResponseTime": 85259333
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888912-05:00",
-      "ResponseTime": 59659542
+      "Timestamp": "2025-12-29T10:20:11.338246-05:00",
+      "ResponseTime": 95801334
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888109-05:00",
-      "ResponseTime": 49320459
+      "Timestamp": "2025-12-29T10:20:41.338827-05:00",
+      "ResponseTime": 80204875
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890878-05:00",
-      "ResponseTime": 72506834
+      "Timestamp": "2025-12-29T10:21:11.338759-05:00",
+      "ResponseTime": 104400458
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180415-05:00",
-      "ResponseTime": 83699417
+      "Timestamp": "2025-12-29T10:21:41.338421-05:00",
+      "ResponseTime": 121726916
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.18103-05:00",
-      "ResponseTime": 62368334
+      "Timestamp": "2025-12-29T10:22:11.337689-05:00",
+      "ResponseTime": 50582125
     }
   ],
   "Riyadh, SA [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890777-05:00",
-      "ResponseTime": 718695125
+      "Timestamp": "2025-12-29T10:01:34.59911-05:00",
+      "ResponseTime": 780916375
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888536-05:00",
-      "ResponseTime": 685426000
+      "Timestamp": "2025-12-29T10:02:04.599634-05:00",
+      "ResponseTime": 768416375
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890515-05:00",
-      "ResponseTime": 683880000
+      "Timestamp": "2025-12-29T10:02:34.599304-05:00",
+      "ResponseTime": 677550541
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888783-05:00",
-      "ResponseTime": 690351500
+      "Timestamp": "2025-12-29T10:19:11.339075-05:00",
+      "ResponseTime": 733064333
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888626-05:00",
-      "ResponseTime": 677964917
+      "Timestamp": "2025-12-29T10:19:41.336475-05:00",
+      "ResponseTime": 706943375
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889325-05:00",
-      "ResponseTime": 688706541
+      "Timestamp": "2025-12-29T10:20:11.338948-05:00",
+      "ResponseTime": 722286417
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888502-05:00",
-      "ResponseTime": 676884958
+      "Timestamp": "2025-12-29T10:20:41.337468-05:00",
+      "ResponseTime": 712664791
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.891036-05:00",
-      "ResponseTime": 707208000
+      "Timestamp": "2025-12-29T10:21:11.339205-05:00",
+      "ResponseTime": 718012791
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180615-05:00",
-      "ResponseTime": 969157333
+      "Timestamp": "2025-12-29T10:21:41.338785-05:00",
+      "ResponseTime": 724238208
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181059-05:00",
-      "ResponseTime": 696116542
+      "Timestamp": "2025-12-29T10:22:11.337142-05:00",
+      "ResponseTime": 683845916
     }
   ],
   "Riyadh, SA [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890578-05:00",
-      "ResponseTime": 206716000
+      "Timestamp": "2025-12-29T10:01:34.599068-05:00",
+      "ResponseTime": 246134000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889151-05:00",
-      "ResponseTime": 202268000
+      "Timestamp": "2025-12-29T10:02:04.599634-05:00",
+      "ResponseTime": 225573000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890358-05:00",
-      "ResponseTime": 207363000
+      "Timestamp": "2025-12-29T10:02:34.599258-05:00",
+      "ResponseTime": 237719000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888522-05:00",
-      "ResponseTime": 201447000
+      "Timestamp": "2025-12-29T10:19:11.33903-05:00",
+      "ResponseTime": 200707000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888439-05:00",
-      "ResponseTime": 203589000
+      "Timestamp": "2025-12-29T10:19:41.338248-05:00",
+      "ResponseTime": 203791000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889187-05:00",
-      "ResponseTime": 207462000
+      "Timestamp": "2025-12-29T10:20:11.338472-05:00",
+      "ResponseTime": 204379000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888397-05:00",
-      "ResponseTime": 204036000
+      "Timestamp": "2025-12-29T10:20:41.337044-05:00",
+      "ResponseTime": 202858000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.891034-05:00",
-      "ResponseTime": 207340000
+      "Timestamp": "2025-12-29T10:21:11.338952-05:00",
+      "ResponseTime": 204773000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180544-05:00",
-      "ResponseTime": 203832000
+      "Timestamp": "2025-12-29T10:21:41.33858-05:00",
+      "ResponseTime": 219130000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181038-05:00",
-      "ResponseTime": 202519000
+      "Timestamp": "2025-12-29T10:22:11.337707-05:00",
+      "ResponseTime": 201423000
     }
   ],
   "Router": [
@@ -2697,254 +2697,254 @@
   ],
   "San Jose, CA [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888243-05:00",
-      "ResponseTime": 61126042
+      "Timestamp": "2025-12-29T10:01:34.601557-05:00",
+      "ResponseTime": 79142959
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890663-05:00",
-      "ResponseTime": 82312375
+      "Timestamp": "2025-12-29T10:02:04.599591-05:00",
+      "ResponseTime": 69610333
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891011-05:00",
-      "ResponseTime": 93500125
+      "Timestamp": "2025-12-29T10:02:34.602061-05:00",
+      "ResponseTime": 78471917
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889779-05:00",
-      "ResponseTime": 73546917
+      "Timestamp": "2025-12-29T10:19:11.339299-05:00",
+      "ResponseTime": 123450500
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888981-05:00",
-      "ResponseTime": 281467500
+      "Timestamp": "2025-12-29T10:19:41.337962-05:00",
+      "ResponseTime": 100752208
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.89105-05:00",
-      "ResponseTime": 76314709
+      "Timestamp": "2025-12-29T10:20:11.336366-05:00",
+      "ResponseTime": 114702250
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888609-05:00",
-      "ResponseTime": 79626917
+      "Timestamp": "2025-12-29T10:20:41.338874-05:00",
+      "ResponseTime": 88618875
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890917-05:00",
-      "ResponseTime": 81270583
+      "Timestamp": "2025-12-29T10:21:11.337694-05:00",
+      "ResponseTime": 98402417
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181129-05:00",
-      "ResponseTime": 92527750
+      "Timestamp": "2025-12-29T10:21:41.338903-05:00",
+      "ResponseTime": 125171583
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180828-05:00",
-      "ResponseTime": 90888917
+      "Timestamp": "2025-12-29T10:22:11.337698-05:00",
+      "ResponseTime": 78795125
     }
   ],
   "San Jose, CA [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888439-05:00",
-      "ResponseTime": 297300167
+      "Timestamp": "2025-12-29T10:01:34.601045-05:00",
+      "ResponseTime": 440822208
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889364-05:00",
-      "ResponseTime": 341673542
+      "Timestamp": "2025-12-29T10:02:04.599598-05:00",
+      "ResponseTime": 397128000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889691-05:00",
-      "ResponseTime": 325898250
+      "Timestamp": "2025-12-29T10:02:34.604296-05:00",
+      "ResponseTime": 315623917
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889072-05:00",
-      "ResponseTime": 312503958
+      "Timestamp": "2025-12-29T10:19:11.339712-05:00",
+      "ResponseTime": 371210792
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889286-05:00",
-      "ResponseTime": 535241875
+      "Timestamp": "2025-12-29T10:19:41.338112-05:00",
+      "ResponseTime": 359766792
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891063-05:00",
-      "ResponseTime": 311140416
+      "Timestamp": "2025-12-29T10:20:11.337324-05:00",
+      "ResponseTime": 353975125
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888623-05:00",
-      "ResponseTime": 321398458
+      "Timestamp": "2025-12-29T10:20:41.337813-05:00",
+      "ResponseTime": 318836917
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890028-05:00",
-      "ResponseTime": 327913125
+      "Timestamp": "2025-12-29T10:21:11.337802-05:00",
+      "ResponseTime": 349860458
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180757-05:00",
-      "ResponseTime": 330487958
+      "Timestamp": "2025-12-29T10:21:41.339057-05:00",
+      "ResponseTime": 358406584
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180848-05:00",
-      "ResponseTime": 322663500
+      "Timestamp": "2025-12-29T10:22:11.337809-05:00",
+      "ResponseTime": 330566792
     }
   ],
   "San Jose, CA [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888298-05:00",
-      "ResponseTime": 79091000
+      "Timestamp": "2025-12-29T10:01:34.600986-05:00",
+      "ResponseTime": 102579000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889348-05:00",
-      "ResponseTime": 77434000
+      "Timestamp": "2025-12-29T10:02:04.599593-05:00",
+      "ResponseTime": 106151000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891583-05:00",
-      "ResponseTime": 76423000
+      "Timestamp": "2025-12-29T10:02:34.604526-05:00",
+      "ResponseTime": 114545000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889039-05:00",
-      "ResponseTime": 75697000
+      "Timestamp": "2025-12-29T10:19:11.33944-05:00",
+      "ResponseTime": 75893000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889243-05:00",
-      "ResponseTime": 75411000
+      "Timestamp": "2025-12-29T10:19:41.338012-05:00",
+      "ResponseTime": 74811000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891057-05:00",
-      "ResponseTime": 75052000
+      "Timestamp": "2025-12-29T10:20:11.336663-05:00",
+      "ResponseTime": 75454000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888612-05:00",
-      "ResponseTime": 78008000
+      "Timestamp": "2025-12-29T10:20:41.339026-05:00",
+      "ResponseTime": 77355000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889903-05:00",
-      "ResponseTime": 75475000
+      "Timestamp": "2025-12-29T10:21:11.337727-05:00",
+      "ResponseTime": 76453000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181227-05:00",
-      "ResponseTime": 75565000
+      "Timestamp": "2025-12-29T10:21:41.339047-05:00",
+      "ResponseTime": 76510000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.18084-05:00",
-      "ResponseTime": 78248000
+      "Timestamp": "2025-12-29T10:22:11.337751-05:00",
+      "ResponseTime": 76475000
     }
   ],
   "Seoul, KR [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888897-05:00",
-      "ResponseTime": 83219500
+      "Timestamp": "2025-12-29T10:01:34.601098-05:00",
+      "ResponseTime": 94424167
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889916-05:00",
-      "ResponseTime": 87492375
+      "Timestamp": "2025-12-29T10:02:04.59967-05:00",
+      "ResponseTime": 58825291
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889663-05:00",
-      "ResponseTime": 82510166
+      "Timestamp": "2025-12-29T10:02:34.601274-05:00",
+      "ResponseTime": 52384958
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888002-05:00",
-      "ResponseTime": 42982042
+      "Timestamp": "2025-12-29T10:19:11.339569-05:00",
+      "ResponseTime": 64090792
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887896-05:00",
-      "ResponseTime": 77751542
+      "Timestamp": "2025-12-29T10:19:41.33726-05:00",
+      "ResponseTime": 98680708
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889295-05:00",
-      "ResponseTime": 75610000
+      "Timestamp": "2025-12-29T10:20:11.338438-05:00",
+      "ResponseTime": 109202875
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888535-05:00",
-      "ResponseTime": 75235084
+      "Timestamp": "2025-12-29T10:20:41.339602-05:00",
+      "ResponseTime": 88536958
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889914-05:00",
-      "ResponseTime": 101016292
+      "Timestamp": "2025-12-29T10:21:11.338881-05:00",
+      "ResponseTime": 117141000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181049-05:00",
-      "ResponseTime": 88653791
+      "Timestamp": "2025-12-29T10:21:41.338387-05:00",
+      "ResponseTime": 129005084
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.18126-05:00",
-      "ResponseTime": 78160541
+      "Timestamp": "2025-12-29T10:22:11.336992-05:00",
+      "ResponseTime": 64233959
     }
   ],
   "Seoul, KR [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888107-05:00",
-      "ResponseTime": 764595584
+      "Timestamp": "2025-12-29T10:01:34.601346-05:00",
+      "ResponseTime": 883844583
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890732-05:00",
-      "ResponseTime": 715746208
+      "Timestamp": "2025-12-29T10:02:04.598445-05:00",
+      "ResponseTime": 771076167
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888815-05:00",
-      "ResponseTime": 734935125
+      "Timestamp": "2025-12-29T10:02:34.599951-05:00",
+      "ResponseTime": 699332667
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888449-05:00",
-      "ResponseTime": 687241916
+      "Timestamp": "2025-12-29T10:19:11.338662-05:00",
+      "ResponseTime": 712461167
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888162-05:00",
-      "ResponseTime": 721558000
+      "Timestamp": "2025-12-29T10:19:41.337663-05:00",
+      "ResponseTime": 755052042
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889491-05:00",
-      "ResponseTime": 732303833
+      "Timestamp": "2025-12-29T10:20:11.338998-05:00",
+      "ResponseTime": 760687458
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888537-05:00",
-      "ResponseTime": 735808708
+      "Timestamp": "2025-12-29T10:20:41.33731-05:00",
+      "ResponseTime": 727896917
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890127-05:00",
-      "ResponseTime": 736527000
+      "Timestamp": "2025-12-29T10:21:11.339326-05:00",
+      "ResponseTime": 756659375
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181213-05:00",
-      "ResponseTime": 765123166
+      "Timestamp": "2025-12-29T10:21:41.338529-05:00",
+      "ResponseTime": 798674000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.178652-05:00",
-      "ResponseTime": 735244334
+      "Timestamp": "2025-12-29T10:22:11.337288-05:00",
+      "ResponseTime": 710691667
     }
   ],
   "Seoul, KR [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888073-05:00",
-      "ResponseTime": 212040000
+      "Timestamp": "2025-12-29T10:01:34.601192-05:00",
+      "ResponseTime": 233913000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890655-05:00",
-      "ResponseTime": 213376000
+      "Timestamp": "2025-12-29T10:02:04.599698-05:00",
+      "ResponseTime": 237388000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.88859-05:00",
-      "ResponseTime": 217024000
+      "Timestamp": "2025-12-29T10:02:34.599946-05:00",
+      "ResponseTime": 230694000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888244-05:00",
-      "ResponseTime": 214996000
+      "Timestamp": "2025-12-29T10:19:11.336717-05:00",
+      "ResponseTime": 213056000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888054-05:00",
-      "ResponseTime": 214224000
+      "Timestamp": "2025-12-29T10:19:41.337414-05:00",
+      "ResponseTime": 215456000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889413-05:00",
-      "ResponseTime": 212877000
+      "Timestamp": "2025-12-29T10:20:11.338838-05:00",
+      "ResponseTime": 214676000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888536-05:00",
-      "ResponseTime": 216288000
+      "Timestamp": "2025-12-29T10:20:41.336965-05:00",
+      "ResponseTime": 215283000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890024-05:00",
-      "ResponseTime": 212987000
+      "Timestamp": "2025-12-29T10:21:11.339035-05:00",
+      "ResponseTime": 218952000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.1812-05:00",
-      "ResponseTime": 211793000
+      "Timestamp": "2025-12-29T10:21:41.338412-05:00",
+      "ResponseTime": 213279000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181267-05:00",
-      "ResponseTime": 219507000
+      "Timestamp": "2025-12-29T10:22:11.337206-05:00",
+      "ResponseTime": 215136000
     }
   ],
   "Singapore (Singapore)": [
@@ -2979,254 +2979,254 @@
   ],
   "Singapore, SG [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890544-05:00",
-      "ResponseTime": 86749125
+      "Timestamp": "2025-12-29T10:01:34.599901-05:00",
+      "ResponseTime": 91974083
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.887588-05:00",
-      "ResponseTime": 89894125
+      "Timestamp": "2025-12-29T10:02:04.599643-05:00",
+      "ResponseTime": 59329125
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890821-05:00",
-      "ResponseTime": 92824000
+      "Timestamp": "2025-12-29T10:02:34.600636-05:00",
+      "ResponseTime": 111002875
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887715-05:00",
-      "ResponseTime": 72708958
+      "Timestamp": "2025-12-29T10:19:11.339278-05:00",
+      "ResponseTime": 107043000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888907-05:00",
-      "ResponseTime": 284106083
+      "Timestamp": "2025-12-29T10:19:41.338554-05:00",
+      "ResponseTime": 99891000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889391-05:00",
-      "ResponseTime": 59200542
+      "Timestamp": "2025-12-29T10:20:11.339214-05:00",
+      "ResponseTime": 90559917
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888563-05:00",
-      "ResponseTime": 83505792
+      "Timestamp": "2025-12-29T10:20:41.337675-05:00",
+      "ResponseTime": 85704042
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890838-05:00",
-      "ResponseTime": 93564167
+      "Timestamp": "2025-12-29T10:21:11.33928-05:00",
+      "ResponseTime": 116786000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180433-05:00",
-      "ResponseTime": 43928667
+      "Timestamp": "2025-12-29T10:21:41.338177-05:00",
+      "ResponseTime": 123304042
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181195-05:00",
-      "ResponseTime": 75484334
+      "Timestamp": "2025-12-29T10:22:11.337886-05:00",
+      "ResponseTime": 81119125
     }
   ],
   "Singapore, SG [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.887983-05:00",
-      "ResponseTime": 830927375
+      "Timestamp": "2025-12-29T10:01:34.599103-05:00",
+      "ResponseTime": 885993416
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888211-05:00",
-      "ResponseTime": 830382125
+      "Timestamp": "2025-12-29T10:02:04.59968-05:00",
+      "ResponseTime": 799680084
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.887912-05:00",
-      "ResponseTime": 855600291
+      "Timestamp": "2025-12-29T10:02:34.599455-05:00",
+      "ResponseTime": 939894125
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888585-05:00",
-      "ResponseTime": 820946167
+      "Timestamp": "2025-12-29T10:19:11.339329-05:00",
+      "ResponseTime": 842743000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889143-05:00",
-      "ResponseTime": 1021170750
+      "Timestamp": "2025-12-29T10:19:41.33832-05:00",
+      "ResponseTime": 852554584
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889043-05:00",
-      "ResponseTime": 849259833
+      "Timestamp": "2025-12-29T10:20:11.336173-05:00",
+      "ResponseTime": 849449958
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888564-05:00",
-      "ResponseTime": 822289125
+      "Timestamp": "2025-12-29T10:20:41.338124-05:00",
+      "ResponseTime": 830709375
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890924-05:00",
-      "ResponseTime": 835960833
+      "Timestamp": "2025-12-29T10:21:11.337468-05:00",
+      "ResponseTime": 858436750
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177414-05:00",
-      "ResponseTime": 781954125
+      "Timestamp": "2025-12-29T10:21:41.338329-05:00",
+      "ResponseTime": 868822417
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181209-05:00",
-      "ResponseTime": 811292958
+      "Timestamp": "2025-12-29T10:22:11.337318-05:00",
+      "ResponseTime": 809159667
     }
   ],
   "Singapore, SG [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890693-05:00",
-      "ResponseTime": 240400000
+      "Timestamp": "2025-12-29T10:01:34.598804-05:00",
+      "ResponseTime": 307924000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.887655-05:00",
-      "ResponseTime": 242819000
+      "Timestamp": "2025-12-29T10:02:04.599648-05:00",
+      "ResponseTime": 250306000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891388-05:00",
-      "ResponseTime": 242787000
+      "Timestamp": "2025-12-29T10:02:34.598996-05:00",
+      "ResponseTime": 284813000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887971-05:00",
-      "ResponseTime": 245827000
+      "Timestamp": "2025-12-29T10:19:11.339471-05:00",
+      "ResponseTime": 240842000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889106-05:00",
-      "ResponseTime": 241899000
+      "Timestamp": "2025-12-29T10:19:41.338296-05:00",
+      "ResponseTime": 242676000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889527-05:00",
-      "ResponseTime": 249870000
+      "Timestamp": "2025-12-29T10:20:11.335715-05:00",
+      "ResponseTime": 242796000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888564-05:00",
-      "ResponseTime": 243502000
+      "Timestamp": "2025-12-29T10:20:41.337937-05:00",
+      "ResponseTime": 240853000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890856-05:00",
-      "ResponseTime": 238777000
+      "Timestamp": "2025-12-29T10:21:11.339536-05:00",
+      "ResponseTime": 243600000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180583-05:00",
-      "ResponseTime": 241568000
+      "Timestamp": "2025-12-29T10:21:41.3382-05:00",
+      "ResponseTime": 240328000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181202-05:00",
-      "ResponseTime": 244053000
+      "Timestamp": "2025-12-29T10:22:11.337195-05:00",
+      "ResponseTime": 244188000
     }
   ],
   "Stockholm, SE [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.889349-05:00",
-      "ResponseTime": 81928250
+      "Timestamp": "2025-12-29T10:01:34.600071-05:00",
+      "ResponseTime": 74721333
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.88833-05:00",
-      "ResponseTime": 57096958
+      "Timestamp": "2025-12-29T10:02:04.598552-05:00",
+      "ResponseTime": 56388792
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890424-05:00",
-      "ResponseTime": 63818041
+      "Timestamp": "2025-12-29T10:02:34.601646-05:00",
+      "ResponseTime": 76382541
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888798-05:00",
-      "ResponseTime": 64681708
+      "Timestamp": "2025-12-29T10:19:11.338635-05:00",
+      "ResponseTime": 82850750
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888072-05:00",
-      "ResponseTime": 65597875
+      "Timestamp": "2025-12-29T10:19:41.336641-05:00",
+      "ResponseTime": 83000417
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889449-05:00",
-      "ResponseTime": 60500333
+      "Timestamp": "2025-12-29T10:20:11.337341-05:00",
+      "ResponseTime": 76842875
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888575-05:00",
-      "ResponseTime": 48065583
+      "Timestamp": "2025-12-29T10:20:41.338798-05:00",
+      "ResponseTime": 90862875
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889981-05:00",
-      "ResponseTime": 75885209
+      "Timestamp": "2025-12-29T10:21:11.338803-05:00",
+      "ResponseTime": 116493625
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180572-05:00",
-      "ResponseTime": 81432125
+      "Timestamp": "2025-12-29T10:21:41.337368-05:00",
+      "ResponseTime": 107813500
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181141-05:00",
-      "ResponseTime": 56831042
+      "Timestamp": "2025-12-29T10:22:11.337669-05:00",
+      "ResponseTime": 72051625
     }
   ],
   "Stockholm, SE [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890332-05:00",
-      "ResponseTime": 428466084
+      "Timestamp": "2025-12-29T10:01:34.598901-05:00",
+      "ResponseTime": 554178833
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.887686-05:00",
-      "ResponseTime": 380884875
+      "Timestamp": "2025-12-29T10:02:04.599567-05:00",
+      "ResponseTime": 457418291
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.891018-05:00",
-      "ResponseTime": 387473542
+      "Timestamp": "2025-12-29T10:02:34.599095-05:00",
+      "ResponseTime": 410449250
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.88912-05:00",
-      "ResponseTime": 395654709
+      "Timestamp": "2025-12-29T10:19:11.338719-05:00",
+      "ResponseTime": 393894167
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888006-05:00",
-      "ResponseTime": 372107458
+      "Timestamp": "2025-12-29T10:19:41.337234-05:00",
+      "ResponseTime": 403895708
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.890292-05:00",
-      "ResponseTime": 393214625
+      "Timestamp": "2025-12-29T10:20:11.335775-05:00",
+      "ResponseTime": 410468916
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887827-05:00",
-      "ResponseTime": 379173917
+      "Timestamp": "2025-12-29T10:20:41.339017-05:00",
+      "ResponseTime": 407663083
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890581-05:00",
-      "ResponseTime": 393323875
+      "Timestamp": "2025-12-29T10:21:11.338547-05:00",
+      "ResponseTime": 432541417
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180726-05:00",
-      "ResponseTime": 413801417
+      "Timestamp": "2025-12-29T10:21:41.337506-05:00",
+      "ResponseTime": 425652750
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181154-05:00",
-      "ResponseTime": 383462042
+      "Timestamp": "2025-12-29T10:22:11.337832-05:00",
+      "ResponseTime": 389288417
     }
   ],
   "Stockholm, SE [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.890175-05:00",
-      "ResponseTime": 115096000
+      "Timestamp": "2025-12-29T10:01:34.600163-05:00",
+      "ResponseTime": 117176000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.88764-05:00",
-      "ResponseTime": 103002000
+      "Timestamp": "2025-12-29T10:02:04.598871-05:00",
+      "ResponseTime": 130178000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.890621-05:00",
-      "ResponseTime": 114970000
+      "Timestamp": "2025-12-29T10:02:34.602423-05:00",
+      "ResponseTime": 144860000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888977-05:00",
-      "ResponseTime": 104412000
+      "Timestamp": "2025-12-29T10:19:11.338682-05:00",
+      "ResponseTime": 102511000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887708-05:00",
-      "ResponseTime": 103662000
+      "Timestamp": "2025-12-29T10:19:41.337134-05:00",
+      "ResponseTime": 104881000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.889567-05:00",
-      "ResponseTime": 103804000
+      "Timestamp": "2025-12-29T10:20:11.337641-05:00",
+      "ResponseTime": 105186000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887804-05:00",
-      "ResponseTime": 101437000
+      "Timestamp": "2025-12-29T10:20:41.33893-05:00",
+      "ResponseTime": 103471000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890449-05:00",
-      "ResponseTime": 116802000
+      "Timestamp": "2025-12-29T10:21:11.338907-05:00",
+      "ResponseTime": 104165000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180713-05:00",
-      "ResponseTime": 101993000
+      "Timestamp": "2025-12-29T10:21:41.337493-05:00",
+      "ResponseTime": 107170000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181111-05:00",
-      "ResponseTime": 104440000
+      "Timestamp": "2025-12-29T10:22:11.337744-05:00",
+      "ResponseTime": 103579000
     }
   ],
   "Sydney (Australia)": [
@@ -3261,128 +3261,128 @@
   ],
   "Sydney, AU [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888374-05:00",
-      "ResponseTime": 75562833
+      "Timestamp": "2025-12-29T10:01:34.60089-05:00",
+      "ResponseTime": 134873334
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890741-05:00",
-      "ResponseTime": 65232333
+      "Timestamp": "2025-12-29T10:02:04.599607-05:00",
+      "ResponseTime": 62875416
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889435-05:00",
-      "ResponseTime": 94161250
+      "Timestamp": "2025-12-29T10:02:34.600152-05:00",
+      "ResponseTime": 64665292
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889239-05:00",
-      "ResponseTime": 71121125
+      "Timestamp": "2025-12-29T10:19:11.339307-05:00",
+      "ResponseTime": 151816625
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88896-05:00",
-      "ResponseTime": 285975958
+      "Timestamp": "2025-12-29T10:19:41.337121-05:00",
+      "ResponseTime": 80839584
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891141-05:00",
-      "ResponseTime": 78077916
+      "Timestamp": "2025-12-29T10:20:11.338981-05:00",
+      "ResponseTime": 96478334
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888548-05:00",
-      "ResponseTime": 75125459
+      "Timestamp": "2025-12-29T10:20:41.338854-05:00",
+      "ResponseTime": 98286042
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890884-05:00",
-      "ResponseTime": 88062792
+      "Timestamp": "2025-12-29T10:21:11.339049-05:00",
+      "ResponseTime": 112222209
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181068-05:00",
-      "ResponseTime": 61613125
+      "Timestamp": "2025-12-29T10:21:41.338458-05:00",
+      "ResponseTime": 125499583
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180961-05:00",
-      "ResponseTime": 88232083
+      "Timestamp": "2025-12-29T10:22:11.337683-05:00",
+      "ResponseTime": 83835167
     }
   ],
   "Sydney, AU [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888713-05:00",
-      "ResponseTime": 764792417
+      "Timestamp": "2025-12-29T10:01:34.601258-05:00",
+      "ResponseTime": 883965041
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890744-05:00",
-      "ResponseTime": 713444625
+      "Timestamp": "2025-12-29T10:02:04.599586-05:00",
+      "ResponseTime": 769307875
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889312-05:00",
-      "ResponseTime": 720467875
+      "Timestamp": "2025-12-29T10:02:34.600529-05:00",
+      "ResponseTime": 706760334
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.887816-05:00",
-      "ResponseTime": 719394834
+      "Timestamp": "2025-12-29T10:19:11.339649-05:00",
+      "ResponseTime": 799326750
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.88937-05:00",
-      "ResponseTime": 928770334
+      "Timestamp": "2025-12-29T10:19:41.337391-05:00",
+      "ResponseTime": 731494625
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.890731-05:00",
-      "ResponseTime": 725491416
+      "Timestamp": "2025-12-29T10:20:11.339065-05:00",
+      "ResponseTime": 752248166
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88855-05:00",
-      "ResponseTime": 729728250
+      "Timestamp": "2025-12-29T10:20:41.339121-05:00",
+      "ResponseTime": 731111625
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890839-05:00",
-      "ResponseTime": 733715542
+      "Timestamp": "2025-12-29T10:21:11.339571-05:00",
+      "ResponseTime": 767579458
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.181091-05:00",
-      "ResponseTime": 707830333
+      "Timestamp": "2025-12-29T10:21:41.338882-05:00",
+      "ResponseTime": 784624708
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180975-05:00",
-      "ResponseTime": 716419583
+      "Timestamp": "2025-12-29T10:22:11.337839-05:00",
+      "ResponseTime": 727482833
     }
   ],
   "Sydney, AU [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888496-05:00",
-      "ResponseTime": 209953000
+      "Timestamp": "2025-12-29T10:01:34.601127-05:00",
+      "ResponseTime": 247374000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.890737-05:00",
-      "ResponseTime": 210526000
+      "Timestamp": "2025-12-29T10:02:04.599612-05:00",
+      "ResponseTime": 236828000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888992-05:00",
-      "ResponseTime": 210455000
+      "Timestamp": "2025-12-29T10:02:34.600259-05:00",
+      "ResponseTime": 230847000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889365-05:00",
-      "ResponseTime": 212630000
+      "Timestamp": "2025-12-29T10:19:11.339521-05:00",
+      "ResponseTime": 208050000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889224-05:00",
-      "ResponseTime": 210811000
+      "Timestamp": "2025-12-29T10:19:41.33722-05:00",
+      "ResponseTime": 211882000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.891156-05:00",
-      "ResponseTime": 211668000
+      "Timestamp": "2025-12-29T10:20:11.339021-05:00",
+      "ResponseTime": 211293000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888549-05:00",
-      "ResponseTime": 212651000
+      "Timestamp": "2025-12-29T10:20:41.339-05:00",
+      "ResponseTime": 212504000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890885-05:00",
-      "ResponseTime": 209204000
+      "Timestamp": "2025-12-29T10:21:11.33933-05:00",
+      "ResponseTime": 211023000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180963-05:00",
-      "ResponseTime": 211174000
+      "Timestamp": "2025-12-29T10:21:41.338751-05:00",
+      "ResponseTime": 213598000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180968-05:00",
-      "ResponseTime": 211060000
+      "Timestamp": "2025-12-29T10:22:11.337762-05:00",
+      "ResponseTime": 212584000
     }
   ],
   "São Paulo (Brazil)": [
@@ -3417,128 +3417,128 @@
   ],
   "São Paulo, BR [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888297-05:00",
-      "ResponseTime": 114655916
+      "Timestamp": "2025-12-29T10:01:34.599973-05:00",
+      "ResponseTime": 99164625
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888651-05:00",
-      "ResponseTime": 73915917
+      "Timestamp": "2025-12-29T10:02:04.598248-05:00",
+      "ResponseTime": 64742333
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888163-05:00",
-      "ResponseTime": 83719500
+      "Timestamp": "2025-12-29T10:02:34.599969-05:00",
+      "ResponseTime": 65678291
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888889-05:00",
-      "ResponseTime": 74844917
+      "Timestamp": "2025-12-29T10:19:11.334935-05:00",
+      "ResponseTime": 59057125
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888347-05:00",
-      "ResponseTime": 74487542
+      "Timestamp": "2025-12-29T10:19:41.336888-05:00",
+      "ResponseTime": 89510166
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.88883-05:00",
-      "ResponseTime": 83134167
+      "Timestamp": "2025-12-29T10:20:11.337521-05:00",
+      "ResponseTime": 68267375
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.88771-05:00",
-      "ResponseTime": 72358334
+      "Timestamp": "2025-12-29T10:20:41.338588-05:00",
+      "ResponseTime": 101809750
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.888341-05:00",
-      "ResponseTime": 88009459
+      "Timestamp": "2025-12-29T10:21:11.337726-05:00",
+      "ResponseTime": 115424416
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.177294-05:00",
-      "ResponseTime": 43645625
+      "Timestamp": "2025-12-29T10:21:41.337857-05:00",
+      "ResponseTime": 136211542
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.18093-05:00",
-      "ResponseTime": 64834583
+      "Timestamp": "2025-12-29T10:22:11.337502-05:00",
+      "ResponseTime": 65594834
     }
   ],
   "São Paulo, BR [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888622-05:00",
-      "ResponseTime": 476295667
+      "Timestamp": "2025-12-29T10:01:34.599683-05:00",
+      "ResponseTime": 553359459
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889247-05:00",
-      "ResponseTime": 478922041
+      "Timestamp": "2025-12-29T10:02:04.597746-05:00",
+      "ResponseTime": 520074917
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888695-05:00",
-      "ResponseTime": 466621167
+      "Timestamp": "2025-12-29T10:02:34.600216-05:00",
+      "ResponseTime": 533708709
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889287-05:00",
-      "ResponseTime": 471897000
+      "Timestamp": "2025-12-29T10:19:11.334915-05:00",
+      "ResponseTime": 445281584
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887946-05:00",
-      "ResponseTime": 443648125
+      "Timestamp": "2025-12-29T10:19:41.337036-05:00",
+      "ResponseTime": 465049292
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888243-05:00",
-      "ResponseTime": 471212000
+      "Timestamp": "2025-12-29T10:20:11.338279-05:00",
+      "ResponseTime": 443106667
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888052-05:00",
-      "ResponseTime": 428670375
+      "Timestamp": "2025-12-29T10:20:41.338976-05:00",
+      "ResponseTime": 487747292
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889627-05:00",
-      "ResponseTime": 467825000
+      "Timestamp": "2025-12-29T10:21:11.338079-05:00",
+      "ResponseTime": 500089000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180162-05:00",
-      "ResponseTime": 418965125
+      "Timestamp": "2025-12-29T10:21:41.338083-05:00",
+      "ResponseTime": 511250916
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.179019-05:00",
-      "ResponseTime": 481680167
+      "Timestamp": "2025-12-29T10:22:11.337105-05:00",
+      "ResponseTime": 434918375
     }
   ],
   "São Paulo, BR [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888435-05:00",
-      "ResponseTime": 123640000
+      "Timestamp": "2025-12-29T10:01:34.599542-05:00",
+      "ResponseTime": 131172000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888922-05:00",
-      "ResponseTime": 125077000
+      "Timestamp": "2025-12-29T10:02:04.598477-05:00",
+      "ResponseTime": 139256000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888497-05:00",
-      "ResponseTime": 123588000
+      "Timestamp": "2025-12-29T10:02:34.600063-05:00",
+      "ResponseTime": 141407000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.889022-05:00",
-      "ResponseTime": 126089000
+      "Timestamp": "2025-12-29T10:19:11.334894-05:00",
+      "ResponseTime": 123219000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.887927-05:00",
-      "ResponseTime": 123115000
+      "Timestamp": "2025-12-29T10:19:41.336364-05:00",
+      "ResponseTime": 125809000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888056-05:00",
-      "ResponseTime": 126724000
+      "Timestamp": "2025-12-29T10:20:11.337765-05:00",
+      "ResponseTime": 123870000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.887779-05:00",
-      "ResponseTime": 123760000
+      "Timestamp": "2025-12-29T10:20:41.338852-05:00",
+      "ResponseTime": 123256000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.8892-05:00",
-      "ResponseTime": 123379000
+      "Timestamp": "2025-12-29T10:21:11.337912-05:00",
+      "ResponseTime": 125436000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.179136-05:00",
-      "ResponseTime": 124217000
+      "Timestamp": "2025-12-29T10:21:41.338044-05:00",
+      "ResponseTime": 127760000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.180984-05:00",
-      "ResponseTime": 125553000
+      "Timestamp": "2025-12-29T10:22:11.337096-05:00",
+      "ResponseTime": 126375000
     }
   ],
   "Tokyo (Japan)": [
@@ -3573,128 +3573,128 @@
   ],
   "Tokyo, JP [AWS] - DNS": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888854-05:00",
-      "ResponseTime": 95126542
+      "Timestamp": "2025-12-29T10:01:34.600023-05:00",
+      "ResponseTime": 91740417
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.888974-05:00",
-      "ResponseTime": 85294750
+      "Timestamp": "2025-12-29T10:02:04.599644-05:00",
+      "ResponseTime": 61954500
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888631-05:00",
-      "ResponseTime": 94865708
+      "Timestamp": "2025-12-29T10:02:34.600707-05:00",
+      "ResponseTime": 76216125
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888309-05:00",
-      "ResponseTime": 82253833
+      "Timestamp": "2025-12-29T10:19:11.339135-05:00",
+      "ResponseTime": 124738458
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.888918-05:00",
-      "ResponseTime": 84960500
+      "Timestamp": "2025-12-29T10:19:41.337793-05:00",
+      "ResponseTime": 88452917
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888621-05:00",
-      "ResponseTime": 83439084
+      "Timestamp": "2025-12-29T10:20:11.337772-05:00",
+      "ResponseTime": 110843458
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888527-05:00",
-      "ResponseTime": 79206417
+      "Timestamp": "2025-12-29T10:20:41.339088-05:00",
+      "ResponseTime": 56459542
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.890923-05:00",
-      "ResponseTime": 76812667
+      "Timestamp": "2025-12-29T10:21:11.338236-05:00",
+      "ResponseTime": 99705166
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180444-05:00",
-      "ResponseTime": 59841750
+      "Timestamp": "2025-12-29T10:21:41.338258-05:00",
+      "ResponseTime": 125758375
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181237-05:00",
-      "ResponseTime": 70006791
+      "Timestamp": "2025-12-29T10:22:11.337277-05:00",
+      "ResponseTime": 67959959
     }
   ],
   "Tokyo, JP [AWS] - HTTP": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888503-05:00",
-      "ResponseTime": 667339667
+      "Timestamp": "2025-12-29T10:01:34.600581-05:00",
+      "ResponseTime": 741732625
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889415-05:00",
-      "ResponseTime": 664003250
+      "Timestamp": "2025-12-29T10:02:04.599639-05:00",
+      "ResponseTime": 625054625
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.889055-05:00",
-      "ResponseTime": 655451625
+      "Timestamp": "2025-12-29T10:02:34.600725-05:00",
+      "ResponseTime": 637098125
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888825-05:00",
-      "ResponseTime": 662977833
+      "Timestamp": "2025-12-29T10:19:11.33943-05:00",
+      "ResponseTime": 674150875
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889268-05:00",
-      "ResponseTime": 633847708
+      "Timestamp": "2025-12-29T10:19:41.337186-05:00",
+      "ResponseTime": 657246209
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888945-05:00",
-      "ResponseTime": 616312834
+      "Timestamp": "2025-12-29T10:20:11.338877-05:00",
+      "ResponseTime": 679743708
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888529-05:00",
-      "ResponseTime": 658745583
+      "Timestamp": "2025-12-29T10:20:41.339499-05:00",
+      "ResponseTime": 603958791
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.889737-05:00",
-      "ResponseTime": 651600125
+      "Timestamp": "2025-12-29T10:21:11.338516-05:00",
+      "ResponseTime": 672840916
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180862-05:00",
-      "ResponseTime": 629589375
+      "Timestamp": "2025-12-29T10:21:41.338478-05:00",
+      "ResponseTime": 693449375
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.18123-05:00",
-      "ResponseTime": 633255542
+      "Timestamp": "2025-12-29T10:22:11.337449-05:00",
+      "ResponseTime": 619309708
     }
   ],
   "Tokyo, JP [AWS] - PING": [
     {
-      "Timestamp": "2025-12-28T22:44:57.888422-05:00",
-      "ResponseTime": 181065000
+      "Timestamp": "2025-12-29T10:01:34.60018-05:00",
+      "ResponseTime": 219605000
     },
     {
-      "Timestamp": "2025-12-28T22:45:27.889266-05:00",
-      "ResponseTime": 187509000
+      "Timestamp": "2025-12-29T10:02:04.599649-05:00",
+      "ResponseTime": 196495000
     },
     {
-      "Timestamp": "2025-12-28T22:45:57.888826-05:00",
-      "ResponseTime": 189722000
+      "Timestamp": "2025-12-29T10:02:34.601604-05:00",
+      "ResponseTime": 221463000
     },
     {
-      "Timestamp": "2025-12-28T22:46:27.888543-05:00",
-      "ResponseTime": 183029000
+      "Timestamp": "2025-12-29T10:19:11.339288-05:00",
+      "ResponseTime": 187265000
     },
     {
-      "Timestamp": "2025-12-28T22:46:57.889125-05:00",
-      "ResponseTime": 183453000
+      "Timestamp": "2025-12-29T10:19:41.337983-05:00",
+      "ResponseTime": 182810000
     },
     {
-      "Timestamp": "2025-12-28T22:47:27.888789-05:00",
-      "ResponseTime": 186897000
+      "Timestamp": "2025-12-29T10:20:11.337958-05:00",
+      "ResponseTime": 183419000
     },
     {
-      "Timestamp": "2025-12-28T22:47:57.888528-05:00",
-      "ResponseTime": 186072000
+      "Timestamp": "2025-12-29T10:20:41.339231-05:00",
+      "ResponseTime": 185721000
     },
     {
-      "Timestamp": "2025-12-28T22:48:27.88967-05:00",
-      "ResponseTime": 181439000
+      "Timestamp": "2025-12-29T10:21:11.338403-05:00",
+      "ResponseTime": 184501000
     },
     {
-      "Timestamp": "2025-12-28T23:03:36.180594-05:00",
-      "ResponseTime": 181690000
+      "Timestamp": "2025-12-29T10:21:41.338295-05:00",
+      "ResponseTime": 181589000
     },
     {
-      "Timestamp": "2025-12-28T23:04:06.181244-05:00",
-      "ResponseTime": 186476000
+      "Timestamp": "2025-12-29T10:22:11.33736-05:00",
+      "ResponseTime": 184430000
     }
   ]
 }
