@@ -1,43 +1,58 @@
-# Home Network Health Monitor
+# Cloud Infrastructure Latency Monitor
 
-A professional-grade, concurrent network monitoring tool written in Go that provides real-time health checks and connectivity monitoring for network services and endpoints with comprehensive logging and statistics.
+A professional-grade, real-time latency monitoring system that tests AWS global infrastructure across 23 regions with comprehensive historical tracking, trend analysis, and baseline performance detection.
 
 ## Features
 
-- ✅ **Concurrent health checks** - Check multiple services simultaneously using goroutines
-- ✅ **Dual monitoring modes** - HTTP/HTTPS endpoint monitoring and ICMP ping checks
-- ✅ **Real-time response time measurement** - Track individual response times for each service
-- ✅ **Periodic monitoring** - Automated checks every 30 seconds with continuous monitoring
-- ✅ **Color-coded output** - Visual status indicators (green for UP, red for DOWN)
-- ✅ **Timestamped results** - Each check includes precise timestamp for tracking
-- ✅ **Persistent logging** - Automatic logging to file for historical analysis
-- ✅ **Success rate statistics** - Real-time calculation of uptime percentage
-- ✅ **Average response time tracking** - Performance metrics across all services
-- ✅ **Self-signed certificate support** - Monitor local devices with custom certificates
-- ✅ **Fast execution** - Parallel checks complete in ~2 seconds regardless of service count
+- ✅ **Multi-layer latency testing** - ICMP ping, DNS resolution, and HTTP/HTTPS checks
+- ✅ **23 AWS regions worldwide** - True infrastructure endpoints (no CDN interference)
+- ✅ **Real-time trend detection** - Automatically detects performance degradation (↑), improvement (↓), or stability (→)
+- ✅ **Historical baseline tracking** - Maintains last 10 measurements per endpoint to establish performance baselines
+- ✅ **Persistent data storage** - All measurements saved to JSON with timestamps for day-over-day analysis
+- ✅ **Grouped test results** - Organized by test type (Ping, DNS, HTTP) for easy comparison
+- ✅ **Concurrent execution** - All tests run simultaneously using goroutines
+- ✅ **Color-coded output** - Visual indicators for status and trends
+- ✅ **Comprehensive logging** - All results logged to file for historical analysis
+
+## What This Measures
+
+### ICMP Ping Tests (Network Layer)
+Pure network latency with no application overhead. Shows the actual time for packets to travel from your location to AWS data centers worldwide.
+
+### DNS Resolution Tests
+Measures how quickly AWS regional hostnames can be resolved to IP addresses. Important for understanding DNS infrastructure performance.
+
+### HTTP/HTTPS Tests (Application Layer)
+Complete application-level latency including TLS handshake, connection establishment, and HTTP protocol overhead. Most representative of real-world application performance.
+
+## Global Coverage
+
+Testing AWS S3 endpoints across:
+- **North America**: Virginia, Ohio, California, Oregon, Montreal
+- **South America**: São Paulo
+- **Europe**: London, Paris, Frankfurt, Stockholm, Milan
+- **Middle East**: Dubai, Riyadh
+- **Asia**: Mumbai, Hyderabad, Singapore, Jakarta, Tokyo, Seoul, Osaka
+- **Africa**: Cape Town
+- **Oceania**: Sydney, Melbourne
 
 ## Prerequisites
 
 - Go 1.23 or higher
 - macOS, Linux, or Windows
 - Network connectivity
+- Terminal with ANSI color support
 
 ## Installation
-
-1. Clone this repository:
 ```bash
 git clone https://github.com/MaddaloniG3/home-health-monitor.git
 cd home-health-monitor
-```
-
-2. Run the monitor:
-```bash
 go run main.go
 ```
 
 ## Usage
 
-The monitor runs continuously, checking all configured services every 30 seconds:
+The monitor runs continuously, testing all endpoints every 30 seconds:
 ```bash
 go run main.go
 ```
@@ -46,190 +61,215 @@ go run main.go
 
 ### Example Output
 ```
-=== Network Health Monitor ===
+=== CLOUD INFRASTRUCTURE LATENCY MONITOR ===
+Testing AWS regional S3 endpoints
 Press Ctrl+C to stop monitoring
 
-Logging to: health_monitor.log
+Loaded historical data from: latency_history.json
+Logging to: cloud_latency.log
 
-[20:53:20] Starting health check cycle...
+[21:56:01] Starting cloud latency test cycle...
 
-=== Results ===
-[UP] [20:53:20] Home Router                    [http] Response time: 0.03s
-[UP] [20:53:20] GitHub                         [http] Response time: 0.08s
-[UP] [20:53:20] Mastercard Website             [http] Response time: 0.12s
-[UP] [20:53:21] Google                         [http] Response time: 0.18s
-[UP] [20:53:21] George Maddaloni Website       [http] Response time: 0.24s
-[UP] [20:53:21] MA Connect Website             [http] Response time: 0.34s
-[UP] [20:53:22] Cape Town, SA (UCT)            [http] Response time: 1.26s
-[UP] [20:53:22] Router (ping)                  [ping] Response time: 0.68s
-[UP] [20:53:22] Google DNS                     [ping] Response time: 0.68s
+=== ICMP PING TESTS (Network Layer Latency) ===
+[UP] Ashburn, VA [AWS]                     16ms [BASELINE●] [16.15.178.220]
+[UP] Montreal, CA [AWS]                    18ms [BASELINE●] [3.5.254.81]
+[UP] Columbus, OH [AWS]                    29ms [BASELINE●] [3.5.130.1]
+[UP] London, UK [AWS]                      80ms [BASELINE●] [3.5.245.32]
+[UP] Singapore, SG [AWS]                  244ms [STEADY→] (baseline: 240ms)
 
-=== Summary ===
-Total services checked: 9
-Success rate: 100.0% (9/9)
-Average response time: 0.40s
-Total execution time: 2.03s
+=== DNS RESOLUTION TESTS ===
+[UP] Singapore, SG [AWS]                   41ms [DOWN↓] (baseline: 52ms)
+[UP] Frankfurt, DE [AWS]                   51ms [STEADY→] (baseline: 49ms)
+[UP] Tokyo, JP [AWS]                       55ms [UP↑] (baseline: 32ms)
+
+=== HTTP/HTTPS TESTS (Application Layer Latency) ===
+[UP] Ashburn, VA [AWS]                    137ms [STEADY→] (baseline: 135ms)
+[UP] Cape Town, ZA [AWS]                  839ms [DOWN↓] (baseline: 1200ms)
+
+=== SUMMARY ===
+Total tests executed: 69
+Success rate: 98.6% (68/69)
+Average response time: 245ms
+Total execution time: 4.10s
 ```
 
-## Configuration
+## Understanding Trends
 
-Edit the `services` slice in `main.go` to customize your monitoring targets:
+After collecting 3+ samples, the system shows performance trends:
+
+- 🔴 **UP ↑** (Red) - Latency increased >50% vs baseline (degradation)
+- 🟢 **DOWN ↓** (Green) - Latency decreased >50% vs baseline (improvement)
+- 🟡 **STEADY →** (Yellow) - Latency within ±50% of baseline (normal)
+- 🔵 **BASELINE ●** (Cyan) - Still building baseline (<3 samples)
+
+## Data Files
+
+### latency_history.json
+Stores the last 10 measurements for each endpoint with timestamps. Used for:
+- Calculating rolling baselines
+- Trend detection
+- Day-over-day comparisons
+- Historical analysis
+
+### cloud_latency.log
+Complete log of all tests with timestamps, status, response times, and trends. Format:
+```
+2024-12-28 21:56:01 | [UP] Ashburn, VA [AWS] | Test: PING | Response: 16ms | Trend: BASELINE
+2024-12-28 21:56:01 | [UP] Singapore, SG [AWS] | Test: HTTP | Response: 792ms | Trend: STEADY
+```
+
+## Performance Analysis
+
+Run the analysis tool to generate statistical summaries:
+```bash
+go run analyze_history.go
+```
+
+This produces a comprehensive table showing:
+- Min/Max/Average latency per endpoint
+- Number of measurements collected
+- Performance trends (first vs last measurement)
+- Fastest and slowest services
+- Most improved and degraded endpoints
+
+## Technical Architecture
+
+### Concurrent Testing
+Uses Go's goroutines to run all tests simultaneously:
+- 23 regions × 3 test types = 69 concurrent tests
+- Completes in ~4 seconds despite checking 69 endpoints
+- Uses channels for safe result communication
+- WaitGroups ensure all tests complete before reporting
+
+### Historical Tracking
+- Maintains sliding window of last 10 measurements per endpoint
+- Calculates rolling average as baseline
+- Compares current measurement to baseline for trend detection
+- Persists to JSON after each cycle
+
+### Test Methodology
+
+**ICMP Ping:**
+1. Resolve hostname to IP via DNS
+2. Send 3 ICMP packets to resolved IP
+3. Parse average round-trip time from system ping output
+4. Reports actual IP address tested
+
+**DNS Resolution:**
+1. Measure time to resolve hostname to IP
+2. Uses system resolver
+3. Returns first IP from results
+
+**HTTP/HTTPS:**
+1. Send HTTP HEAD request (lightweight, no body transfer)
+2. Includes full TLS handshake for HTTPS
+3. Measures total time to receive headers
+4. Uses 10-second timeout
+
+### Why AWS S3 Endpoints?
+
+AWS S3 regional endpoints are ideal for latency testing because:
+- **Guaranteed regional placement** - No CDN or edge caching
+- **Highly available** - 99.99% uptime SLA
+- **Globally distributed** - 23 regions across 6 continents
+- **Consistent infrastructure** - Standardized endpoints across regions
+- **Free to test** - HEAD requests don't incur charges
+
+## Customization
+
+### Change Monitoring Interval
+
+Edit the interval in `main.go`:
 ```go
-services := []Service{
-    // HTTP/HTTPS checks
-    {Name: "My Website", URL: "https://example.com", Type: TypeHTTP, Insecure: false},
-    {Name: "My Router", URL: "https://192.168.1.1", Type: TypeHTTP, Insecure: true},
-    
-    // Ping checks
-    {Name: "My Server", Host: "192.168.1.100", Type: TypePing},
-    {Name: "Google DNS", Host: "8.8.8.8", Type: TypePing},
+interval := 30 * time.Second  // Default: 30 seconds
+```
+
+Options:
+- `10 * time.Second` - Every 10 seconds (more frequent)
+- `1 * time.Minute` - Every minute
+- `5 * time.Minute` - Every 5 minutes
+
+### Add/Remove Regions
+
+Edit the `endpoints` slice in `main.go`:
+```go
+endpoints := []CloudEndpoint{
+    {Location: "Your City", Region: "aws-region", Provider: "AWS", 
+     Hostname: "s3.aws-region.amazonaws.com", 
+     TestPing: true, TestDNS: true, TestHTTP: true},
 }
 ```
 
-### Service Configuration Fields
+### Disable Test Types
 
-**For HTTP/HTTPS checks:**
-- `Name`: Display name for the service
-- `URL`: Full URL to check (must include http:// or https://)
-- `Type`: Set to `TypeHTTP`
-- `Insecure`: Set to `true` for local devices with self-signed certificates, `false` otherwise
-
-**For Ping checks:**
-- `Name`: Display name for the service
-- `Host`: IP address or hostname to ping
-- `Type`: Set to `TypePing`
-
-### Customizing Check Interval
-
-Change the monitoring interval by modifying this line in `main.go`:
+Set flags to `false` to skip specific test types:
 ```go
-interval := 30 * time.Second  // Change to desired interval
+{Location: "Tokyo, JP", Region: "ap-northeast-1", Provider: "AWS",
+ Hostname: "s3.ap-northeast-1.amazonaws.com",
+ TestPing: false,  // Skip ping tests
+ TestDNS: true,
+ TestHTTP: true},
 ```
-
-Examples:
-- `10 * time.Second` - Check every 10 seconds
-- `1 * time.Minute` - Check every minute
-- `5 * time.Minute` - Check every 5 minutes
-
-## Output Features
-
-### Color Coding
-- 🟢 **Green [UP]** - Service is responding normally
-- 🔴 **Red [DOWN]** - Service is unreachable or failing
-- 🔵 **Cyan** - Section headers and timestamps
-- 🟡 **Yellow** - Warnings and informational messages
-
-### Logging
-All checks are automatically logged to `health_monitor.log` with the format:
-```
-2024-12-28 20:53:20 | [UP] Home Router | Type: http | Response: 0.03s
-2024-12-28 20:53:20 | [DOWN] Test Service | Type: http | Response: 0.00s | Error: timeout
-```
-
-### Statistics
-Each monitoring cycle displays:
-- **Total services checked** - Number of configured services
-- **Success rate** - Percentage of services responding successfully
-- **Average response time** - Mean response time across all successful checks
-- **Total execution time** - Time to complete all checks (typically ~2s due to concurrency)
-
-## How It Works
-
-### Concurrent Execution Architecture
-The monitor leverages Go's powerful concurrency primitives:
-
-- **Goroutines** - Each service check runs in a separate lightweight thread
-- **Channels** - Safe communication between concurrent checks
-- **WaitGroups** - Synchronization to ensure all checks complete before reporting
-- **Result** - 9 services complete in ~2 seconds instead of 9+ seconds sequentially
-
-### Performance Characteristics
-- **Scalability**: Adding more services has minimal impact on total execution time
-- **Efficiency**: Checking 20 services takes roughly the same time as checking 5
-- **Limiting factor**: Total time is determined by the slowest individual check, not the sum
-
-### Ping Implementation
-Uses the macOS/Linux system `ping` command for ICMP checks:
-- Sends 3 packets per check
-- 5-second timeout
-- Parses average round-trip time from output
-- Falls back to TCP connection test if ping fails
-
-## Technical Implementation
-
-### Core Technologies
-- **Language**: Go 1.23+
-- **Standard Library Packages**: 
-  - `net/http` - HTTP client operations
-  - `crypto/tls` - TLS/SSL certificate handling
-  - `sync` - Concurrency primitives (WaitGroups, channels)
-  - `time` - Time measurement and scheduling
-  - `os/exec` - System command execution for ping
-  - `regexp` - Parsing ping output
-  - `os` - File operations for logging
-
-### Go Concepts Demonstrated
-- Structs and custom types for data modeling
-- Slices for dynamic collections
-- Goroutines for concurrent execution
-- Channels for inter-goroutine communication
-- WaitGroups for synchronization
-- Switch statements for type handling
-- Error handling patterns
-- File I/O operations
-- String formatting and ANSI color codes
-- Regular expressions
-- Time operations and tickers
-
-## Performance Benchmarks
-
-Typical execution times on MacBook M2:
-- **Local network devices**: 30-100ms
-- **US-based services**: 100-300ms
-- **International services**: 900ms-2s
-- **Ping checks**: 600-700ms (average of 3 pings)
-- **Total runtime**: ~2s (9 services checked concurrently)
-
-## Project Roadmap
-
-### Completed ✅
-- [x] Basic HTTP/HTTPS health checks
-- [x] Concurrent execution with goroutines
-- [x] Individual response time measurements
-- [x] Data structures with slices and structs
-- [x] Periodic monitoring with configurable intervals
-- [x] ICMP ping support for non-HTTP devices
-- [x] Color-coded terminal output
-- [x] Timestamped results
-- [x] Persistent logging to file
-- [x] Success rate and performance statistics
-
-### Future Enhancements
-- [ ] Email/SMS notifications for service failures
-- [ ] Slack/Discord webhook integration
-- [ ] Web dashboard for real-time visualization
-- [ ] Historical data and trend analysis
-- [ ] Configurable alert thresholds
-- [ ] Multi-region latency testing
-- [ ] JSON/CSV export for reporting
-- [ ] Systemd/launchd service installation
-- [ ] Configuration file support (YAML/JSON)
-- [ ] API endpoints for programmatic access
 
 ## Use Cases
 
-- **Home Network Monitoring**: Track router, NAS, smart devices, and IoT endpoints
-- **Website Uptime Monitoring**: Monitor personal or business websites
-- **Infrastructure Health**: Track critical services and APIs
-- **Network Troubleshooting**: Identify connectivity issues and latency problems
-- **Performance Baselines**: Establish normal response time patterns
-- **Learning Go**: Educational project demonstrating production-ready Go patterns
+- **Global infrastructure monitoring** - Track AWS availability from your location
+- **Performance baselining** - Establish normal latency patterns
+- **Trend detection** - Identify degrading network paths early
+- **Region selection** - Choose optimal AWS regions for deployments
+- **Network troubleshooting** - Isolate whether issues are DNS, network, or application layer
+- **Day/night comparison** - See if latency varies by time of day
+- **ISP performance** - Monitor your internet provider's routing efficiency
+
+## Real-World Insights
+
+From testing in White Plains, NY:
+
+**Fastest Regions (Ping):**
+- Ashburn, VA: 16ms (closest AWS region)
+- Montreal, CA: 18ms
+- Columbus, OH: 29ms
+
+**Expected Latencies:**
+- North America: 15-80ms
+- Europe: 80-110ms
+- South America: 125ms
+- Asia: 180-260ms
+- Africa: 240ms
+
+**Application Layer Overhead:**
+- Ping to HTTP typically adds 100-150ms (TLS handshake + HTTP protocol)
+- DNS resolution: 40-110ms depending on caching
 
 ## Built With
 
-- [Go](https://golang.org/) - The Go Programming Language (1.23+)
-- Standard Library - No external dependencies required
-- System utilities - Native `ping` command for ICMP checks
+- **Language**: Go 1.23+
+- **Standard Library Only**: No external dependencies
+- **System Integration**: Uses native `ping` command for ICMP tests
+- **Storage**: JSON for data persistence
+- **Output**: ANSI colors for terminal display
+
+## Core Technologies
+
+- `net/http` - HTTP client and HEAD requests
+- `net` - DNS resolution
+- `os/exec` - System ping command execution
+- `regexp` - Parsing ping output
+- `encoding/json` - Data persistence
+- `sync` - Goroutines, channels, WaitGroups
+- `time` - Timestamps and scheduling
+- `crypto/tls` - HTTPS support
+
+## Learning Journey
+
+This project demonstrates advanced Go concepts:
+- **Concurrency**: 69 simultaneous tests using goroutines
+- **Channels**: Safe communication between concurrent tests
+- **Historical data**: Time-series tracking with trend analysis
+- **File I/O**: JSON serialization and persistence
+- **System integration**: Executing and parsing system commands
+- **Data structures**: Nested maps for multi-dimensional data
+- **Statistical analysis**: Baseline calculation and variance detection
 
 ## Author
 
@@ -237,70 +277,34 @@ Typical execution times on MacBook M2:
 CTO of Operations, Mastercard Networks  
 [www.georgemaddaloni.com](https://www.georgemaddaloni.com)
 
-Professional background in global network infrastructure, security operations, and enterprise technology platforms supporting mission-critical payment processing.
+Professional expertise in global network infrastructure, payment processing, and enterprise technology platforms.
 
 ## License
 
 This project is open source and available for personal and educational use.
 
-## Learning Journey
+## Acknowledgments
 
-This project was created as a hands-on learning experience with Go programming, progressing through:
-
-### Phase 1: Foundations
-- Go installation and development environment setup
-- Basic syntax, variables, functions, and types
-- Error handling patterns
-- HTTP client operations
-- TLS certificate handling
-
-### Phase 2: Data Structures
-- Struct definitions for complex data modeling
-- Slices for dynamic collections
-- Multiple return values
-- Type definitions and constants
-
-### Phase 3: Concurrency (Go's Superpower) ✨
-- Goroutines for parallel execution
-- Channels for safe data sharing
-- WaitGroups for synchronization
-- Understanding concurrency vs parallelism
-- Real-world performance optimization
-
-### Phase 4: Production Features
-- Periodic scheduling with tickers
-- File I/O and persistent logging
-- ANSI color codes for terminal output
-- Statistical calculations
-- Regular expressions for data parsing
-- System command execution
-
-### Phase 5: Professional Polish
-- Code organization and modularity
-- Comprehensive documentation
-- Version control with Git
-- Public repository management
-- Real-world deployment considerations
+Built as part of the "Learning GO" project to develop production-ready monitoring capabilities while mastering Go's concurrency model and system integration features.
 
 ---
 
-## Quick Start Guide
-
-**1. Install Go:** Download from [golang.org](https://golang.org)
-
-**2. Clone and run:**
+## Quick Start
 ```bash
+# Clone repository
 git clone https://github.com/MaddaloniG3/home-health-monitor.git
 cd home-health-monitor
+
+# Run monitor
 go run main.go
+
+# In another terminal, analyze results (after collecting data)
+go run analyze_history.go
 ```
-
-**3. Customize services in `main.go`**
-
-**4. Monitor your network!** 🚀
 
 ---
 
 **Project Status:** Production Ready ✅  
-**Current Version:** 1.0  
-**Last Updated:** December 28, 2024
+**Current Version:** 2.0 - Cloud Infrastructure Monitor  
+**Last Updated:** December 28, 2024  
+**Total AWS Regions Tested:** 23 across 6 continents

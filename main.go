@@ -3,7 +3,9 @@ package main
 import (
 	"context"
 	"crypto/tls"
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"net"
 	"net/http"
 	"os"
@@ -16,139 +18,352 @@ import (
 
 // ANSI color codes
 const (
-	ColorReset  = "\033[0m"
-	ColorGreen  = "\033[32m"
-	ColorRed    = "\033[31m"
-	ColorYellow = "\033[33m"
-	ColorCyan   = "\033[36m"
-	ColorBlue   = "\033[34m"
+	ColorReset   = "\033[0m"
+	ColorGreen   = "\033[32m"
+	ColorRed     = "\033[31m"
+	ColorYellow  = "\033[33m"
+	ColorCyan    = "\033[36m"
+	ColorBlue    = "\033[34m"
+	ColorMagenta = "\033[35m"
 )
 
-// ServiceType defines the type of check to perform
-type ServiceType string
+// TestType defines the type of test
+type TestType string
 
 const (
-	TypeHTTP ServiceType = "http"
-	TypePing ServiceType = "ping"
-	TypeDNS  ServiceType = "dns"
+	TestTypePing TestType = "PING"
+	TestTypeDNS  TestType = "DNS"
+	TestTypeHTTP TestType = "HTTP"
 )
 
-// Service represents a network endpoint to monitor
-type Service struct {
-	Name     string
-	URL      string
-	Host     string
-	Type     ServiceType
-	Insecure bool
-	Location string // Geographic location for latency tests
+// CloudEndpoint represents a cloud infrastructure endpoint
+type CloudEndpoint struct {
+	Location string
+	Region   string
+	Provider string // AWS, Azure, GCP
+	Hostname string
+	TestPing bool
+	TestDNS  bool
+	TestHTTP bool
 }
 
-// ServiceResult holds the check result for a service
-type ServiceResult struct {
-	Service      Service
+// TestResult holds the result of a test
+type TestResult struct {
+	Endpoint     CloudEndpoint
+	TestType     TestType
 	Online       bool
 	ResponseTime time.Duration
+	ResolvedIP   string
 	Error        string
 	Timestamp    time.Time
+	Trend        string
+	Baseline     time.Duration
 }
 
-// checkHTTP checks an HTTP/HTTPS endpoint
-func checkHTTP(url string, insecure bool) (bool, time.Duration, string) {
-	client := http.Client{
-		Timeout: 10 * time.Second,
-	}
+// HistoricalDataPoint represents a single measurement
+type HistoricalDataPoint struct {
+	Timestamp    time.Time
+	ResponseTime time.Duration
+}
 
-	if insecure {
-		tr := &http.Transport{
-			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+// ServiceHistory tracks historical data for a service
+type ServiceHistory struct {
+	ServiceName string
+	DataPoints  []HistoricalDataPoint
+}
+
+// HistoryStore manages all historical data
+type HistoryStore struct {
+	Services map[string]*ServiceHistory
+	mu       sync.Mutex
+}
+
+// NewHistoryStore creates a new history store
+func NewHistoryStore() *HistoryStore {
+	return &HistoryStore{
+		Services: make(map[string]*ServiceHistory),
+	}
+}
+
+// LoadFromFile loads historical data from JSON file
+func (hs *HistoryStore) LoadFromFile(filename string) error {
+	hs.mu.Lock()
+	defer hs.mu.Unlock()
+
+	data, err := ioutil.ReadFile(filename)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return nil
 		}
-		client.Transport = tr
+		return err
 	}
 
-	start := time.Now()
-	_, err := client.Get(url)
-	elapsed := time.Since(start)
-
-	if err != nil {
-		return false, 0, err.Error()
+	var rawData map[string][]struct {
+		Timestamp    time.Time
+		ResponseTime int64
 	}
-	return true, elapsed, ""
+
+	if err := json.Unmarshal(data, &rawData); err != nil {
+		return err
+	}
+
+	for serviceName, points := range rawData {
+		history := &ServiceHistory{
+			ServiceName: serviceName,
+			DataPoints:  make([]HistoricalDataPoint, 0, len(points)),
+		}
+
+		for _, point := range points {
+			history.DataPoints = append(history.DataPoints, HistoricalDataPoint{
+				Timestamp:    point.Timestamp,
+				ResponseTime: time.Duration(point.ResponseTime),
+			})
+		}
+
+		hs.Services[serviceName] = history
+	}
+
+	return nil
 }
 
-// checkPing performs a ping using the system ping command
-func checkPing(host string) (bool, time.Duration, string) {
-	cmd := exec.Command("ping", "-c", "3", "-W", "5000", host)
+// SaveToFile saves historical data to JSON file
+func (hs *HistoryStore) SaveToFile(filename string) error {
+	hs.mu.Lock()
+	defer hs.mu.Unlock()
+
+	rawData := make(map[string][]struct {
+		Timestamp    time.Time
+		ResponseTime int64
+	})
+
+	for serviceName, history := range hs.Services {
+		points := make([]struct {
+			Timestamp    time.Time
+			ResponseTime int64
+		}, len(history.DataPoints))
+
+		for i, point := range history.DataPoints {
+			points[i].Timestamp = point.Timestamp
+			points[i].ResponseTime = int64(point.ResponseTime)
+		}
+
+		rawData[serviceName] = points
+	}
+
+	data, err := json.MarshalIndent(rawData, "", "  ")
+	if err != nil {
+		return err
+	}
+
+	return ioutil.WriteFile(filename, data, 0644)
+}
+
+// AddDataPoint adds a new measurement for a service
+func (hs *HistoryStore) AddDataPoint(serviceName string, timestamp time.Time, responseTime time.Duration) {
+	hs.mu.Lock()
+	defer hs.mu.Unlock()
+
+	if hs.Services[serviceName] == nil {
+		hs.Services[serviceName] = &ServiceHistory{
+			ServiceName: serviceName,
+			DataPoints:  make([]HistoricalDataPoint, 0, 10),
+		}
+	}
+
+	history := hs.Services[serviceName]
+	history.DataPoints = append(history.DataPoints, HistoricalDataPoint{
+		Timestamp:    timestamp,
+		ResponseTime: responseTime,
+	})
+
+	if len(history.DataPoints) > 10 {
+		history.DataPoints = history.DataPoints[len(history.DataPoints)-10:]
+	}
+}
+
+// GetBaseline calculates average of last 10 measurements
+func (hs *HistoryStore) GetBaseline(serviceName string) (time.Duration, int) {
+	hs.mu.Lock()
+	defer hs.mu.Unlock()
+
+	history := hs.Services[serviceName]
+	if history == nil || len(history.DataPoints) == 0 {
+		return 0, 0
+	}
+
+	var total time.Duration
+	for _, point := range history.DataPoints {
+		total += point.ResponseTime
+	}
+
+	count := len(history.DataPoints)
+	return total / time.Duration(count), count
+}
+
+// CalculateTrend determines if current measurement is UP, DOWN, or STEADY
+func CalculateTrend(current, baseline time.Duration, sampleCount int) string {
+	if sampleCount < 3 {
+		return "BASELINE"
+	}
+
+	if baseline == 0 {
+		return "BASELINE"
+	}
+
+	diff := float64(current-baseline) / float64(baseline) * 100
+
+	if diff > 50 {
+		return "UP"
+	} else if diff < -50 {
+		return "DOWN"
+	}
+	return "STEADY"
+}
+
+// resolveDNS resolves hostname to IP and measures time
+func resolveDNS(hostname string) (string, time.Duration, error) {
+	resolver := &net.Resolver{}
 
 	start := time.Now()
-	output, err := cmd.CombinedOutput()
+	ips, err := resolver.LookupHost(context.Background(), hostname)
 	elapsed := time.Since(start)
 
 	if err != nil {
-		return false, 0, "Host unreachable"
+		return "", 0, err
 	}
 
-	// Parse average ping time from output
-	re := regexp.MustCompile(`avg = ([\d.]+)`)
+	if len(ips) == 0 {
+		return "", 0, fmt.Errorf("no IPs found")
+	}
+
+	return ips[0], elapsed, nil
+}
+
+// pingIP pings an IP address (macOS compatible)
+func pingIP(ip string) (time.Duration, error) {
+	cmd := exec.Command("ping", "-c", "3", "-W", "5000", ip)
+
+	output, err := cmd.CombinedOutput()
+	if err != nil {
+		return 0, fmt.Errorf("ping failed")
+	}
+
+	// macOS ping output format: "round-trip min/avg/max/stddev = 10.1/15.2/20.3/5.1 ms"
+	re := regexp.MustCompile(`round-trip[^=]+=\s*[\d.]+/([\d.]+)/`)
 	matches := re.FindStringSubmatch(string(output))
 
 	if len(matches) > 1 {
 		avgMs, _ := strconv.ParseFloat(matches[1], 64)
-		avgTime := time.Duration(avgMs * float64(time.Millisecond))
-		return true, avgTime, ""
+		return time.Duration(avgMs * float64(time.Millisecond)), nil
 	}
 
-	return true, elapsed / 3, ""
+	return 0, fmt.Errorf("could not parse ping output")
 }
 
-// checkDNS performs a DNS lookup and measures response time
-func checkDNS(host string) (bool, time.Duration, string) {
-	resolver := &net.Resolver{}
+// httpCheck performs HTTP HEAD request
+func httpCheck(url string) (time.Duration, error) {
+	client := http.Client{
+		Timeout: 10 * time.Second,
+		Transport: &http.Transport{
+			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+		},
+	}
+
+	req, err := http.NewRequest("HEAD", url, nil)
+	if err != nil {
+		return 0, err
+	}
 
 	start := time.Now()
-	_, err := resolver.LookupHost(context.Background(), host)
+	resp, err := client.Do(req)
 	elapsed := time.Since(start)
 
 	if err != nil {
-		return false, 0, err.Error()
+		return 0, err
 	}
-	return true, elapsed, ""
+	defer resp.Body.Close()
+
+	return elapsed, nil
 }
 
-// checkServiceConcurrent checks a service and sends result to a channel
-func checkServiceConcurrent(svc Service, results chan<- ServiceResult, wg *sync.WaitGroup) {
+// runTest executes a single test
+func runTest(endpoint CloudEndpoint, testType TestType, results chan<- TestResult, wg *sync.WaitGroup, history *HistoryStore) {
 	defer wg.Done()
 
 	var online bool
 	var responseTime time.Duration
+	var resolvedIP string
 	var errMsg string
 
-	switch svc.Type {
-	case TypeHTTP:
-		online, responseTime, errMsg = checkHTTP(svc.URL, svc.Insecure)
-	case TypePing:
-		online, responseTime, errMsg = checkPing(svc.Host)
-	case TypeDNS:
-		online, responseTime, errMsg = checkDNS(svc.Host)
-	default:
-		errMsg = "Unknown service type"
+	timestamp := time.Now()
+
+	switch testType {
+	case TestTypeDNS:
+		ip, duration, err := resolveDNS(endpoint.Hostname)
+		if err != nil {
+			errMsg = err.Error()
+		} else {
+			online = true
+			responseTime = duration
+			resolvedIP = ip
+		}
+
+	case TestTypePing:
+		// First resolve DNS
+		ip, _, err := resolveDNS(endpoint.Hostname)
+		if err != nil {
+			errMsg = "DNS resolution failed"
+		} else {
+			resolvedIP = ip
+			duration, err := pingIP(ip)
+			if err != nil {
+				errMsg = err.Error()
+			} else {
+				online = true
+				responseTime = duration
+			}
+		}
+
+	case TestTypeHTTP:
+		url := "https://" + endpoint.Hostname
+		duration, err := httpCheck(url)
+		if err != nil {
+			errMsg = err.Error()
+		} else {
+			online = true
+			responseTime = duration
+		}
 	}
 
-	result := ServiceResult{
-		Service:      svc,
+	// Create service key for history
+	serviceKey := fmt.Sprintf("%s [%s] - %s", endpoint.Location, endpoint.Provider, testType)
+
+	// Calculate baseline and trend
+	baseline, sampleCount := history.GetBaseline(serviceKey)
+	trend := CalculateTrend(responseTime, baseline, sampleCount)
+
+	// Add to history if successful
+	if online {
+		history.AddDataPoint(serviceKey, timestamp, responseTime)
+	}
+
+	result := TestResult{
+		Endpoint:     endpoint,
+		TestType:     testType,
 		Online:       online,
 		ResponseTime: responseTime,
+		ResolvedIP:   resolvedIP,
 		Error:        errMsg,
-		Timestamp:    time.Now(),
+		Timestamp:    timestamp,
+		Trend:        trend,
+		Baseline:     baseline,
 	}
 
 	results <- result
 }
 
-// printResult displays a service check result with colors
-func printResult(result ServiceResult) {
-	timestamp := result.Timestamp.Format("15:04:05")
-	checkType := string(result.Service.Type)
-
+// printResult displays a test result
+func printResult(result TestResult) {
 	var statusColor string
 	var status string
 
@@ -160,35 +375,54 @@ func printResult(result ServiceResult) {
 		status = "DOWN"
 	}
 
-	// Add location info if present
-	nameWithLocation := result.Service.Name
-	if result.Service.Location != "" {
-		nameWithLocation = fmt.Sprintf("%s (%s)", result.Service.Name, result.Service.Location)
+	// Determine trend color and symbol
+	var trendColor string
+	var trendSymbol string
+
+	switch result.Trend {
+	case "UP":
+		trendColor = ColorRed
+		trendSymbol = "↑"
+	case "DOWN":
+		trendColor = ColorGreen
+		trendSymbol = "↓"
+	case "STEADY":
+		trendColor = ColorYellow
+		trendSymbol = "→"
+	case "BASELINE":
+		trendColor = ColorCyan
+		trendSymbol = "●"
 	}
 
+	locationStr := fmt.Sprintf("%s [%s]", result.Endpoint.Location, result.Endpoint.Provider)
+
 	if result.Online {
-		seconds := result.ResponseTime.Seconds()
 		ms := result.ResponseTime.Milliseconds()
 
-		// Use milliseconds for fast responses (< 1 second)
-		if seconds < 1.0 {
-			fmt.Printf("%s[%s]%s [%s] %-45s [%s] %3dms\n",
-				statusColor, status, ColorReset, timestamp,
-				nameWithLocation, checkType, ms)
-		} else {
-			fmt.Printf("%s[%s]%s [%s] %-45s [%s] %.2fs\n",
-				statusColor, status, ColorReset, timestamp,
-				nameWithLocation, checkType, seconds)
+		fmt.Printf("%s[%s]%s %-35s %4dms %s[%s%s]%s",
+			statusColor, status, ColorReset,
+			locationStr, ms,
+			trendColor, result.Trend, trendSymbol, ColorReset)
+
+		if result.Trend != "BASELINE" && result.Baseline > 0 {
+			baselineMs := result.Baseline.Milliseconds()
+			fmt.Printf(" (baseline: %dms)", baselineMs)
 		}
+
+		if result.ResolvedIP != "" && result.TestType == TestTypePing {
+			fmt.Printf(" [%s]", result.ResolvedIP)
+		}
+
+		fmt.Println()
 	} else {
-		fmt.Printf("%s[%s]%s [%s] %-45s [%s] %s\n",
-			statusColor, status, ColorReset, timestamp,
-			nameWithLocation, checkType, result.Error)
+		fmt.Printf("%s[%s]%s %-35s %s\n",
+			statusColor, status, ColorReset,
+			locationStr, result.Error)
 	}
 }
 
 // writeToLog appends result to log file
-func writeToLog(result ServiceResult, logFile *os.File) {
+func writeToLog(result TestResult, logFile *os.File) {
 	if logFile == nil {
 		return
 	}
@@ -199,14 +433,11 @@ func writeToLog(result ServiceResult, logFile *os.File) {
 		status = "DOWN"
 	}
 
-	nameWithLocation := result.Service.Name
-	if result.Service.Location != "" {
-		nameWithLocation = fmt.Sprintf("%s (%s)", result.Service.Name, result.Service.Location)
-	}
+	locationStr := fmt.Sprintf("%s [%s]", result.Endpoint.Location, result.Endpoint.Provider)
 
-	logLine := fmt.Sprintf("%s | [%s] %-45s | Type: %s | Response: %dms",
-		timestamp, status, nameWithLocation,
-		result.Service.Type, result.ResponseTime.Milliseconds())
+	logLine := fmt.Sprintf("%s | [%s] %-35s | Test: %s | Response: %dms | Trend: %s",
+		timestamp, status, locationStr,
+		result.TestType, result.ResponseTime.Milliseconds(), result.Trend)
 
 	if !result.Online {
 		logLine += fmt.Sprintf(" | Error: %s", result.Error)
@@ -217,91 +448,118 @@ func writeToLog(result ServiceResult, logFile *os.File) {
 }
 
 // runHealthCheck performs one complete health check cycle
-func runHealthCheck(services []Service, logFile *os.File) {
-	results := make(chan ServiceResult, len(services))
+func runHealthCheck(endpoints []CloudEndpoint, logFile *os.File, history *HistoryStore) {
+	results := make(chan TestResult, len(endpoints)*3)
 	var wg sync.WaitGroup
 
 	startTime := time.Now()
 
-	for _, service := range services {
-		wg.Add(1)
-		go checkServiceConcurrent(service, results, &wg)
+	// Launch tests
+	for _, endpoint := range endpoints {
+		if endpoint.TestDNS {
+			wg.Add(1)
+			go runTest(endpoint, TestTypeDNS, results, &wg, history)
+		}
+		if endpoint.TestPing {
+			wg.Add(1)
+			go runTest(endpoint, TestTypePing, results, &wg, history)
+		}
+		if endpoint.TestHTTP {
+			wg.Add(1)
+			go runTest(endpoint, TestTypeHTTP, results, &wg, history)
+		}
 	}
 
 	wg.Wait()
 	close(results)
 
-	// Collect results and organize by category
-	var localResults []ServiceResult
-	var webResults []ServiceResult
-	var latencyResults []ServiceResult
+	// Organize results by test type
+	pingResults := []TestResult{}
+	dnsResults := []TestResult{}
+	httpResults := []TestResult{}
 
-	successCount := 0
+	totalTests := 0
+	successfulTests := 0
 	var totalResponseTime time.Duration
 
 	for result := range results {
-		if result.Service.Type == TypeHTTP && result.Service.Location == "" {
-			webResults = append(webResults, result)
-		} else if result.Service.Type == TypePing && result.Service.Location == "" {
-			localResults = append(localResults, result)
-		} else if result.Service.Location != "" {
-			latencyResults = append(latencyResults, result)
-		}
-
+		totalTests++
 		if result.Online {
-			successCount++
+			successfulTests++
 			totalResponseTime += result.ResponseTime
 		}
+
+		switch result.TestType {
+		case TestTypePing:
+			pingResults = append(pingResults, result)
+		case TestTypeDNS:
+			dnsResults = append(dnsResults, result)
+		case TestTypeHTTP:
+			httpResults = append(httpResults, result)
+		}
 	}
 
-	// Print organized results
-	if len(localResults) > 0 {
-		fmt.Printf("\n%s=== Local Network ===%s\n", ColorBlue, ColorReset)
-		for _, result := range localResults {
+	// Print results grouped by test type
+	if len(pingResults) > 0 {
+		fmt.Printf("\n%s=== ICMP PING TESTS (Network Layer Latency) ===%s\n", ColorMagenta, ColorReset)
+		for _, result := range pingResults {
 			printResult(result)
 			writeToLog(result, logFile)
 		}
 	}
 
-	if len(webResults) > 0 {
-		fmt.Printf("\n%s=== Web Services ===%s\n", ColorBlue, ColorReset)
-		for _, result := range webResults {
+	if len(dnsResults) > 0 {
+		fmt.Printf("\n%s=== DNS RESOLUTION TESTS ===%s\n", ColorMagenta, ColorReset)
+		for _, result := range dnsResults {
 			printResult(result)
 			writeToLog(result, logFile)
 		}
 	}
 
-	if len(latencyResults) > 0 {
-		fmt.Printf("\n%s=== Global Latency Tests ===%s\n", ColorBlue, ColorReset)
-		for _, result := range latencyResults {
+	if len(httpResults) > 0 {
+		fmt.Printf("\n%s=== HTTP/HTTPS TESTS (Application Layer Latency) ===%s\n", ColorMagenta, ColorReset)
+		for _, result := range httpResults {
 			printResult(result)
 			writeToLog(result, logFile)
 		}
-	}
-
-	// Calculate statistics
-	elapsed := time.Since(startTime)
-	successRate := float64(successCount) / float64(len(services)) * 100
-	avgResponseTime := time.Duration(0)
-	if successCount > 0 {
-		avgResponseTime = totalResponseTime / time.Duration(successCount)
 	}
 
 	// Print summary
-	fmt.Printf("\n%s=== Summary ===%s", ColorCyan, ColorReset)
-	fmt.Printf("\nTotal services checked: %d", len(services))
+	elapsed := time.Since(startTime)
+	successRate := float64(successfulTests) / float64(totalTests) * 100
+	avgResponseTime := time.Duration(0)
+	if successfulTests > 0 {
+		avgResponseTime = totalResponseTime / time.Duration(successfulTests)
+	}
+
+	fmt.Printf("\n%s=== SUMMARY ===%s", ColorCyan, ColorReset)
+	fmt.Printf("\nTotal tests executed: %d", totalTests)
 	fmt.Printf("\n%sSuccess rate: %.1f%% (%d/%d)%s",
-		ColorGreen, successRate, successCount, len(services), ColorReset)
+		ColorGreen, successRate, successfulTests, totalTests, ColorReset)
 	fmt.Printf("\nAverage response time: %dms", avgResponseTime.Milliseconds())
 	fmt.Printf("\nTotal execution time: %.2fs\n", elapsed.Seconds())
+
+	// Save history
+	if err := history.SaveToFile("latency_history.json"); err != nil {
+		fmt.Printf("%sWarning: Could not save history: %v%s\n", ColorYellow, err, ColorReset)
+	}
 }
 
 func main() {
-	fmt.Printf("%s=== Network Health Monitor ===%s\n", ColorCyan, ColorReset)
+	fmt.Printf("%s=== CLOUD INFRASTRUCTURE LATENCY MONITOR ===%s\n", ColorCyan, ColorReset)
+	fmt.Println("Testing AWS regional S3 endpoints")
 	fmt.Println("Press Ctrl+C to stop monitoring")
 
+	// Initialize history store
+	history := NewHistoryStore()
+	if err := history.LoadFromFile("latency_history.json"); err != nil {
+		fmt.Printf("%sWarning: Could not load history: %v%s\n", ColorYellow, err, ColorReset)
+	} else {
+		fmt.Printf("%sLoaded historical data from: latency_history.json%s\n", ColorYellow, ColorReset)
+	}
+
 	// Open log file
-	logFile, err := os.OpenFile("health_monitor.log",
+	logFile, err := os.OpenFile("cloud_latency.log",
 		os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("%sWarning: Could not open log file: %v%s\n",
@@ -309,73 +567,68 @@ func main() {
 		logFile = nil
 	} else {
 		defer logFile.Close()
-		fmt.Printf("%sLogging to: health_monitor.log%s\n\n", ColorYellow, ColorReset)
+		fmt.Printf("%sLogging to: cloud_latency.log%s\n\n", ColorYellow, ColorReset)
 	}
 
-	// Define all services to monitor
-	services := []Service{
-		// Local Network
-		{Name: "Home Router", URL: "https://192.168.3.1", Type: TypeHTTP, Insecure: true},
-		{Name: "Router", Host: "192.168.3.1", Type: TypePing},
-
-		// Web Services
-		{Name: "Google", URL: "https://www.google.com", Type: TypeHTTP},
-		{Name: "GitHub", URL: "https://github.com", Type: TypeHTTP},
-		{Name: "Mastercard Website", URL: "https://www.mastercard.com", Type: TypeHTTP},
-		{Name: "George Maddaloni Website", URL: "https://www.georgemaddaloni.com", Type: TypeHTTP},
-		{Name: "MA Connect Website", URL: "https://www.mastercardconnect.com", Type: TypeHTTP},
-
-		// Global Latency Tests - Using real HTTP endpoints in each region
-
+	// Define cloud endpoints to test - All AWS S3 regional endpoints
+	endpoints := []CloudEndpoint{
 		// Africa
-		{Name: "Johannesburg", URL: "https://www.takealot.com", Type: TypeHTTP, Location: "South Africa"},
-		{Name: "Cape Town", URL: "https://www.uct.ac.za", Type: TypeHTTP, Location: "South Africa"},
+		{Location: "Cape Town, ZA", Region: "af-south-1", Provider: "AWS", Hostname: "s3.af-south-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// South America
-		{Name: "São Paulo", URL: "https://www.uol.com.br", Type: TypeHTTP, Location: "Brazil"},
-		{Name: "Mexico City", URL: "https://www.mercadolibre.com.mx", Type: TypeHTTP, Location: "Mexico"},
+		{Location: "São Paulo, BR", Region: "sa-east-1", Provider: "AWS", Hostname: "s3.sa-east-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// Europe
-		{Name: "Paris", URL: "https://www.lemonde.fr", Type: TypeHTTP, Location: "France"},
-		{Name: "Frankfurt", URL: "https://www.bundesregierung.de", Type: TypeHTTP, Location: "Germany"},
-		{Name: "London", URL: "https://www.bbc.com", Type: TypeHTTP, Location: "UK"},
+		{Location: "Paris, FR", Region: "eu-west-3", Provider: "AWS", Hostname: "s3.eu-west-3.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Frankfurt, DE", Region: "eu-central-1", Provider: "AWS", Hostname: "s3.eu-central-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "London, UK", Region: "eu-west-2", Provider: "AWS", Hostname: "s3.eu-west-2.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Stockholm, SE", Region: "eu-north-1", Provider: "AWS", Hostname: "s3.eu-north-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Milan, IT", Region: "eu-south-1", Provider: "AWS", Hostname: "s3.eu-south-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// Middle East
-		{Name: "Dubai", URL: "https://www.emirates.com", Type: TypeHTTP, Location: "UAE"},
-		{Name: "Riyadh", URL: "https://www.spa.gov.sa", Type: TypeHTTP, Location: "Saudi Arabia"},
+		{Location: "Dubai, AE", Region: "me-south-1", Provider: "AWS", Hostname: "s3.me-south-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Riyadh, SA", Region: "me-central-1", Provider: "AWS", Hostname: "s3.me-central-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// Asia - South
-		{Name: "Mumbai", URL: "https://www.timesofindia.com", Type: TypeHTTP, Location: "India"},
-		{Name: "Pune", URL: "https://www.infosys.com", Type: TypeHTTP, Location: "India"},
+		{Location: "Mumbai, IN", Region: "ap-south-1", Provider: "AWS", Hostname: "s3.ap-south-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Hyderabad, IN", Region: "ap-south-2", Provider: "AWS", Hostname: "s3.ap-south-2.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// Asia - Southeast
-		{Name: "Singapore", URL: "https://www.straitstimes.com", Type: TypeHTTP, Location: "Singapore"},
-		{Name: "Bangkok", URL: "https://www.sanook.com", Type: TypeHTTP, Location: "Thailand"},
+		{Location: "Singapore, SG", Region: "ap-southeast-1", Provider: "AWS", Hostname: "s3.ap-southeast-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Jakarta, ID", Region: "ap-southeast-3", Provider: "AWS", Hostname: "s3.ap-southeast-3.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// Asia - East
-		{Name: "Tokyo", URL: "https://www.yahoo.co.jp", Type: TypeHTTP, Location: "Japan"},
+		{Location: "Tokyo, JP", Region: "ap-northeast-1", Provider: "AWS", Hostname: "s3.ap-northeast-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Seoul, KR", Region: "ap-northeast-2", Provider: "AWS", Hostname: "s3.ap-northeast-2.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Osaka, JP", Region: "ap-northeast-3", Provider: "AWS", Hostname: "s3.ap-northeast-3.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
 		// Oceania
-		{Name: "Sydney", URL: "https://www.abc.net.au", Type: TypeHTTP, Location: "Australia"},
-		{Name: "Melbourne", URL: "https://www.theage.com.au", Type: TypeHTTP, Location: "Australia"},
+		{Location: "Sydney, AU", Region: "ap-southeast-2", Provider: "AWS", Hostname: "s3.ap-southeast-2.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Melbourne, AU", Region: "ap-southeast-4", Provider: "AWS", Hostname: "s3.ap-southeast-4.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 
-		// North America
-		{Name: "Ashburn", URL: "https://aws.amazon.com", Type: TypeHTTP, Location: "Virginia, USA"},
-		{Name: "Dallas", URL: "https://www.att.com", Type: TypeHTTP, Location: "Texas, USA"},
-		{Name: "San Jose", URL: "https://www.cisco.com", Type: TypeHTTP, Location: "California, USA"},
+		// North America - East
+		{Location: "Ashburn, VA", Region: "us-east-1", Provider: "AWS", Hostname: "s3.us-east-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Columbus, OH", Region: "us-east-2", Provider: "AWS", Hostname: "s3.us-east-2.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+
+		// North America - West
+		{Location: "San Jose, CA", Region: "us-west-1", Provider: "AWS", Hostname: "s3.us-west-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+		{Location: "Portland, OR", Region: "us-west-2", Provider: "AWS", Hostname: "s3.us-west-2.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
+
+		// Canada
+		{Location: "Montreal, CA", Region: "ca-central-1", Provider: "AWS", Hostname: "s3.ca-central-1.amazonaws.com", TestPing: true, TestDNS: true, TestHTTP: true},
 	}
 
 	interval := 30 * time.Second
 	ticker := time.NewTicker(interval)
 	defer ticker.Stop()
 
-	fmt.Printf("%s[%s] Starting health check cycle...%s\n",
+	fmt.Printf("%s[%s] Starting cloud latency test cycle...%s\n",
 		ColorCyan, time.Now().Format("15:04:05"), ColorReset)
-	runHealthCheck(services, logFile)
+	runHealthCheck(endpoints, logFile, history)
 
 	for range ticker.C {
-		fmt.Printf("\n%s[%s] Starting health check cycle...%s\n",
+		fmt.Printf("\n%s[%s] Starting cloud latency test cycle...%s\n",
 			ColorCyan, time.Now().Format("15:04:05"), ColorReset)
-		runHealthCheck(services, logFile)
+		runHealthCheck(endpoints, logFile, history)
 	}
 }
