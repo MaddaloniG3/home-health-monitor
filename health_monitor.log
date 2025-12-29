@@ -1,0 +1,36 @@
+2025-12-28 20:52:08 | [UP] Home Router                    | Type: http | Response: 0.05s
+2025-12-28 20:52:08 | [DOWN] MA Connect Website             | Type: http | Response: 0.00s | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 20:52:08 | [UP] GitHub                         | Type: http | Response: 0.09s
+2025-12-28 20:52:08 | [UP] Mastercard Website             | Type: http | Response: 0.13s
+2025-12-28 20:52:08 | [UP] Google                         | Type: http | Response: 0.19s
+2025-12-28 20:52:08 | [UP] George Maddaloni Website       | Type: http | Response: 0.25s
+2025-12-28 20:52:09 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 1.02s
+2025-12-28 20:52:10 | [UP] Router (ping)                  | Type: ping | Response: 0.67s
+2025-12-28 20:52:10 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 20:53:20 | [UP] Home Router                    | Type: http | Response: 0.03s
+2025-12-28 20:53:20 | [UP] GitHub                         | Type: http | Response: 0.08s
+2025-12-28 20:53:20 | [UP] Mastercard Website             | Type: http | Response: 0.12s
+2025-12-28 20:53:21 | [UP] Google                         | Type: http | Response: 0.18s
+2025-12-28 20:53:21 | [UP] George Maddaloni Website       | Type: http | Response: 0.24s
+2025-12-28 20:53:21 | [UP] MA Connect Website             | Type: http | Response: 0.34s
+2025-12-28 20:53:22 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 1.26s
+2025-12-28 20:53:22 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 20:53:22 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 20:53:50 | [UP] GitHub                         | Type: http | Response: 0.02s
+2025-12-28 20:53:50 | [UP] Mastercard Website             | Type: http | Response: 0.02s
+2025-12-28 20:53:50 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 20:53:50 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 20:53:51 | [UP] MA Connect Website             | Type: http | Response: 0.23s
+2025-12-28 20:53:51 | [UP] George Maddaloni Website       | Type: http | Response: 0.24s
+2025-12-28 20:53:51 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 20:53:52 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 20:53:52 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 20:54:20 | [UP] GitHub                         | Type: http | Response: 0.02s
+2025-12-28 20:54:20 | [UP] Mastercard Website             | Type: http | Response: 0.02s
+2025-12-28 20:54:20 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 20:54:20 | [UP] Google                         | Type: http | Response: 0.12s
+2025-12-28 20:54:21 | [UP] MA Connect Website             | Type: http | Response: 0.23s
+2025-12-28 20:54:21 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.25s
+2025-12-28 20:54:21 | [UP] George Maddaloni Website       | Type: http | Response: 0.25s
+2025-12-28 20:54:22 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 20:54:22 | [UP] Google DNS                     | Type: ping | Response: 0.68s
