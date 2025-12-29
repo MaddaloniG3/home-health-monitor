@@ -1,0 +1,51 @@
+Location,Provider,PING (ms),DNS (ms),HTTP (ms),Total Latency (ms)
+"Ashburn (Virginia, USA)",N/A,0,0,0,0
+"Ashburn, VA",AWS,20,115,182,317
+Bangkok (Thailand),N/A,0,0,0,0
+"Bangkok, TH",GCP,0,39,136,175
+Cape Town (South Africa),N/A,0,0,0,0
+"Cape Town, ZA",AWS,258,76,1250,1584
+"Columbus, OH",AWS,33,91,204,328
+"Dallas (Texas, USA)",N/A,0,0,0,0
+Dubai (UAE),N/A,0,0,0,0
+"Dubai, AE",AWS,181,80,798,1059
+Frankfurt (Germany),N/A,0,0,0,0
+"Frankfurt, DE",AWS,105,111,426,642
+George Maddaloni Website,N/A,0,0,0,0
+GitHub,N/A,0,0,0,0
+Google,N/A,0,0,0,0
+Home Router,N/A,0,0,0,0
+"Hyderabad, IN",AWS,261,78,871,1210
+"Jakarta, ID",AWS,263,94,906,1263
+Johannesburg (South Africa),N/A,0,0,0,0
+London (UK),N/A,0,0,0,0
+"London, UK",AWS,89,116,393,598
+MA Connect Website,N/A,0,0,0,0
+Mastercard Website,N/A,0,0,0,0
+Melbourne (Australia),N/A,0,0,0,0
+"Melbourne, AU",AWS,229,79,791,1099
+Mexico City (Mexico),N/A,0,0,0,0
+"Milan, IT",AWS,112,75,793,980
+"Montreal, CA",AWS,22,92,181,295
+Mumbai (India),N/A,0,0,0,0
+"Mumbai, IN",AWS,208,87,1377,1672
+"Osaka, JP",AWS,198,76,680,954
+Paris (France),N/A,0,0,0,0
+"Paris, FR",AWS,95,94,804,993
+"Portland, OR",AWS,82,93,363,538
+Pune (India),N/A,0,0,0,0
+Riyadh (Saudi Arabia),N/A,0,0,0,0
+"Riyadh, SA",AWS,214,79,1401,1694
+Router,N/A,0,0,0,0
+"San Jose (California, USA)",N/A,0,0,0,0
+"San Jose, CA",AWS,84,87,351,522
+"Seoul, KR",AWS,216,89,752,1057
+Singapore (Singapore),N/A,0,0,0,0
+"Singapore, SG",AWS,251,117,877,1245
+"Stockholm, SE",AWS,111,81,420,612
+Sydney (Australia),N/A,0,0,0,0
+"Sydney, AU",AWS,215,95,777,1087
+São Paulo (Brazil),N/A,0,0,0,0
+"São Paulo, BR",AWS,134,83,480,697
+Tokyo (Japan),N/A,0,0,0,0
+"Tokyo, JP",AWS,187,93,685,965

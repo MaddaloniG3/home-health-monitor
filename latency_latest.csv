@@ -1,0 +1,98 @@
+Endpoint,Test Type,Location,Provider,Latest Response Time (ms),Timestamp,vs Baseline (%),Status
+"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,54,2025-12-28 21:35:57,-27.03,NORMAL
+"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,89,2025-12-28 22:05:31,-22.61,NORMAL
+"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,133,2025-12-28 22:05:31,-26.92,NORMAL
+"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,16,2025-12-28 22:05:31,-20.00,NORMAL
+Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,1410,2025-12-28 21:35:58,-34.90,NORMAL
+"Bangkok, TH [GCP] - DNS",DNS,"Bangkok, TH",GCP,22,2025-12-28 21:49:02,-43.59,NORMAL
+"Bangkok, TH [GCP] - HTTP",HTTP,"Bangkok, TH",GCP,124,2025-12-28 21:49:02,-8.82,NORMAL
+Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,244,2025-12-28 21:35:57,-42.59,NORMAL
+"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,64,2025-12-28 22:05:31,-15.79,NORMAL
+"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,863,2025-12-28 22:05:31,-30.96,NORMAL
+"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,256,2025-12-28 22:05:31,-0.78,NORMAL
+"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,84,2025-12-28 22:05:31,-7.69,NORMAL
+"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,181,2025-12-28 22:05:31,-11.27,NORMAL
+"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,29,2025-12-28 22:05:31,-12.12,NORMAL
+"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,805,2025-12-28 21:35:58,-3.94,NORMAL
+Dubai (UAE),OTHER,Dubai (UAE),N/A,538,2025-12-28 21:35:57,57.77,SLOW
+"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,78,2025-12-28 22:05:31,-2.50,NORMAL
+"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,1761,2025-12-28 22:05:31,120.68,SLOW
+"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,167,2025-12-28 22:05:31,-7.73,NORMAL
+Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,486,2025-12-28 21:35:57,-6.54,NORMAL
+"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,52,2025-12-28 22:05:31,-53.15,FAST
+"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,347,2025-12-28 22:05:31,-18.54,NORMAL
+"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,93,2025-12-28 22:05:31,-11.43,NORMAL
+George Maddaloni Website,OTHER,George Maddaloni Website,N/A,256,2025-12-28 21:35:57,-0.39,NORMAL
+GitHub,OTHER,GitHub,N/A,31,2025-12-28 21:35:57,-31.11,NORMAL
+Google,OTHER,Google,N/A,53,2025-12-28 21:35:57,-43.01,NORMAL
+Home Router,OTHER,Home Router,N/A,69,2025-12-28 21:35:57,9.52,NORMAL
+"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,65,2025-12-28 22:05:31,-16.67,NORMAL
+"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,843,2025-12-28 22:05:31,-3.21,NORMAL
+"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,255,2025-12-28 22:05:31,-2.30,NORMAL
+"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,31,2025-12-28 22:05:31,-67.02,FAST
+"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,859,2025-12-28 22:05:31,-5.19,NORMAL
+"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,254,2025-12-28 22:05:31,-3.42,NORMAL
+Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,43,2025-12-28 21:35:57,-41.89,NORMAL
+London (UK),OTHER,London (UK),N/A,31,2025-12-28 21:35:57,-48.33,NORMAL
+"London, UK [AWS] - DNS",DNS,"London, UK",AWS,85,2025-12-28 22:05:31,-26.72,NORMAL
+"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,325,2025-12-28 22:05:31,-17.30,NORMAL
+"London, UK [AWS] - PING",PING,"London, UK",AWS,80,2025-12-28 22:05:31,-10.11,NORMAL
+MA Connect Website,OTHER,MA Connect Website,N/A,290,2025-12-28 21:35:57,-4.92,NORMAL
+Mastercard Website,OTHER,Mastercard Website,N/A,31,2025-12-28 21:35:57,-53.03,FAST
+Melbourne (Australia),OTHER,Melbourne (Australia),N/A,31,2025-12-28 21:35:57,-45.61,NORMAL
+"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,61,2025-12-28 22:05:31,-22.78,NORMAL
+"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,734,2025-12-28 22:05:31,-7.21,NORMAL
+"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,221,2025-12-28 22:05:31,-3.49,NORMAL
+Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,32,2025-12-28 21:35:57,-50.00,NORMAL
+"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,42,2025-12-28 22:05:31,-44.00,NORMAL
+"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,375,2025-12-28 22:05:31,-52.71,FAST
+"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,103,2025-12-28 22:05:31,-8.04,NORMAL
+"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,55,2025-12-28 22:05:31,-40.22,NORMAL
+"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,155,2025-12-28 22:05:31,-14.36,NORMAL
+"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,18,2025-12-28 22:05:31,-18.18,NORMAL
+Mumbai (India),OTHER,Mumbai (India),N/A,91,2025-12-28 21:35:57,-26.61,NORMAL
+"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,78,2025-12-28 22:05:31,-10.34,NORMAL
+"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,4737,2025-12-28 22:05:31,244.01,SLOW
+"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,212,2025-12-28 22:05:31,1.92,NORMAL
+"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,73,2025-12-28 22:05:31,-3.95,NORMAL
+"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,663,2025-12-28 22:05:31,-2.50,NORMAL
+"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,194,2025-12-28 22:05:31,-2.02,NORMAL
+Paris (France),OTHER,Paris (France),N/A,52,2025-12-28 21:35:57,-40.23,NORMAL
+"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,59,2025-12-28 22:05:31,-37.23,NORMAL
+"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,317,2025-12-28 22:05:31,-60.57,FAST
+"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,86,2025-12-28 22:05:31,-9.47,NORMAL
+"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,79,2025-12-28 22:05:31,-15.05,NORMAL
+"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,321,2025-12-28 22:05:31,-11.57,NORMAL
+"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,73,2025-12-28 22:05:31,-10.98,NORMAL
+Pune (India),OTHER,Pune (India),N/A,32,2025-12-28 21:35:57,-34.69,NORMAL
+Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,815,2025-12-28 21:35:58,-2.98,NORMAL
+"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,62,2025-12-28 22:05:31,-21.52,NORMAL
+"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,3193,2025-12-28 22:05:31,127.91,SLOW
+"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,205,2025-12-28 22:05:31,-4.21,NORMAL
+Router,OTHER,Router,N/A,675,2025-12-28 21:35:59,-0.15,NORMAL
+"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,61,2025-12-28 21:35:57,-36.46,NORMAL
+"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,82,2025-12-28 22:05:31,-5.75,NORMAL
+"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,319,2025-12-28 22:05:31,-9.12,NORMAL
+"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,76,2025-12-28 22:05:31,-9.52,NORMAL
+"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,81,2025-12-28 22:05:31,-8.99,NORMAL
+"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,747,2025-12-28 22:05:31,-0.66,NORMAL
+"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,214,2025-12-28 22:05:31,-0.93,NORMAL
+Singapore (Singapore),OTHER,Singapore (Singapore),N/A,124,2025-12-28 21:35:57,-29.55,NORMAL
+"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,80,2025-12-28 22:05:31,-31.62,NORMAL
+"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,843,2025-12-28 22:05:31,-3.88,NORMAL
+"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,241,2025-12-28 22:05:31,-3.98,NORMAL
+"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,61,2025-12-28 22:05:31,-24.69,NORMAL
+"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,390,2025-12-28 22:05:31,-7.14,NORMAL
+"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,103,2025-12-28 22:05:31,-7.21,NORMAL
+Sydney (Australia),OTHER,Sydney (Australia),N/A,30,2025-12-28 21:35:57,-54.55,FAST
+"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,90,2025-12-28 22:05:31,-5.26,NORMAL
+"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,730,2025-12-28 22:05:31,-6.05,NORMAL
+"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,209,2025-12-28 22:05:31,-2.79,NORMAL
+São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,35,2025-12-28 21:35:57,-72.00,FAST
+"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,90,2025-12-28 22:05:31,8.43,NORMAL
+"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,472,2025-12-28 22:05:31,-1.67,NORMAL
+"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,125,2025-12-28 22:05:31,-6.72,NORMAL
+Tokyo (Japan),OTHER,Tokyo (Japan),N/A,245,2025-12-28 21:35:57,-30.00,NORMAL
+"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,90,2025-12-28 22:05:31,-3.23,NORMAL
+"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,651,2025-12-28 22:05:31,-4.96,NORMAL
+"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,185,2025-12-28 22:05:31,-1.07,NORMAL

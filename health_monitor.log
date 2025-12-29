@@ -34,3 +34,1090 @@
 2025-12-28 20:54:21 | [UP] George Maddaloni Website       | Type: http | Response: 0.25s
 2025-12-28 20:54:22 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
 2025-12-28 20:54:22 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:03:36 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:03:36 | [UP] GitHub                         | Type: http | Response: 0.09s
+2025-12-28 21:03:36 | [UP] Google                         | Type: http | Response: 0.21s
+2025-12-28 21:03:36 | [UP] Mastercard Website             | Type: http | Response: 0.22s
+2025-12-28 21:03:37 | [UP] George Maddaloni Website       | Type: http | Response: 0.26s
+2025-12-28 21:03:37 | [UP] MA Connect Website             | Type: http | Response: 0.29s
+2025-12-28 21:03:38 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 1.46s
+2025-12-28 21:03:38 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:03:38 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:04:06 | [UP] GitHub                         | Type: http | Response: 0.02s
+2025-12-28 21:04:06 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:04:06 | [UP] Home Router                    | Type: http | Response: 0.05s
+2025-12-28 21:04:06 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:04:06 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:04:06 | [UP] MA Connect Website             | Type: http | Response: 0.25s
+2025-12-28 21:04:07 | [UP] George Maddaloni Website       | Type: http | Response: 0.26s
+2025-12-28 21:04:08 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:04:08 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:04:36 | [UP] GitHub                         | Type: http | Response: 0.03s
+2025-12-28 21:04:36 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:04:36 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:04:36 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:04:36 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.25s
+2025-12-28 21:04:37 | [UP] George Maddaloni Website       | Type: http | Response: 0.26s
+2025-12-28 21:04:37 | [UP] MA Connect Website             | Type: http | Response: 0.30s
+2025-12-28 21:04:38 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:04:38 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:05:06 | [UP] GitHub                         | Type: http | Response: 0.02s
+2025-12-28 21:05:06 | [UP] Mastercard Website             | Type: http | Response: 0.02s
+2025-12-28 21:05:06 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:05:06 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:05:07 | [UP] George Maddaloni Website       | Type: http | Response: 0.26s
+2025-12-28 21:05:07 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.27s
+2025-12-28 21:05:07 | [UP] MA Connect Website             | Type: http | Response: 0.37s
+2025-12-28 21:05:08 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:05:08 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:05:36 | [UP] GitHub                         | Type: http | Response: 0.02s
+2025-12-28 21:05:36 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:05:36 | [UP] Home Router                    | Type: http | Response: 0.05s
+2025-12-28 21:05:36 | [UP] Google                         | Type: http | Response: 0.17s
+2025-12-28 21:05:36 | [UP] MA Connect Website             | Type: http | Response: 0.23s
+2025-12-28 21:05:36 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:05:37 | [UP] George Maddaloni Website       | Type: http | Response: 0.33s
+2025-12-28 21:05:38 | [UP] Router (ping)                  | Type: ping | Response: 0.69s
+2025-12-28 21:05:38 | [UP] Google DNS                     | Type: ping | Response: 0.69s
+2025-12-28 21:06:06 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:06:06 | [UP] GitHub                         | Type: http | Response: 0.03s
+2025-12-28 21:06:06 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:06:06 | [UP] Google                         | Type: http | Response: 0.12s
+2025-12-28 21:06:06 | [UP] George Maddaloni Website       | Type: http | Response: 0.24s
+2025-12-28 21:06:06 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.25s
+2025-12-28 21:06:07 | [UP] MA Connect Website             | Type: http | Response: 0.26s
+2025-12-28 21:06:08 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:06:08 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:06:36 | [UP] GitHub                         | Type: http | Response: 0.02s
+2025-12-28 21:06:36 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:06:36 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:06:36 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:06:36 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:06:36 | [UP] George Maddaloni Website       | Type: http | Response: 0.24s
+2025-12-28 21:06:37 | [UP] MA Connect Website             | Type: http | Response: 0.31s
+2025-12-28 21:06:38 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:06:38 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:07:06 | [UP] Mastercard Website             | Type: http | Response: 0.02s
+2025-12-28 21:07:06 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:07:06 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:07:06 | [UP] GitHub                         | Type: http | Response: 0.12s
+2025-12-28 21:07:06 | [UP] George Maddaloni Website       | Type: http | Response: 0.23s
+2025-12-28 21:07:06 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:07:07 | [UP] MA Connect Website             | Type: http | Response: 0.30s
+2025-12-28 21:07:08 | [UP] Router (ping)                  | Type: ping | Response: 0.67s
+2025-12-28 21:07:08 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:07:36 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:07:36 | [UP] GitHub                         | Type: http | Response: 0.03s
+2025-12-28 21:07:36 | [UP] Home Router                    | Type: http | Response: 0.06s
+2025-12-28 21:07:36 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:07:36 | [UP] George Maddaloni Website       | Type: http | Response: 0.23s
+2025-12-28 21:07:36 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:07:37 | [UP] MA Connect Website             | Type: http | Response: 0.28s
+2025-12-28 21:07:38 | [UP] Router (ping)                  | Type: ping | Response: 0.67s
+2025-12-28 21:07:38 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:08:06 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:08:06 | [UP] GitHub                         | Type: http | Response: 0.03s
+2025-12-28 21:08:06 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:08:06 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:08:06 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:08:07 | [UP] George Maddaloni Website       | Type: http | Response: 0.26s
+2025-12-28 21:08:07 | [UP] MA Connect Website             | Type: http | Response: 0.30s
+2025-12-28 21:08:08 | [UP] Router (ping)                  | Type: ping | Response: 0.68s
+2025-12-28 21:08:08 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:08:36 | [UP] GitHub                         | Type: http | Response: 0.03s
+2025-12-28 21:08:36 | [UP] Mastercard Website             | Type: http | Response: 0.03s
+2025-12-28 21:08:36 | [UP] Home Router                    | Type: http | Response: 0.04s
+2025-12-28 21:08:36 | [UP] Google                         | Type: http | Response: 0.11s
+2025-12-28 21:08:36 | [UP] MA Connect Website             | Type: http | Response: 0.23s
+2025-12-28 21:08:36 | [UP] George Maddaloni Website       | Type: http | Response: 0.24s
+2025-12-28 21:08:36 | [UP] Cape Town, SA (UCT)            | Type: http | Response: 0.24s
+2025-12-28 21:08:38 | [UP] Router (ping)                  | Type: ping | Response: 0.67s
+2025-12-28 21:08:38 | [UP] Google DNS                     | Type: ping | Response: 0.68s
+2025-12-28 21:12:59 | [UP] Router                                        | Type: ping | Response: 673ms
+2025-12-28 21:12:57 | [UP] Home Router                                   | Type: http | Response: 40ms
+2025-12-28 21:12:57 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:12:57 | [UP] GitHub                                        | Type: http | Response: 156ms
+2025-12-28 21:12:57 | [UP] Mastercard Website                            | Type: http | Response: 160ms
+2025-12-28 21:12:57 | [UP] Google                                        | Type: http | Response: 217ms
+2025-12-28 21:12:57 | [UP] George Maddaloni Website                      | Type: http | Response: 271ms
+2025-12-28 21:12:57 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:12:57 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:12:57 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:12:57 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:12:57 | [UP] Pune DNS (India)                              | Type: dns | Response: 60ms
+2025-12-28 21:12:57 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 58ms
+2025-12-28 21:12:58 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 820ms
+2025-12-28 21:12:59 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 676ms
+2025-12-28 21:12:59 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 676ms
+2025-12-28 21:12:59 | [UP] London DNS (UK)                               | Type: ping | Response: 679ms
+2025-12-28 21:12:59 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 679ms
+2025-12-28 21:12:59 | [UP] Paris CDN (France)                            | Type: ping | Response: 683ms
+2025-12-28 21:12:59 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 694ms
+2025-12-28 21:12:59 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 754ms
+2025-12-28 21:13:05 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:05 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:05 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:05 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:05 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:29 | [UP] Router                                        | Type: ping | Response: 677ms
+2025-12-28 21:13:27 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:13:27 | [UP] GitHub                                        | Type: http | Response: 20ms
+2025-12-28 21:13:27 | [UP] Mastercard Website                            | Type: http | Response: 26ms
+2025-12-28 21:13:27 | [UP] Home Router                                   | Type: http | Response: 40ms
+2025-12-28 21:13:27 | [UP] Google                                        | Type: http | Response: 101ms
+2025-12-28 21:13:27 | [UP] George Maddaloni Website                      | Type: http | Response: 242ms
+2025-12-28 21:13:27 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:13:27 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:13:27 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:13:27 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:13:27 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 6ms
+2025-12-28 21:13:27 | [UP] Pune DNS (India)                              | Type: dns | Response: 12ms
+2025-12-28 21:13:27 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 19ms
+2025-12-28 21:13:29 | [UP] London DNS (UK)                               | Type: ping | Response: 678ms
+2025-12-28 21:13:29 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 679ms
+2025-12-28 21:13:29 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 680ms
+2025-12-28 21:13:29 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 681ms
+2025-12-28 21:13:29 | [UP] Paris CDN (France)                            | Type: ping | Response: 683ms
+2025-12-28 21:13:29 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 696ms
+2025-12-28 21:13:29 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 755ms
+2025-12-28 21:13:35 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:35 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:35 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:35 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:35 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:13:59 | [UP] Router                                        | Type: ping | Response: 678ms
+2025-12-28 21:13:57 | [UP] GitHub                                        | Type: http | Response: 21ms
+2025-12-28 21:13:57 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:13:57 | [UP] Mastercard Website                            | Type: http | Response: 29ms
+2025-12-28 21:13:57 | [UP] Home Router                                   | Type: http | Response: 40ms
+2025-12-28 21:13:57 | [UP] Google                                        | Type: http | Response: 109ms
+2025-12-28 21:13:57 | [UP] George Maddaloni Website                      | Type: http | Response: 261ms
+2025-12-28 21:13:57 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:13:57 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:13:57 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:13:57 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:13:57 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 7ms
+2025-12-28 21:13:57 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 10ms
+2025-12-28 21:13:57 | [UP] Pune DNS (India)                              | Type: dns | Response: 14ms
+2025-12-28 21:13:59 | [UP] London DNS (UK)                               | Type: ping | Response: 678ms
+2025-12-28 21:13:59 | [UP] Paris CDN (France)                            | Type: ping | Response: 680ms
+2025-12-28 21:13:59 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 681ms
+2025-12-28 21:13:59 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 681ms
+2025-12-28 21:13:59 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 681ms
+2025-12-28 21:13:59 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 699ms
+2025-12-28 21:13:59 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 760ms
+2025-12-28 21:14:05 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:05 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:05 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:05 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:05 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:29 | [UP] Router                                        | Type: ping | Response: 679ms
+2025-12-28 21:14:27 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:14:27 | [UP] Mastercard Website                            | Type: http | Response: 27ms
+2025-12-28 21:14:27 | [UP] GitHub                                        | Type: http | Response: 129ms
+2025-12-28 21:14:27 | [UP] Google                                        | Type: http | Response: 238ms
+2025-12-28 21:14:27 | [UP] George Maddaloni Website                      | Type: http | Response: 247ms
+2025-12-28 21:14:28 | [UP] Home Router                                   | Type: http | Response: 1039ms
+2025-12-28 21:14:27 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:14:27 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:14:27 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:14:27 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:14:27 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 9ms
+2025-12-28 21:14:27 | [UP] Pune DNS (India)                              | Type: dns | Response: 10ms
+2025-12-28 21:14:27 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 11ms
+2025-12-28 21:14:29 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 679ms
+2025-12-28 21:14:29 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 678ms
+2025-12-28 21:14:29 | [UP] London DNS (UK)                               | Type: ping | Response: 679ms
+2025-12-28 21:14:29 | [UP] Paris CDN (France)                            | Type: ping | Response: 680ms
+2025-12-28 21:14:29 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 679ms
+2025-12-28 21:14:29 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 697ms
+2025-12-28 21:14:29 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 759ms
+2025-12-28 21:14:35 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:35 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:35 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:35 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:35 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:14:59 | [UP] Router                                        | Type: ping | Response: 678ms
+2025-12-28 21:14:57 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:14:57 | [UP] Mastercard Website                            | Type: http | Response: 20ms
+2025-12-28 21:14:57 | [UP] GitHub                                        | Type: http | Response: 22ms
+2025-12-28 21:14:57 | [UP] Home Router                                   | Type: http | Response: 43ms
+2025-12-28 21:14:57 | [UP] Google                                        | Type: http | Response: 108ms
+2025-12-28 21:14:57 | [UP] George Maddaloni Website                      | Type: http | Response: 252ms
+2025-12-28 21:14:57 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:14:57 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:14:57 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:14:57 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:14:57 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 8ms
+2025-12-28 21:14:57 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 9ms
+2025-12-28 21:14:57 | [UP] Pune DNS (India)                              | Type: dns | Response: 10ms
+2025-12-28 21:14:59 | [UP] London DNS (UK)                               | Type: ping | Response: 680ms
+2025-12-28 21:14:59 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 681ms
+2025-12-28 21:14:59 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 681ms
+2025-12-28 21:14:59 | [UP] Paris CDN (France)                            | Type: ping | Response: 681ms
+2025-12-28 21:14:59 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 682ms
+2025-12-28 21:14:59 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 700ms
+2025-12-28 21:14:59 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 759ms
+2025-12-28 21:15:05 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:05 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:05 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:05 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:05 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:29 | [UP] Router                                        | Type: ping | Response: 678ms
+2025-12-28 21:15:27 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:15:27 | [UP] Mastercard Website                            | Type: http | Response: 30ms
+2025-12-28 21:15:27 | [UP] GitHub                                        | Type: http | Response: 30ms
+2025-12-28 21:15:27 | [UP] Home Router                                   | Type: http | Response: 46ms
+2025-12-28 21:15:27 | [UP] Google                                        | Type: http | Response: 114ms
+2025-12-28 21:15:27 | [UP] George Maddaloni Website                      | Type: http | Response: 287ms
+2025-12-28 21:15:27 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:15:27 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:15:27 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:15:27 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:15:27 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 11ms
+2025-12-28 21:15:27 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 11ms
+2025-12-28 21:15:27 | [UP] Pune DNS (India)                              | Type: dns | Response: 11ms
+2025-12-28 21:15:29 | [UP] London DNS (UK)                               | Type: ping | Response: 678ms
+2025-12-28 21:15:29 | [UP] Paris CDN (France)                            | Type: ping | Response: 678ms
+2025-12-28 21:15:29 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 680ms
+2025-12-28 21:15:29 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 681ms
+2025-12-28 21:15:29 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 682ms
+2025-12-28 21:15:29 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 697ms
+2025-12-28 21:15:29 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 768ms
+2025-12-28 21:15:35 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:35 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:35 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:35 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:35 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:15:59 | [UP] Router                                        | Type: ping | Response: 676ms
+2025-12-28 21:15:57 | [DOWN] MA Connect Website                            | Type: http | Response: 0ms | Error: Get "https://maconnect.mastercard.com": dial tcp: lookup maconnect.mastercard.com: no such host
+2025-12-28 21:15:57 | [UP] GitHub                                        | Type: http | Response: 18ms
+2025-12-28 21:15:57 | [UP] Mastercard Website                            | Type: http | Response: 19ms
+2025-12-28 21:15:57 | [UP] Home Router                                   | Type: http | Response: 40ms
+2025-12-28 21:15:57 | [UP] Google                                        | Type: http | Response: 109ms
+2025-12-28 21:15:57 | [UP] George Maddaloni Website                      | Type: http | Response: 246ms
+2025-12-28 21:15:57 | [UP] San Jose DNS (California, USA)                | Type: dns | Response: 0ms
+2025-12-28 21:15:57 | [UP] Tokyo DNS (Japan)                             | Type: dns | Response: 0ms
+2025-12-28 21:15:57 | [UP] Frankfurt CDN (Germany)                       | Type: dns | Response: 0ms
+2025-12-28 21:15:57 | [UP] Singapore CDN (Singapore)                     | Type: dns | Response: 0ms
+2025-12-28 21:15:57 | [UP] Pune DNS (India)                              | Type: dns | Response: 3ms
+2025-12-28 21:15:57 | [UP] Cape Town DNS (South Africa)                  | Type: dns | Response: 5ms
+2025-12-28 21:15:57 | [UP] Melbourne DNS (Australia)                     | Type: dns | Response: 6ms
+2025-12-28 21:15:59 | [UP] London DNS (UK)                               | Type: ping | Response: 674ms
+2025-12-28 21:15:59 | [UP] Paris CDN (France)                            | Type: ping | Response: 676ms
+2025-12-28 21:15:59 | [UP] Ashburn DNS (Virginia, USA)                   | Type: ping | Response: 676ms
+2025-12-28 21:15:59 | [UP] Dallas DNS (Texas, USA)                       | Type: ping | Response: 676ms
+2025-12-28 21:15:59 | [UP] Sydney CDN (Australia)                        | Type: ping | Response: 679ms
+2025-12-28 21:15:59 | [UP] Bangkok DNS (Thailand)                        | Type: ping | Response: 695ms
+2025-12-28 21:15:59 | [UP] Johannesburg DNS (South Africa)               | Type: ping | Response: 756ms
+2025-12-28 21:16:05 | [DOWN] Riyadh DNS (Saudi Arabia)                     | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:16:05 | [DOWN] Mexico City DNS (Mexico)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:16:05 | [DOWN] Mumbai DNS (India)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:16:05 | [DOWN] São Paulo DNS (Brazil)                        | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:16:05 | [DOWN] Dubai DNS (UAE)                               | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:21 | [UP] Router                                        | Type: ping | Response: 678ms
+2025-12-28 21:17:19 | [UP] Home Router                                   | Type: http | Response: 50ms
+2025-12-28 21:17:19 | [UP] GitHub                                        | Type: http | Response: 105ms
+2025-12-28 21:17:19 | [UP] Mastercard Website                            | Type: http | Response: 138ms
+2025-12-28 21:17:19 | [UP] Google                                        | Type: http | Response: 175ms
+2025-12-28 21:17:19 | [UP] George Maddaloni Website                      | Type: http | Response: 270ms
+2025-12-28 21:17:19 | [UP] MA Connect Website                            | Type: http | Response: 286ms
+2025-12-28 21:17:21 | [UP] London (UK)                                   | Type: ping | Response: 679ms
+2025-12-28 21:17:21 | [UP] San Jose (California, USA)                    | Type: ping | Response: 680ms
+2025-12-28 21:17:21 | [UP] Dallas (Texas, USA)                           | Type: ping | Response: 699ms
+2025-12-28 21:17:21 | [UP] Johannesburg (South Africa)                   | Type: ping | Response: 754ms
+2025-12-28 21:17:21 | [UP] Mumbai (India)                                | Type: ping | Response: 764ms
+2025-12-28 21:17:27 | [DOWN] Riyadh (Saudi Arabia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Tokyo (Japan)                                 | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Dubai (UAE)                                   | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Bangkok (Thailand)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Ashburn (Virginia, USA)                       | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Mexico City (Mexico)                          | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Melbourne (Australia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Frankfurt (Germany)                           | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Paris (France)                                | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Cape Town (South Africa)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Sydney (Australia)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Singapore (Singapore)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] São Paulo (Brazil)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:27 | [DOWN] Pune (India)                                  | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:51 | [UP] Router                                        | Type: ping | Response: 684ms
+2025-12-28 21:17:49 | [UP] GitHub                                        | Type: http | Response: 36ms
+2025-12-28 21:17:49 | [UP] Mastercard Website                            | Type: http | Response: 43ms
+2025-12-28 21:17:49 | [UP] Home Router                                   | Type: http | Response: 56ms
+2025-12-28 21:17:49 | [UP] Google                                        | Type: http | Response: 117ms
+2025-12-28 21:17:49 | [UP] MA Connect Website                            | Type: http | Response: 247ms
+2025-12-28 21:17:49 | [UP] George Maddaloni Website                      | Type: http | Response: 276ms
+2025-12-28 21:17:51 | [UP] San Jose (California, USA)                    | Type: ping | Response: 685ms
+2025-12-28 21:17:51 | [UP] London (UK)                                   | Type: ping | Response: 686ms
+2025-12-28 21:17:51 | [UP] Dallas (Texas, USA)                           | Type: ping | Response: 705ms
+2025-12-28 21:17:51 | [UP] Johannesburg (South Africa)                   | Type: ping | Response: 757ms
+2025-12-28 21:17:51 | [UP] Mumbai (India)                                | Type: ping | Response: 770ms
+2025-12-28 21:17:57 | [DOWN] Dubai (UAE)                                   | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Mexico City (Mexico)                          | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] São Paulo (Brazil)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Sydney (Australia)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Cape Town (South Africa)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Paris (France)                                | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Frankfurt (Germany)                           | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Melbourne (Australia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Ashburn (Virginia, USA)                       | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Tokyo (Japan)                                 | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Riyadh (Saudi Arabia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Bangkok (Thailand)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Pune (India)                                  | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:17:57 | [DOWN] Singapore (Singapore)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:21 | [UP] Router                                        | Type: ping | Response: 679ms
+2025-12-28 21:18:19 | [UP] Mastercard Website                            | Type: http | Response: 25ms
+2025-12-28 21:18:19 | [UP] Home Router                                   | Type: http | Response: 52ms
+2025-12-28 21:18:19 | [UP] GitHub                                        | Type: http | Response: 91ms
+2025-12-28 21:18:19 | [UP] Google                                        | Type: http | Response: 117ms
+2025-12-28 21:18:19 | [UP] MA Connect Website                            | Type: http | Response: 230ms
+2025-12-28 21:18:19 | [UP] George Maddaloni Website                      | Type: http | Response: 251ms
+2025-12-28 21:18:21 | [UP] London (UK)                                   | Type: ping | Response: 680ms
+2025-12-28 21:18:21 | [UP] San Jose (California, USA)                    | Type: ping | Response: 684ms
+2025-12-28 21:18:21 | [UP] Dallas (Texas, USA)                           | Type: ping | Response: 701ms
+2025-12-28 21:18:21 | [UP] Johannesburg (South Africa)                   | Type: ping | Response: 759ms
+2025-12-28 21:18:21 | [UP] Mumbai (India)                                | Type: ping | Response: 765ms
+2025-12-28 21:18:27 | [DOWN] Mexico City (Mexico)                          | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Paris (France)                                | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Singapore (Singapore)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Riyadh (Saudi Arabia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Ashburn (Virginia, USA)                       | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Cape Town (South Africa)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Pune (India)                                  | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Bangkok (Thailand)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] São Paulo (Brazil)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Melbourne (Australia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Tokyo (Japan)                                 | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Frankfurt (Germany)                           | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Dubai (UAE)                                   | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:27 | [DOWN] Sydney (Australia)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:51 | [UP] Router                                        | Type: ping | Response: 679ms
+2025-12-28 21:18:49 | [UP] GitHub                                        | Type: http | Response: 31ms
+2025-12-28 21:18:49 | [UP] Mastercard Website                            | Type: http | Response: 37ms
+2025-12-28 21:18:49 | [UP] Home Router                                   | Type: http | Response: 50ms
+2025-12-28 21:18:49 | [UP] Google                                        | Type: http | Response: 120ms
+2025-12-28 21:18:49 | [UP] MA Connect Website                            | Type: http | Response: 223ms
+2025-12-28 21:18:49 | [UP] George Maddaloni Website                      | Type: http | Response: 250ms
+2025-12-28 21:18:51 | [UP] London (UK)                                   | Type: ping | Response: 678ms
+2025-12-28 21:18:51 | [UP] San Jose (California, USA)                    | Type: ping | Response: 682ms
+2025-12-28 21:18:51 | [UP] Dallas (Texas, USA)                           | Type: ping | Response: 700ms
+2025-12-28 21:18:51 | [UP] Johannesburg (South Africa)                   | Type: ping | Response: 754ms
+2025-12-28 21:18:51 | [UP] Mumbai (India)                                | Type: ping | Response: 766ms
+2025-12-28 21:18:57 | [DOWN] Dubai (UAE)                                   | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Sydney (Australia)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Bangkok (Thailand)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Frankfurt (Germany)                           | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Singapore (Singapore)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] São Paulo (Brazil)                            | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Ashburn (Virginia, USA)                       | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Mexico City (Mexico)                          | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Cape Town (South Africa)                      | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Tokyo (Japan)                                 | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Melbourne (Australia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Paris (France)                                | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Pune (India)                                  | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:18:57 | [DOWN] Riyadh (Saudi Arabia)                         | Type: ping | Response: 0ms | Error: Host unreachable
+2025-12-28 21:22:49 | [UP] Router                                        | Type: ping | Response: 674ms
+2025-12-28 21:22:47 | [UP] Home Router                                   | Type: http | Response: 130ms
+2025-12-28 21:22:47 | [UP] GitHub                                        | Type: http | Response: 199ms
+2025-12-28 21:22:48 | [UP] Mastercard Website                            | Type: http | Response: 279ms
+2025-12-28 21:22:48 | [UP] George Maddaloni Website                      | Type: http | Response: 301ms
+2025-12-28 21:22:48 | [UP] Google                                        | Type: http | Response: 338ms
+2025-12-28 21:22:48 | [UP] MA Connect Website                            | Type: http | Response: 384ms
+2025-12-28 21:22:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 247ms
+2025-12-28 21:22:48 | [UP] Mexico City (Mexico)                          | Type: http | Response: 251ms
+2025-12-28 21:22:48 | [UP] San Jose (California, USA)                    | Type: http | Response: 285ms
+2025-12-28 21:22:48 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 312ms
+2025-12-28 21:22:48 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 317ms
+2025-12-28 21:22:48 | [UP] London (UK)                                   | Type: http | Response: 325ms
+2025-12-28 21:22:48 | [UP] Pune (India)                                  | Type: http | Response: 324ms
+2025-12-28 21:22:48 | [UP] Mumbai (India)                                | Type: http | Response: 385ms
+2025-12-28 21:22:48 | [UP] Singapore (Singapore)                         | Type: http | Response: 391ms
+2025-12-28 21:22:48 | [UP] Paris (France)                                | Type: http | Response: 447ms
+2025-12-28 21:22:48 | [UP] Melbourne (Australia)                         | Type: http | Response: 499ms
+2025-12-28 21:22:48 | [UP] Dubai (UAE)                                   | Type: http | Response: 712ms
+2025-12-28 21:22:48 | [UP] Sydney (Australia)                            | Type: http | Response: 719ms
+2025-12-28 21:22:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 747ms
+2025-12-28 21:22:48 | [UP] Tokyo (Japan)                                 | Type: http | Response: 938ms
+2025-12-28 21:22:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1177ms
+2025-12-28 21:22:49 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 1326ms
+2025-12-28 21:22:49 | [UP] Cape Town (South Africa)                      | Type: http | Response: 1702ms
+2025-12-28 21:22:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 2036ms
+2025-12-28 21:23:19 | [UP] Router                                        | Type: ping | Response: 677ms
+2025-12-28 21:23:17 | [UP] Mastercard Website                            | Type: http | Response: 45ms
+2025-12-28 21:23:17 | [UP] GitHub                                        | Type: http | Response: 46ms
+2025-12-28 21:23:17 | [UP] Home Router                                   | Type: http | Response: 67ms
+2025-12-28 21:23:17 | [UP] Google                                        | Type: http | Response: 125ms
+2025-12-28 21:23:18 | [UP] MA Connect Website                            | Type: http | Response: 312ms
+2025-12-28 21:23:18 | [UP] George Maddaloni Website                      | Type: http | Response: 336ms
+2025-12-28 21:23:17 | [UP] Pune (India)                                  | Type: http | Response: 44ms
+2025-12-28 21:23:17 | [UP] Sydney (Australia)                            | Type: http | Response: 45ms
+2025-12-28 21:23:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 45ms
+2025-12-28 21:23:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 46ms
+2025-12-28 21:23:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 47ms
+2025-12-28 21:23:17 | [UP] London (UK)                                   | Type: http | Response: 47ms
+2025-12-28 21:23:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 50ms
+2025-12-28 21:23:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 53ms
+2025-12-28 21:23:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 55ms
+2025-12-28 21:23:17 | [UP] Paris (France)                                | Type: http | Response: 85ms
+2025-12-28 21:23:17 | [UP] Mumbai (India)                                | Type: http | Response: 114ms
+2025-12-28 21:23:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 124ms
+2025-12-28 21:23:18 | [UP] Cape Town (South Africa)                      | Type: http | Response: 255ms
+2025-12-28 21:23:18 | [UP] Dubai (UAE)                                   | Type: http | Response: 256ms
+2025-12-28 21:23:18 | [UP] Tokyo (Japan)                                 | Type: http | Response: 256ms
+2025-12-28 21:23:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 555ms
+2025-12-28 21:23:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 554ms
+2025-12-28 21:23:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 966ms
+2025-12-28 21:23:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1105ms
+2025-12-28 21:23:49 | [UP] Router                                        | Type: ping | Response: 676ms
+2025-12-28 21:23:47 | [UP] GitHub                                        | Type: http | Response: 35ms
+2025-12-28 21:23:47 | [UP] Mastercard Website                            | Type: http | Response: 36ms
+2025-12-28 21:23:47 | [UP] Home Router                                   | Type: http | Response: 62ms
+2025-12-28 21:23:47 | [UP] Google                                        | Type: http | Response: 128ms
+2025-12-28 21:23:48 | [UP] George Maddaloni Website                      | Type: http | Response: 272ms
+2025-12-28 21:23:48 | [UP] MA Connect Website                            | Type: http | Response: 352ms
+2025-12-28 21:23:47 | [UP] London (UK)                                   | Type: http | Response: 15ms
+2025-12-28 21:23:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 33ms
+2025-12-28 21:23:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 32ms
+2025-12-28 21:23:47 | [UP] Pune (India)                                  | Type: http | Response: 36ms
+2025-12-28 21:23:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 34ms
+2025-12-28 21:23:47 | [UP] Sydney (Australia)                            | Type: http | Response: 35ms
+2025-12-28 21:23:47 | [UP] Paris (France)                                | Type: http | Response: 48ms
+2025-12-28 21:23:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 54ms
+2025-12-28 21:23:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 61ms
+2025-12-28 21:23:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 78ms
+2025-12-28 21:23:47 | [UP] Mumbai (India)                                | Type: http | Response: 104ms
+2025-12-28 21:23:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 144ms
+2025-12-28 21:23:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 199ms
+2025-12-28 21:23:47 | [UP] Cape Town (South Africa)                      | Type: http | Response: 238ms
+2025-12-28 21:23:48 | [UP] Dubai (UAE)                                   | Type: http | Response: 277ms
+2025-12-28 21:23:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 504ms
+2025-12-28 21:23:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 827ms
+2025-12-28 21:23:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1003ms
+2025-12-28 21:23:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1364ms
+2025-12-28 21:24:19 | [UP] Router                                        | Type: ping | Response: 676ms
+2025-12-28 21:24:17 | [UP] Mastercard Website                            | Type: http | Response: 25ms
+2025-12-28 21:24:17 | [UP] Home Router                                   | Type: http | Response: 54ms
+2025-12-28 21:24:17 | [UP] Google                                        | Type: http | Response: 114ms
+2025-12-28 21:24:17 | [UP] GitHub                                        | Type: http | Response: 152ms
+2025-12-28 21:24:17 | [UP] MA Connect Website                            | Type: http | Response: 214ms
+2025-12-28 21:24:18 | [UP] George Maddaloni Website                      | Type: http | Response: 259ms
+2025-12-28 21:24:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 20ms
+2025-12-28 21:24:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 21ms
+2025-12-28 21:24:17 | [UP] Pune (India)                                  | Type: http | Response: 22ms
+2025-12-28 21:24:17 | [UP] Sydney (Australia)                            | Type: http | Response: 21ms
+2025-12-28 21:24:17 | [UP] London (UK)                                   | Type: http | Response: 24ms
+2025-12-28 21:24:17 | [UP] Paris (France)                                | Type: http | Response: 29ms
+2025-12-28 21:24:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 40ms
+2025-12-28 21:24:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 44ms
+2025-12-28 21:24:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 62ms
+2025-12-28 21:24:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 63ms
+2025-12-28 21:24:17 | [UP] Mumbai (India)                                | Type: http | Response: 87ms
+2025-12-28 21:24:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 158ms
+2025-12-28 21:24:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 200ms
+2025-12-28 21:24:17 | [UP] Dubai (UAE)                                   | Type: http | Response: 224ms
+2025-12-28 21:24:17 | [UP] Cape Town (South Africa)                      | Type: http | Response: 244ms
+2025-12-28 21:24:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 507ms
+2025-12-28 21:24:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 861ms
+2025-12-28 21:24:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 926ms
+2025-12-28 21:24:19 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1653ms
+2025-12-28 21:24:49 | [UP] Router                                        | Type: ping | Response: 675ms
+2025-12-28 21:24:47 | [UP] GitHub                                        | Type: http | Response: 32ms
+2025-12-28 21:24:47 | [UP] Mastercard Website                            | Type: http | Response: 32ms
+2025-12-28 21:24:47 | [UP] Home Router                                   | Type: http | Response: 71ms
+2025-12-28 21:24:47 | [UP] Google                                        | Type: http | Response: 114ms
+2025-12-28 21:24:48 | [UP] George Maddaloni Website                      | Type: http | Response: 269ms
+2025-12-28 21:24:48 | [UP] MA Connect Website                            | Type: http | Response: 313ms
+2025-12-28 21:24:47 | [UP] London (UK)                                   | Type: http | Response: 26ms
+2025-12-28 21:24:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 30ms
+2025-12-28 21:24:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 30ms
+2025-12-28 21:24:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 33ms
+2025-12-28 21:24:47 | [UP] Pune (India)                                  | Type: http | Response: 31ms
+2025-12-28 21:24:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 34ms
+2025-12-28 21:24:47 | [UP] Sydney (Australia)                            | Type: http | Response: 42ms
+2025-12-28 21:24:47 | [UP] Paris (France)                                | Type: http | Response: 49ms
+2025-12-28 21:24:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 52ms
+2025-12-28 21:24:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 55ms
+2025-12-28 21:24:47 | [UP] Mumbai (India)                                | Type: http | Response: 81ms
+2025-12-28 21:24:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 122ms
+2025-12-28 21:24:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 201ms
+2025-12-28 21:24:48 | [UP] Cape Town (South Africa)                      | Type: http | Response: 245ms
+2025-12-28 21:24:48 | [UP] Dubai (UAE)                                   | Type: http | Response: 318ms
+2025-12-28 21:24:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 545ms
+2025-12-28 21:24:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 702ms
+2025-12-28 21:24:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 874ms
+2025-12-28 21:24:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1428ms
+2025-12-28 21:25:19 | [UP] Router                                        | Type: ping | Response: 676ms
+2025-12-28 21:25:17 | [UP] GitHub                                        | Type: http | Response: 33ms
+2025-12-28 21:25:17 | [UP] Mastercard Website                            | Type: http | Response: 36ms
+2025-12-28 21:25:17 | [UP] Home Router                                   | Type: http | Response: 54ms
+2025-12-28 21:25:17 | [UP] Google                                        | Type: http | Response: 121ms
+2025-12-28 21:25:17 | [UP] MA Connect Website                            | Type: http | Response: 242ms
+2025-12-28 21:25:18 | [UP] George Maddaloni Website                      | Type: http | Response: 258ms
+2025-12-28 21:25:17 | [UP] London (UK)                                   | Type: http | Response: 15ms
+2025-12-28 21:25:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 29ms
+2025-12-28 21:25:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 29ms
+2025-12-28 21:25:17 | [UP] Pune (India)                                  | Type: http | Response: 33ms
+2025-12-28 21:25:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 34ms
+2025-12-28 21:25:17 | [UP] Sydney (Australia)                            | Type: http | Response: 34ms
+2025-12-28 21:25:17 | [UP] Paris (France)                                | Type: http | Response: 38ms
+2025-12-28 21:25:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 50ms
+2025-12-28 21:25:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 52ms
+2025-12-28 21:25:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 51ms
+2025-12-28 21:25:17 | [UP] Mumbai (India)                                | Type: http | Response: 108ms
+2025-12-28 21:25:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 147ms
+2025-12-28 21:25:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 208ms
+2025-12-28 21:25:17 | [UP] Cape Town (South Africa)                      | Type: http | Response: 240ms
+2025-12-28 21:25:18 | [UP] Dubai (UAE)                                   | Type: http | Response: 258ms
+2025-12-28 21:25:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 526ms
+2025-12-28 21:25:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 933ms
+2025-12-28 21:25:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 973ms
+2025-12-28 21:25:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1110ms
+2025-12-28 21:25:49 | [UP] Router                                        | Type: ping | Response: 677ms
+2025-12-28 21:25:47 | [UP] Mastercard Website                            | Type: http | Response: 25ms
+2025-12-28 21:25:47 | [UP] Home Router                                   | Type: http | Response: 93ms
+2025-12-28 21:25:47 | [UP] Google                                        | Type: http | Response: 130ms
+2025-12-28 21:25:47 | [UP] GitHub                                        | Type: http | Response: 173ms
+2025-12-28 21:25:48 | [UP] George Maddaloni Website                      | Type: http | Response: 277ms
+2025-12-28 21:25:48 | [UP] MA Connect Website                            | Type: http | Response: 335ms
+2025-12-28 21:25:47 | [UP] London (UK)                                   | Type: http | Response: 20ms
+2025-12-28 21:25:47 | [UP] Pune (India)                                  | Type: http | Response: 25ms
+2025-12-28 21:25:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 24ms
+2025-12-28 21:25:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 52ms
+2025-12-28 21:25:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 48ms
+2025-12-28 21:25:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 49ms
+2025-12-28 21:25:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 71ms
+2025-12-28 21:25:47 | [UP] Paris (France)                                | Type: http | Response: 69ms
+2025-12-28 21:25:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 70ms
+2025-12-28 21:25:47 | [UP] Sydney (Australia)                            | Type: http | Response: 76ms
+2025-12-28 21:25:47 | [UP] Mumbai (India)                                | Type: http | Response: 112ms
+2025-12-28 21:25:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 132ms
+2025-12-28 21:25:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 206ms
+2025-12-28 21:25:47 | [UP] Dubai (UAE)                                   | Type: http | Response: 238ms
+2025-12-28 21:25:48 | [UP] Cape Town (South Africa)                      | Type: http | Response: 263ms
+2025-12-28 21:25:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 529ms
+2025-12-28 21:25:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 827ms
+2025-12-28 21:25:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 858ms
+2025-12-28 21:25:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1735ms
+2025-12-28 21:26:19 | [UP] Router                                        | Type: ping | Response: 675ms
+2025-12-28 21:26:17 | [UP] GitHub                                        | Type: http | Response: 25ms
+2025-12-28 21:26:17 | [UP] Mastercard Website                            | Type: http | Response: 22ms
+2025-12-28 21:26:17 | [UP] Home Router                                   | Type: http | Response: 50ms
+2025-12-28 21:26:17 | [UP] Google                                        | Type: http | Response: 118ms
+2025-12-28 21:26:17 | [UP] George Maddaloni Website                      | Type: http | Response: 228ms
+2025-12-28 21:26:18 | [UP] MA Connect Website                            | Type: http | Response: 338ms
+2025-12-28 21:26:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 24ms
+2025-12-28 21:26:17 | [UP] Pune (India)                                  | Type: http | Response: 21ms
+2025-12-28 21:26:17 | [UP] London (UK)                                   | Type: http | Response: 20ms
+2025-12-28 21:26:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 22ms
+2025-12-28 21:26:17 | [UP] Sydney (Australia)                            | Type: http | Response: 21ms
+2025-12-28 21:26:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 38ms
+2025-12-28 21:26:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 38ms
+2025-12-28 21:26:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 45ms
+2025-12-28 21:26:17 | [UP] Paris (France)                                | Type: http | Response: 46ms
+2025-12-28 21:26:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 56ms
+2025-12-28 21:26:17 | [UP] Mumbai (India)                                | Type: http | Response: 91ms
+2025-12-28 21:26:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 125ms
+2025-12-28 21:26:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 213ms
+2025-12-28 21:26:17 | [UP] Dubai (UAE)                                   | Type: http | Response: 207ms
+2025-12-28 21:26:17 | [UP] Cape Town (South Africa)                      | Type: http | Response: 241ms
+2025-12-28 21:26:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 490ms
+2025-12-28 21:26:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 832ms
+2025-12-28 21:26:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1101ms
+2025-12-28 21:26:19 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1335ms
+2025-12-28 21:26:49 | [UP] Router                                        | Type: ping | Response: 675ms
+2025-12-28 21:26:47 | [UP] GitHub                                        | Type: http | Response: 42ms
+2025-12-28 21:26:47 | [UP] Mastercard Website                            | Type: http | Response: 46ms
+2025-12-28 21:26:47 | [UP] Home Router                                   | Type: http | Response: 72ms
+2025-12-28 21:26:47 | [UP] Google                                        | Type: http | Response: 116ms
+2025-12-28 21:26:47 | [UP] George Maddaloni Website                      | Type: http | Response: 244ms
+2025-12-28 21:26:48 | [UP] MA Connect Website                            | Type: http | Response: 304ms
+2025-12-28 21:26:47 | [UP] London (UK)                                   | Type: http | Response: 26ms
+2025-12-28 21:26:47 | [UP] Sydney (Australia)                            | Type: http | Response: 27ms
+2025-12-28 21:26:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 27ms
+2025-12-28 21:26:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 42ms
+2025-12-28 21:26:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 46ms
+2025-12-28 21:26:47 | [UP] Pune (India)                                  | Type: http | Response: 46ms
+2025-12-28 21:26:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 56ms
+2025-12-28 21:26:47 | [UP] Paris (France)                                | Type: http | Response: 56ms
+2025-12-28 21:26:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 58ms
+2025-12-28 21:26:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 71ms
+2025-12-28 21:26:47 | [UP] Mumbai (India)                                | Type: http | Response: 116ms
+2025-12-28 21:26:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 120ms
+2025-12-28 21:26:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 199ms
+2025-12-28 21:26:47 | [UP] Cape Town (South Africa)                      | Type: http | Response: 244ms
+2025-12-28 21:26:48 | [UP] Dubai (UAE)                                   | Type: http | Response: 298ms
+2025-12-28 21:26:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 527ms
+2025-12-28 21:26:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 815ms
+2025-12-28 21:26:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1007ms
+2025-12-28 21:26:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1378ms
+2025-12-28 21:27:19 | [UP] Router                                        | Type: ping | Response: 676ms
+2025-12-28 21:27:17 | [UP] Mastercard Website                            | Type: http | Response: 37ms
+2025-12-28 21:27:17 | [UP] GitHub                                        | Type: http | Response: 37ms
+2025-12-28 21:27:17 | [UP] Home Router                                   | Type: http | Response: 68ms
+2025-12-28 21:27:17 | [UP] Google                                        | Type: http | Response: 125ms
+2025-12-28 21:27:18 | [UP] George Maddaloni Website                      | Type: http | Response: 274ms
+2025-12-28 21:27:18 | [UP] MA Connect Website                            | Type: http | Response: 286ms
+2025-12-28 21:27:17 | [UP] London (UK)                                   | Type: http | Response: 36ms
+2025-12-28 21:27:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 36ms
+2025-12-28 21:27:17 | [UP] Pune (India)                                  | Type: http | Response: 37ms
+2025-12-28 21:27:17 | [UP] Sydney (Australia)                            | Type: http | Response: 37ms
+2025-12-28 21:27:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 40ms
+2025-12-28 21:27:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 40ms
+2025-12-28 21:27:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 52ms
+2025-12-28 21:27:17 | [UP] Paris (France)                                | Type: http | Response: 59ms
+2025-12-28 21:27:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 68ms
+2025-12-28 21:27:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 75ms
+2025-12-28 21:27:17 | [UP] Mumbai (India)                                | Type: http | Response: 124ms
+2025-12-28 21:27:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 129ms
+2025-12-28 21:27:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 212ms
+2025-12-28 21:27:17 | [UP] Dubai (UAE)                                   | Type: http | Response: 220ms
+2025-12-28 21:27:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 544ms
+2025-12-28 21:27:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 792ms
+2025-12-28 21:27:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 819ms
+2025-12-28 21:27:19 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1700ms
+2025-12-28 21:27:19 | [UP] Cape Town (South Africa)                      | Type: http | Response: 1704ms
+2025-12-28 21:27:49 | [UP] Router                                        | Type: ping | Response: 674ms
+2025-12-28 21:27:47 | [UP] Mastercard Website                            | Type: http | Response: 25ms
+2025-12-28 21:27:47 | [UP] GitHub                                        | Type: http | Response: 26ms
+2025-12-28 21:27:47 | [UP] Home Router                                   | Type: http | Response: 64ms
+2025-12-28 21:27:47 | [UP] Google                                        | Type: http | Response: 124ms
+2025-12-28 21:27:48 | [UP] George Maddaloni Website                      | Type: http | Response: 255ms
+2025-12-28 21:27:48 | [UP] MA Connect Website                            | Type: http | Response: 254ms
+2025-12-28 21:27:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 25ms
+2025-12-28 21:27:47 | [UP] London (UK)                                   | Type: http | Response: 23ms
+2025-12-28 21:27:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 26ms
+2025-12-28 21:27:47 | [UP] Pune (India)                                  | Type: http | Response: 26ms
+2025-12-28 21:27:47 | [UP] Sydney (Australia)                            | Type: http | Response: 27ms
+2025-12-28 21:27:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 33ms
+2025-12-28 21:27:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 38ms
+2025-12-28 21:27:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 47ms
+2025-12-28 21:27:47 | [UP] Paris (France)                                | Type: http | Response: 53ms
+2025-12-28 21:27:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 53ms
+2025-12-28 21:27:47 | [UP] Mumbai (India)                                | Type: http | Response: 84ms
+2025-12-28 21:27:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 112ms
+2025-12-28 21:27:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 205ms
+2025-12-28 21:27:47 | [UP] Dubai (UAE)                                   | Type: http | Response: 239ms
+2025-12-28 21:27:47 | [UP] Cape Town (South Africa)                      | Type: http | Response: 241ms
+2025-12-28 21:27:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 505ms
+2025-12-28 21:27:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 562ms
+2025-12-28 21:27:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 807ms
+2025-12-28 21:27:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1382ms
+2025-12-28 21:28:19 | [UP] Router                                        | Type: ping | Response: 674ms
+2025-12-28 21:28:17 | [UP] GitHub                                        | Type: http | Response: 27ms
+2025-12-28 21:28:17 | [UP] Mastercard Website                            | Type: http | Response: 29ms
+2025-12-28 21:28:17 | [UP] Home Router                                   | Type: http | Response: 58ms
+2025-12-28 21:28:17 | [UP] Google                                        | Type: http | Response: 108ms
+2025-12-28 21:28:18 | [UP] George Maddaloni Website                      | Type: http | Response: 249ms
+2025-12-28 21:28:18 | [UP] MA Connect Website                            | Type: http | Response: 291ms
+2025-12-28 21:28:17 | [UP] London (UK)                                   | Type: http | Response: 18ms
+2025-12-28 21:28:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 18ms
+2025-12-28 21:28:17 | [UP] Pune (India)                                  | Type: http | Response: 27ms
+2025-12-28 21:28:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 29ms
+2025-12-28 21:28:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 28ms
+2025-12-28 21:28:17 | [UP] Sydney (Australia)                            | Type: http | Response: 43ms
+2025-12-28 21:28:17 | [UP] Paris (France)                                | Type: http | Response: 51ms
+2025-12-28 21:28:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 53ms
+2025-12-28 21:28:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 55ms
+2025-12-28 21:28:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 56ms
+2025-12-28 21:28:17 | [UP] Mumbai (India)                                | Type: http | Response: 83ms
+2025-12-28 21:28:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 140ms
+2025-12-28 21:28:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 196ms
+2025-12-28 21:28:17 | [UP] Cape Town (South Africa)                      | Type: http | Response: 239ms
+2025-12-28 21:28:18 | [UP] Dubai (UAE)                                   | Type: http | Response: 251ms
+2025-12-28 21:28:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 498ms
+2025-12-28 21:28:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 812ms
+2025-12-28 21:28:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 831ms
+2025-12-28 21:28:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1080ms
+2025-12-28 21:28:49 | [UP] Router                                        | Type: ping | Response: 673ms
+2025-12-28 21:28:47 | [UP] GitHub                                        | Type: http | Response: 19ms
+2025-12-28 21:28:47 | [UP] Mastercard Website                            | Type: http | Response: 39ms
+2025-12-28 21:28:47 | [UP] Home Router                                   | Type: http | Response: 74ms
+2025-12-28 21:28:47 | [UP] Google                                        | Type: http | Response: 104ms
+2025-12-28 21:28:47 | [UP] George Maddaloni Website                      | Type: http | Response: 245ms
+2025-12-28 21:28:48 | [UP] MA Connect Website                            | Type: http | Response: 298ms
+2025-12-28 21:28:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 19ms
+2025-12-28 21:28:47 | [UP] London (UK)                                   | Type: http | Response: 34ms
+2025-12-28 21:28:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 35ms
+2025-12-28 21:28:47 | [UP] Sydney (Australia)                            | Type: http | Response: 37ms
+2025-12-28 21:28:47 | [UP] Pune (India)                                  | Type: http | Response: 39ms
+2025-12-28 21:28:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 39ms
+2025-12-28 21:28:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 50ms
+2025-12-28 21:28:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 48ms
+2025-12-28 21:28:47 | [UP] Paris (France)                                | Type: http | Response: 104ms
+2025-12-28 21:28:47 | [UP] Mumbai (India)                                | Type: http | Response: 132ms
+2025-12-28 21:28:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 171ms
+2025-12-28 21:28:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 171ms
+2025-12-28 21:28:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 199ms
+2025-12-28 21:28:47 | [UP] Cape Town (South Africa)                      | Type: http | Response: 237ms
+2025-12-28 21:28:48 | [UP] Dubai (UAE)                                   | Type: http | Response: 250ms
+2025-12-28 21:28:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 541ms
+2025-12-28 21:28:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 686ms
+2025-12-28 21:28:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 818ms
+2025-12-28 21:28:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1636ms
+2025-12-28 21:29:19 | [UP] Router                                        | Type: ping | Response: 675ms
+2025-12-28 21:29:17 | [UP] Mastercard Website                            | Type: http | Response: 31ms
+2025-12-28 21:29:17 | [UP] GitHub                                        | Type: http | Response: 31ms
+2025-12-28 21:29:17 | [UP] Home Router                                   | Type: http | Response: 67ms
+2025-12-28 21:29:17 | [UP] Google                                        | Type: http | Response: 120ms
+2025-12-28 21:29:18 | [UP] George Maddaloni Website                      | Type: http | Response: 263ms
+2025-12-28 21:29:18 | [UP] MA Connect Website                            | Type: http | Response: 313ms
+2025-12-28 21:29:17 | [UP] Pune (India)                                  | Type: http | Response: 17ms
+2025-12-28 21:29:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 31ms
+2025-12-28 21:29:17 | [UP] London (UK)                                   | Type: http | Response: 32ms
+2025-12-28 21:29:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 34ms
+2025-12-28 21:29:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 35ms
+2025-12-28 21:29:17 | [UP] Sydney (Australia)                            | Type: http | Response: 41ms
+2025-12-28 21:29:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 46ms
+2025-12-28 21:29:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 54ms
+2025-12-28 21:29:17 | [UP] Paris (France)                                | Type: http | Response: 61ms
+2025-12-28 21:29:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 61ms
+2025-12-28 21:29:17 | [UP] Mumbai (India)                                | Type: http | Response: 85ms
+2025-12-28 21:29:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 144ms
+2025-12-28 21:29:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 205ms
+2025-12-28 21:29:18 | [UP] Dubai (UAE)                                   | Type: http | Response: 264ms
+2025-12-28 21:29:18 | [UP] Cape Town (South Africa)                      | Type: http | Response: 265ms
+2025-12-28 21:29:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 488ms
+2025-12-28 21:29:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 816ms
+2025-12-28 21:29:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 862ms
+2025-12-28 21:29:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1103ms
+2025-12-28 21:29:49 | [UP] Router                                        | Type: ping | Response: 704ms
+2025-12-28 21:29:47 | [UP] Mastercard Website                            | Type: http | Response: 37ms
+2025-12-28 21:29:47 | [UP] Home Router                                   | Type: http | Response: 71ms
+2025-12-28 21:29:47 | [UP] Google                                        | Type: http | Response: 111ms
+2025-12-28 21:29:47 | [UP] GitHub                                        | Type: http | Response: 151ms
+2025-12-28 21:29:47 | [UP] George Maddaloni Website                      | Type: http | Response: 244ms
+2025-12-28 21:29:48 | [UP] MA Connect Website                            | Type: http | Response: 318ms
+2025-12-28 21:29:47 | [UP] London (UK)                                   | Type: http | Response: 18ms
+2025-12-28 21:29:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 37ms
+2025-12-28 21:29:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 37ms
+2025-12-28 21:29:47 | [UP] Sydney (Australia)                            | Type: http | Response: 37ms
+2025-12-28 21:29:47 | [UP] Pune (India)                                  | Type: http | Response: 48ms
+2025-12-28 21:29:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 48ms
+2025-12-28 21:29:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 50ms
+2025-12-28 21:29:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 58ms
+2025-12-28 21:29:47 | [UP] Paris (France)                                | Type: http | Response: 58ms
+2025-12-28 21:29:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 63ms
+2025-12-28 21:29:47 | [UP] Mumbai (India)                                | Type: http | Response: 109ms
+2025-12-28 21:29:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 151ms
+2025-12-28 21:29:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 200ms
+2025-12-28 21:29:47 | [UP] Dubai (UAE)                                   | Type: http | Response: 244ms
+2025-12-28 21:29:48 | [UP] Cape Town (South Africa)                      | Type: http | Response: 249ms
+2025-12-28 21:29:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 627ms
+2025-12-28 21:29:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 831ms
+2025-12-28 21:29:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 866ms
+2025-12-28 21:29:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1391ms
+2025-12-28 21:30:19 | [UP] Router                                        | Type: ping | Response: 675ms
+2025-12-28 21:30:17 | [UP] GitHub                                        | Type: http | Response: 23ms
+2025-12-28 21:30:17 | [UP] Mastercard Website                            | Type: http | Response: 43ms
+2025-12-28 21:30:17 | [UP] Google                                        | Type: http | Response: 171ms
+2025-12-28 21:30:17 | [UP] Home Router                                   | Type: http | Response: 189ms
+2025-12-28 21:30:18 | [UP] George Maddaloni Website                      | Type: http | Response: 406ms
+2025-12-28 21:30:18 | [UP] MA Connect Website                            | Type: http | Response: 550ms
+2025-12-28 21:30:17 | [UP] London (UK)                                   | Type: http | Response: 13ms
+2025-12-28 21:30:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 17ms
+2025-12-28 21:30:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 19ms
+2025-12-28 21:30:17 | [UP] Pune (India)                                  | Type: http | Response: 19ms
+2025-12-28 21:30:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 44ms
+2025-12-28 21:30:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 45ms
+2025-12-28 21:30:17 | [UP] Paris (France)                                | Type: http | Response: 170ms
+2025-12-28 21:30:17 | [UP] Sydney (Australia)                            | Type: http | Response: 170ms
+2025-12-28 21:30:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 170ms
+2025-12-28 21:30:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 172ms
+2025-12-28 21:30:17 | [UP] Mumbai (India)                                | Type: http | Response: 202ms
+2025-12-28 21:30:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 202ms
+2025-12-28 21:30:18 | [UP] Cape Town (South Africa)                      | Type: http | Response: 245ms
+2025-12-28 21:30:18 | [UP] Singapore (Singapore)                         | Type: http | Response: 250ms
+2025-12-28 21:30:18 | [UP] Dubai (UAE)                                   | Type: http | Response: 350ms
+2025-12-28 21:30:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 674ms
+2025-12-28 21:30:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 864ms
+2025-12-28 21:30:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1200ms
+2025-12-28 21:30:19 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1746ms
+2025-12-28 21:30:49 | [UP] Router                                        | Type: ping | Response: 675ms
+2025-12-28 21:30:47 | [UP] Mastercard Website                            | Type: http | Response: 29ms
+2025-12-28 21:30:47 | [UP] GitHub                                        | Type: http | Response: 29ms
+2025-12-28 21:30:47 | [UP] Home Router                                   | Type: http | Response: 71ms
+2025-12-28 21:30:47 | [UP] Google                                        | Type: http | Response: 120ms
+2025-12-28 21:30:48 | [UP] George Maddaloni Website                      | Type: http | Response: 264ms
+2025-12-28 21:30:48 | [UP] MA Connect Website                            | Type: http | Response: 335ms
+2025-12-28 21:30:47 | [UP] London (UK)                                   | Type: http | Response: 28ms
+2025-12-28 21:30:47 | [UP] Pune (India)                                  | Type: http | Response: 28ms
+2025-12-28 21:30:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 28ms
+2025-12-28 21:30:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 40ms
+2025-12-28 21:30:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 40ms
+2025-12-28 21:30:47 | [UP] Sydney (Australia)                            | Type: http | Response: 40ms
+2025-12-28 21:30:47 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 48ms
+2025-12-28 21:30:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 49ms
+2025-12-28 21:30:47 | [UP] Paris (France)                                | Type: http | Response: 54ms
+2025-12-28 21:30:47 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 62ms
+2025-12-28 21:30:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 127ms
+2025-12-28 21:30:47 | [UP] Mumbai (India)                                | Type: http | Response: 150ms
+2025-12-28 21:30:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 199ms
+2025-12-28 21:30:48 | [UP] Cape Town (South Africa)                      | Type: http | Response: 244ms
+2025-12-28 21:30:48 | [UP] Dubai (UAE)                                   | Type: http | Response: 300ms
+2025-12-28 21:30:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 495ms
+2025-12-28 21:30:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 692ms
+2025-12-28 21:30:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 1031ms
+2025-12-28 21:30:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1392ms
+2025-12-28 21:31:19 | [UP] Router                                        | Type: ping | Response: 672ms
+2025-12-28 21:31:17 | [UP] Mastercard Website                            | Type: http | Response: 31ms
+2025-12-28 21:31:17 | [UP] Home Router                                   | Type: http | Response: 61ms
+2025-12-28 21:31:17 | [UP] Google                                        | Type: http | Response: 112ms
+2025-12-28 21:31:17 | [UP] GitHub                                        | Type: http | Response: 143ms
+2025-12-28 21:31:18 | [UP] George Maddaloni Website                      | Type: http | Response: 254ms
+2025-12-28 21:31:18 | [UP] MA Connect Website                            | Type: http | Response: 281ms
+2025-12-28 21:31:17 | [UP] London (UK)                                   | Type: http | Response: 20ms
+2025-12-28 21:31:17 | [UP] Pune (India)                                  | Type: http | Response: 30ms
+2025-12-28 21:31:17 | [UP] Sydney (Australia)                            | Type: http | Response: 30ms
+2025-12-28 21:31:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 30ms
+2025-12-28 21:31:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 31ms
+2025-12-28 21:31:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 31ms
+2025-12-28 21:31:17 | [UP] Paris (France)                                | Type: http | Response: 48ms
+2025-12-28 21:31:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 51ms
+2025-12-28 21:31:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 58ms
+2025-12-28 21:31:17 | [UP] Mumbai (India)                                | Type: http | Response: 110ms
+2025-12-28 21:31:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 112ms
+2025-12-28 21:31:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 129ms
+2025-12-28 21:31:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 202ms
+2025-12-28 21:31:17 | [UP] Dubai (UAE)                                   | Type: http | Response: 238ms
+2025-12-28 21:31:18 | [UP] Cape Town (South Africa)                      | Type: http | Response: 246ms
+2025-12-28 21:31:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 508ms
+2025-12-28 21:31:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 822ms
+2025-12-28 21:31:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1038ms
+2025-12-28 21:31:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1070ms
+2025-12-28 21:31:49 | [UP] Router                                        | Type: ping | Response: 674ms
+2025-12-28 21:31:47 | [UP] Mastercard Website                            | Type: http | Response: 25ms
+2025-12-28 21:31:47 | [UP] GitHub                                        | Type: http | Response: 27ms
+2025-12-28 21:31:47 | [UP] Home Router                                   | Type: http | Response: 59ms
+2025-12-28 21:31:47 | [UP] Google                                        | Type: http | Response: 115ms
+2025-12-28 21:31:47 | [UP] George Maddaloni Website                      | Type: http | Response: 242ms
+2025-12-28 21:31:48 | [UP] MA Connect Website                            | Type: http | Response: 331ms
+2025-12-28 21:31:47 | [UP] London (UK)                                   | Type: http | Response: 14ms
+2025-12-28 21:31:47 | [UP] Melbourne (Australia)                         | Type: http | Response: 17ms
+2025-12-28 21:31:47 | [UP] Sydney (Australia)                            | Type: http | Response: 27ms
+2025-12-28 21:31:47 | [UP] Paris (France)                                | Type: http | Response: 51ms
+2025-12-28 21:31:47 | [UP] Singapore (Singapore)                         | Type: http | Response: 130ms
+2025-12-28 21:31:47 | [UP] Pune (India)                                  | Type: http | Response: 173ms
+2025-12-28 21:31:47 | [UP] Mexico City (Mexico)                          | Type: http | Response: 175ms
+2025-12-28 21:31:47 | [UP] São Paulo (Brazil)                            | Type: http | Response: 180ms
+2025-12-28 21:31:47 | [UP] Tokyo (Japan)                                 | Type: http | Response: 199ms
+2025-12-28 21:31:47 | [UP] San Jose (California, USA)                    | Type: http | Response: 208ms
+2025-12-28 21:31:47 | [UP] Dubai (UAE)                                   | Type: http | Response: 207ms
+2025-12-28 21:31:47 | [UP] Mumbai (India)                                | Type: http | Response: 241ms
+2025-12-28 21:31:48 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 274ms
+2025-12-28 21:31:48 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 302ms
+2025-12-28 21:31:48 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 525ms
+2025-12-28 21:31:48 | [UP] Frankfurt (Germany)                           | Type: http | Response: 559ms
+2025-12-28 21:31:48 | [UP] Cape Town (South Africa)                      | Type: http | Response: 679ms
+2025-12-28 21:31:48 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 861ms
+2025-12-28 21:31:49 | [UP] Bangkok (Thailand)                            | Type: http | Response: 2237ms
+2025-12-28 21:32:19 | [UP] Router                                        | Type: ping | Response: 679ms
+2025-12-28 21:32:17 | [UP] GitHub                                        | Type: http | Response: 34ms
+2025-12-28 21:32:17 | [UP] Mastercard Website                            | Type: http | Response: 34ms
+2025-12-28 21:32:17 | [UP] Home Router                                   | Type: http | Response: 64ms
+2025-12-28 21:32:17 | [UP] Google                                        | Type: http | Response: 105ms
+2025-12-28 21:32:18 | [UP] George Maddaloni Website                      | Type: http | Response: 255ms
+2025-12-28 21:32:18 | [UP] MA Connect Website                            | Type: http | Response: 290ms
+2025-12-28 21:32:17 | [UP] London (UK)                                   | Type: http | Response: 18ms
+2025-12-28 21:32:17 | [UP] São Paulo (Brazil)                            | Type: http | Response: 18ms
+2025-12-28 21:32:17 | [UP] Sydney (Australia)                            | Type: http | Response: 34ms
+2025-12-28 21:32:17 | [UP] Pune (India)                                  | Type: http | Response: 34ms
+2025-12-28 21:32:17 | [UP] Melbourne (Australia)                         | Type: http | Response: 34ms
+2025-12-28 21:32:17 | [UP] Mexico City (Mexico)                          | Type: http | Response: 35ms
+2025-12-28 21:32:17 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 49ms
+2025-12-28 21:32:17 | [UP] Paris (France)                                | Type: http | Response: 50ms
+2025-12-28 21:32:17 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 57ms
+2025-12-28 21:32:17 | [UP] Mumbai (India)                                | Type: http | Response: 109ms
+2025-12-28 21:32:17 | [UP] San Jose (California, USA)                    | Type: http | Response: 136ms
+2025-12-28 21:32:17 | [UP] Singapore (Singapore)                         | Type: http | Response: 141ms
+2025-12-28 21:32:17 | [UP] Tokyo (Japan)                                 | Type: http | Response: 199ms
+2025-12-28 21:32:17 | [UP] Dubai (UAE)                                   | Type: http | Response: 210ms
+2025-12-28 21:32:18 | [UP] Cape Town (South Africa)                      | Type: http | Response: 254ms
+2025-12-28 21:32:18 | [UP] Frankfurt (Germany)                           | Type: http | Response: 494ms
+2025-12-28 21:32:18 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 866ms
+2025-12-28 21:32:18 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1088ms
+2025-12-28 21:32:18 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1095ms
+2025-12-28 21:32:59 | [UP] Router                                        | Type: ping | Response: 675ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Home Router                                   | Type: http | Response: 41ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] GitHub                                        | Type: http | Response: 150ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Mastercard Website                            | Type: http | Response: 239ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Google                                        | Type: http | Response: 245ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] George Maddaloni Website                      | Type: http | Response: 294ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] MA Connect Website                            | Type: http | Response: 341ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Pune (India)                                  | Type: http | Response: 172ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Melbourne (Australia)                         | Type: http | Response: 182ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 185ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Sydney (Australia)                            | Type: http | Response: 185ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 208ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Mexico City (Mexico)                          | Type: http | Response: 250ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] San Jose (California, USA)                    | Type: http | Response: 259ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] London (UK)                                   | Type: http | Response: 265ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Paris (France)                                | Type: http | Response: 273ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Mumbai (India)                                | Type: http | Response: 315ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] São Paulo (Brazil)                            | Type: http | Response: 330ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Singapore (Singapore)                         | Type: http | Response: 344ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Dubai (UAE)                                   | Type: http | Response: 420ms | Trend: BASELINE
+2025-12-28 21:32:57 | [UP] Frankfurt (Germany)                           | Type: http | Response: 546ms | Trend: BASELINE
+2025-12-28 21:32:58 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 893ms | Trend: BASELINE
+2025-12-28 21:32:58 | [UP] Tokyo (Japan)                                 | Type: http | Response: 960ms | Trend: BASELINE
+2025-12-28 21:32:58 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 1013ms | Trend: BASELINE
+2025-12-28 21:32:58 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1457ms | Trend: BASELINE
+2025-12-28 21:32:58 | [UP] Cape Town (South Africa)                      | Type: http | Response: 1509ms | Trend: BASELINE
+2025-12-28 21:33:29 | [UP] Router                                        | Type: ping | Response: 673ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] GitHub                                        | Type: http | Response: 39ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Mastercard Website                            | Type: http | Response: 42ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Home Router                                   | Type: http | Response: 62ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Google                                        | Type: http | Response: 74ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] George Maddaloni Website                      | Type: http | Response: 239ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] MA Connect Website                            | Type: http | Response: 372ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Melbourne (Australia)                         | Type: http | Response: 37ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] São Paulo (Brazil)                            | Type: http | Response: 38ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] London (UK)                                   | Type: http | Response: 39ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Sydney (Australia)                            | Type: http | Response: 38ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Pune (India)                                  | Type: http | Response: 39ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Mexico City (Mexico)                          | Type: http | Response: 43ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] San Jose (California, USA)                    | Type: http | Response: 46ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 47ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 49ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Paris (France)                                | Type: http | Response: 61ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Mumbai (India)                                | Type: http | Response: 96ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Singapore (Singapore)                         | Type: http | Response: 182ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Dubai (UAE)                                   | Type: http | Response: 221ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Cape Town (South Africa)                      | Type: http | Response: 245ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Tokyo (Japan)                                 | Type: http | Response: 252ms | Trend: BASELINE
+2025-12-28 21:33:27 | [UP] Frankfurt (Germany)                           | Type: http | Response: 533ms | Trend: BASELINE
+2025-12-28 21:33:28 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 810ms | Trend: BASELINE
+2025-12-28 21:33:28 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 922ms | Trend: BASELINE
+2025-12-28 21:33:30 | [UP] Bangkok (Thailand)                            | Type: http | Response: 3267ms | Trend: BASELINE
+2025-12-28 21:33:59 | [UP] Router                                        | Type: ping | Response: 679ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] GitHub                                        | Type: http | Response: 26ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Mastercard Website                            | Type: http | Response: 28ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Home Router                                   | Type: http | Response: 68ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Google                                        | Type: http | Response: 117ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] George Maddaloni Website                      | Type: http | Response: 252ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] MA Connect Website                            | Type: http | Response: 268ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] São Paulo (Brazil)                            | Type: http | Response: 26ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] London (UK)                                   | Type: http | Response: 23ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Sydney (Australia)                            | Type: http | Response: 25ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Pune (India)                                  | Type: http | Response: 26ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Mexico City (Mexico)                          | Type: http | Response: 46ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Melbourne (Australia)                         | Type: http | Response: 47ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Paris (France)                                | Type: http | Response: 54ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 57ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 66ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Mumbai (India)                                | Type: http | Response: 105ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] San Jose (California, USA)                    | Type: http | Response: 119ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Singapore (Singapore)                         | Type: http | Response: 161ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Tokyo (Japan)                                 | Type: http | Response: 240ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Cape Town (South Africa)                      | Type: http | Response: 245ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Dubai (UAE)                                   | Type: http | Response: 428ms | Trend: BASELINE
+2025-12-28 21:33:57 | [UP] Frankfurt (Germany)                           | Type: http | Response: 514ms | Trend: BASELINE
+2025-12-28 21:33:58 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 880ms | Trend: BASELINE
+2025-12-28 21:33:58 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 901ms | Trend: BASELINE
+2025-12-28 21:33:58 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1397ms | Trend: BASELINE
+2025-12-28 21:34:29 | [UP] Router                                        | Type: ping | Response: 673ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] GitHub                                        | Type: http | Response: 27ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Mastercard Website                            | Type: http | Response: 41ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Google                                        | Type: http | Response: 51ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Home Router                                   | Type: http | Response: 65ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] George Maddaloni Website                      | Type: http | Response: 254ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] MA Connect Website                            | Type: http | Response: 288ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] São Paulo (Brazil)                            | Type: http | Response: 25ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] London (UK)                                   | Type: http | Response: 24ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Mexico City (Mexico)                          | Type: http | Response: 26ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Pune (India)                                  | Type: http | Response: 25ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Melbourne (Australia)                         | Type: http | Response: 42ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 50ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] San Jose (California, USA)                    | Type: http | Response: 51ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Paris (France)                                | Type: http | Response: 50ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 62ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] Sydney (Australia)                            | Type: http | Response: 81ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] Mumbai (India)                                | Type: http | Response: 98ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] Singapore (Singapore)                         | Type: http | Response: 166ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] Tokyo (Japan)                                 | Type: http | Response: 249ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] Cape Town (South Africa)                      | Type: http | Response: 250ms | Trend: DOWN
+2025-12-28 21:34:27 | [UP] Dubai (UAE)                                   | Type: http | Response: 260ms | Trend: STEADY
+2025-12-28 21:34:27 | [UP] Frankfurt (Germany)                           | Type: http | Response: 494ms | Trend: STEADY
+2025-12-28 21:34:28 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 778ms | Trend: STEADY
+2025-12-28 21:34:28 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 828ms | Trend: STEADY
+2025-12-28 21:34:28 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1110ms | Trend: STEADY
+2025-12-28 21:34:59 | [UP] Router                                        | Type: ping | Response: 679ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] GitHub                                        | Type: http | Response: 21ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Mastercard Website                            | Type: http | Response: 36ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Google                                        | Type: http | Response: 61ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Home Router                                   | Type: http | Response: 66ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] George Maddaloni Website                      | Type: http | Response: 262ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] MA Connect Website                            | Type: http | Response: 339ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Melbourne (Australia)                         | Type: http | Response: 21ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] London (UK)                                   | Type: http | Response: 21ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Mexico City (Mexico)                          | Type: http | Response: 32ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Pune (India)                                  | Type: http | Response: 32ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] São Paulo (Brazil)                            | Type: http | Response: 36ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Paris (France)                                | Type: http | Response: 56ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Sydney (Australia)                            | Type: http | Response: 57ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] San Jose (California, USA)                    | Type: http | Response: 57ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 56ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 58ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Mumbai (India)                                | Type: http | Response: 91ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Singapore (Singapore)                         | Type: http | Response: 142ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Cape Town (South Africa)                      | Type: http | Response: 245ms | Trend: DOWN
+2025-12-28 21:34:57 | [UP] Tokyo (Japan)                                 | Type: http | Response: 248ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Dubai (UAE)                                   | Type: http | Response: 299ms | Trend: STEADY
+2025-12-28 21:34:57 | [UP] Frankfurt (Germany)                           | Type: http | Response: 530ms | Trend: STEADY
+2025-12-28 21:34:58 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 800ms | Trend: STEADY
+2025-12-28 21:34:58 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 826ms | Trend: STEADY
+2025-12-28 21:35:02 | [UP] Bangkok (Thailand)                            | Type: http | Response: 5437ms | Trend: UP
+2025-12-28 21:35:29 | [UP] Router                                        | Type: ping | Response: 680ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] GitHub                                        | Type: http | Response: 23ms | Trend: DOWN
+2025-12-28 21:35:27 | [UP] Mastercard Website                            | Type: http | Response: 45ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Google                                        | Type: http | Response: 54ms | Trend: DOWN
+2025-12-28 21:35:27 | [UP] Home Router                                   | Type: http | Response: 71ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] George Maddaloni Website                      | Type: http | Response: 243ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] MA Connect Website                            | Type: http | Response: 241ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] London (UK)                                   | Type: http | Response: 23ms | Trend: DOWN
+2025-12-28 21:35:27 | [UP] Pune (India)                                  | Type: http | Response: 22ms | Trend: DOWN
+2025-12-28 21:35:27 | [UP] Mexico City (Mexico)                          | Type: http | Response: 24ms | Trend: DOWN
+2025-12-28 21:35:27 | [UP] Melbourne (Australia)                         | Type: http | Response: 45ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Sydney (Australia)                            | Type: http | Response: 47ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 49ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 54ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Paris (France)                                | Type: http | Response: 63ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Mumbai (India)                                | Type: http | Response: 76ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] San Jose (California, USA)                    | Type: http | Response: 81ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Singapore (Singapore)                         | Type: http | Response: 118ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Dubai (UAE)                                   | Type: http | Response: 221ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Cape Town (South Africa)                      | Type: http | Response: 241ms | Trend: DOWN
+2025-12-28 21:35:27 | [UP] Tokyo (Japan)                                 | Type: http | Response: 259ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] São Paulo (Brazil)                            | Type: http | Response: 385ms | Trend: UP
+2025-12-28 21:35:27 | [UP] Frankfurt (Germany)                           | Type: http | Response: 539ms | Trend: STEADY
+2025-12-28 21:35:27 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 648ms | Trend: STEADY
+2025-12-28 21:35:28 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 831ms | Trend: STEADY
+2025-12-28 21:35:28 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1087ms | Trend: DOWN
+2025-12-28 21:35:59 | [UP] Router                                        | Type: ping | Response: 675ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] GitHub                                        | Type: http | Response: 31ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Mastercard Website                            | Type: http | Response: 31ms | Trend: DOWN
+2025-12-28 21:35:57 | [UP] Google                                        | Type: http | Response: 53ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Home Router                                   | Type: http | Response: 69ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] George Maddaloni Website                      | Type: http | Response: 256ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] MA Connect Website                            | Type: http | Response: 290ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] London (UK)                                   | Type: http | Response: 31ms | Trend: DOWN
+2025-12-28 21:35:57 | [UP] Melbourne (Australia)                         | Type: http | Response: 31ms | Trend: DOWN
+2025-12-28 21:35:57 | [UP] Sydney (Australia)                            | Type: http | Response: 30ms | Trend: DOWN
+2025-12-28 21:35:57 | [UP] Mexico City (Mexico)                          | Type: http | Response: 32ms | Trend: DOWN
+2025-12-28 21:35:57 | [UP] Pune (India)                                  | Type: http | Response: 32ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] São Paulo (Brazil)                            | Type: http | Response: 35ms | Trend: DOWN
+2025-12-28 21:35:57 | [UP] Johannesburg (South Africa)                   | Type: http | Response: 43ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Paris (France)                                | Type: http | Response: 52ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Ashburn (Virginia, USA)                       | Type: http | Response: 54ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] San Jose (California, USA)                    | Type: http | Response: 61ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Mumbai (India)                                | Type: http | Response: 91ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Singapore (Singapore)                         | Type: http | Response: 124ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Tokyo (Japan)                                 | Type: http | Response: 245ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Cape Town (South Africa)                      | Type: http | Response: 244ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Frankfurt (Germany)                           | Type: http | Response: 486ms | Trend: STEADY
+2025-12-28 21:35:57 | [UP] Dubai (UAE)                                   | Type: http | Response: 538ms | Trend: UP
+2025-12-28 21:35:58 | [UP] Dallas (Texas, USA)                           | Type: http | Response: 805ms | Trend: STEADY
+2025-12-28 21:35:58 | [UP] Riyadh (Saudi Arabia)                         | Type: http | Response: 815ms | Trend: STEADY
+2025-12-28 21:35:58 | [UP] Bangkok (Thailand)                            | Type: http | Response: 1410ms | Trend: STEADY

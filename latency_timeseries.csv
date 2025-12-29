@@ -1,0 +1,877 @@
+Timestamp,Endpoint,Test Type,Location,Provider,Response Time (ms)
+2025-12-28 21:32:57,Home Router,OTHER,Home Router,N/A,41
+2025-12-28 21:32:57,GitHub,OTHER,GitHub,N/A,150
+2025-12-28 21:32:57,Pune (India),OTHER,Pune (India),N/A,172
+2025-12-28 21:32:57,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,182
+2025-12-28 21:32:57,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,185
+2025-12-28 21:32:57,Sydney (Australia),OTHER,Sydney (Australia),N/A,185
+2025-12-28 21:32:57,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,208
+2025-12-28 21:32:57,Mastercard Website,OTHER,Mastercard Website,N/A,239
+2025-12-28 21:32:57,Google,OTHER,Google,N/A,245
+2025-12-28 21:32:57,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,250
+2025-12-28 21:32:57,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,259
+2025-12-28 21:32:57,London (UK),OTHER,London (UK),N/A,265
+2025-12-28 21:32:57,Paris (France),OTHER,Paris (France),N/A,273
+2025-12-28 21:32:57,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,294
+2025-12-28 21:32:57,Mumbai (India),OTHER,Mumbai (India),N/A,315
+2025-12-28 21:32:57,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,330
+2025-12-28 21:32:57,MA Connect Website,OTHER,MA Connect Website,N/A,341
+2025-12-28 21:32:57,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,344
+2025-12-28 21:32:57,Dubai (UAE),OTHER,Dubai (UAE),N/A,420
+2025-12-28 21:32:57,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,546
+2025-12-28 21:32:58,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,893
+2025-12-28 21:32:58,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,960
+2025-12-28 21:32:58,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,1013
+2025-12-28 21:32:58,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,1457
+2025-12-28 21:32:58,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,1509
+2025-12-28 21:32:59,Router,OTHER,Router,N/A,675
+2025-12-28 21:33:27,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,37
+2025-12-28 21:33:27,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,38
+2025-12-28 21:33:27,London (UK),OTHER,London (UK),N/A,39
+2025-12-28 21:33:27,GitHub,OTHER,GitHub,N/A,39
+2025-12-28 21:33:27,Sydney (Australia),OTHER,Sydney (Australia),N/A,38
+2025-12-28 21:33:27,Pune (India),OTHER,Pune (India),N/A,39
+2025-12-28 21:33:27,Mastercard Website,OTHER,Mastercard Website,N/A,42
+2025-12-28 21:33:27,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,43
+2025-12-28 21:33:27,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,46
+2025-12-28 21:33:27,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,47
+2025-12-28 21:33:27,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,49
+2025-12-28 21:33:27,Paris (France),OTHER,Paris (France),N/A,61
+2025-12-28 21:33:27,Home Router,OTHER,Home Router,N/A,62
+2025-12-28 21:33:27,Google,OTHER,Google,N/A,74
+2025-12-28 21:33:27,Mumbai (India),OTHER,Mumbai (India),N/A,96
+2025-12-28 21:33:27,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,182
+2025-12-28 21:33:27,Dubai (UAE),OTHER,Dubai (UAE),N/A,221
+2025-12-28 21:33:27,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,239
+2025-12-28 21:33:27,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,245
+2025-12-28 21:33:27,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,252
+2025-12-28 21:33:27,MA Connect Website,OTHER,MA Connect Website,N/A,372
+2025-12-28 21:33:27,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,533
+2025-12-28 21:33:28,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,810
+2025-12-28 21:33:28,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,922
+2025-12-28 21:33:29,Router,OTHER,Router,N/A,673
+2025-12-28 21:33:30,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,3267
+2025-12-28 21:33:57,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,26
+2025-12-28 21:33:57,London (UK),OTHER,London (UK),N/A,23
+2025-12-28 21:33:57,GitHub,OTHER,GitHub,N/A,26
+2025-12-28 21:33:57,Sydney (Australia),OTHER,Sydney (Australia),N/A,25
+2025-12-28 21:33:57,Pune (India),OTHER,Pune (India),N/A,26
+2025-12-28 21:33:57,Mastercard Website,OTHER,Mastercard Website,N/A,28
+2025-12-28 21:33:57,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,46
+2025-12-28 21:33:57,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,47
+2025-12-28 21:33:57,Paris (France),OTHER,Paris (France),N/A,54
+2025-12-28 21:33:57,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,57
+2025-12-28 21:33:57,Home Router,OTHER,Home Router,N/A,68
+2025-12-28 21:33:57,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,66
+2025-12-28 21:33:57,Mumbai (India),OTHER,Mumbai (India),N/A,105
+2025-12-28 21:33:57,Google,OTHER,Google,N/A,117
+2025-12-28 21:33:57,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,119
+2025-12-28 21:33:57,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,161
+2025-12-28 21:33:57,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,240
+2025-12-28 21:33:57,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,245
+2025-12-28 21:33:57,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,252
+2025-12-28 21:33:57,MA Connect Website,OTHER,MA Connect Website,N/A,268
+2025-12-28 21:33:57,Dubai (UAE),OTHER,Dubai (UAE),N/A,428
+2025-12-28 21:33:57,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,514
+2025-12-28 21:33:58,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,880
+2025-12-28 21:33:58,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,901
+2025-12-28 21:33:58,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,1397
+2025-12-28 21:33:59,Router,OTHER,Router,N/A,679
+2025-12-28 21:34:27,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,25
+2025-12-28 21:34:27,London (UK),OTHER,London (UK),N/A,24
+2025-12-28 21:34:27,GitHub,OTHER,GitHub,N/A,27
+2025-12-28 21:34:27,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,26
+2025-12-28 21:34:27,Pune (India),OTHER,Pune (India),N/A,25
+2025-12-28 21:34:27,Mastercard Website,OTHER,Mastercard Website,N/A,41
+2025-12-28 21:34:27,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,42
+2025-12-28 21:34:27,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,50
+2025-12-28 21:34:27,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,51
+2025-12-28 21:34:27,Paris (France),OTHER,Paris (France),N/A,50
+2025-12-28 21:34:27,Google,OTHER,Google,N/A,51
+2025-12-28 21:34:27,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,62
+2025-12-28 21:34:27,Home Router,OTHER,Home Router,N/A,65
+2025-12-28 21:34:27,Sydney (Australia),OTHER,Sydney (Australia),N/A,81
+2025-12-28 21:34:27,Mumbai (India),OTHER,Mumbai (India),N/A,98
+2025-12-28 21:34:27,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,166
+2025-12-28 21:34:27,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,249
+2025-12-28 21:34:27,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,250
+2025-12-28 21:34:27,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,254
+2025-12-28 21:34:27,Dubai (UAE),OTHER,Dubai (UAE),N/A,260
+2025-12-28 21:34:27,MA Connect Website,OTHER,MA Connect Website,N/A,288
+2025-12-28 21:34:27,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,494
+2025-12-28 21:34:28,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,778
+2025-12-28 21:34:28,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,828
+2025-12-28 21:34:28,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,1110
+2025-12-28 21:34:29,Router,OTHER,Router,N/A,673
+2025-12-28 21:34:57,GitHub,OTHER,GitHub,N/A,21
+2025-12-28 21:34:57,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,21
+2025-12-28 21:34:57,London (UK),OTHER,London (UK),N/A,21
+2025-12-28 21:34:57,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,32
+2025-12-28 21:34:57,Pune (India),OTHER,Pune (India),N/A,32
+2025-12-28 21:34:57,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,36
+2025-12-28 21:34:57,Mastercard Website,OTHER,Mastercard Website,N/A,36
+2025-12-28 21:34:57,Paris (France),OTHER,Paris (France),N/A,56
+2025-12-28 21:34:57,Sydney (Australia),OTHER,Sydney (Australia),N/A,57
+2025-12-28 21:34:57,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,57
+2025-12-28 21:34:57,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,56
+2025-12-28 21:34:57,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,58
+2025-12-28 21:34:57,Google,OTHER,Google,N/A,61
+2025-12-28 21:34:57,Home Router,OTHER,Home Router,N/A,66
+2025-12-28 21:34:57,Mumbai (India),OTHER,Mumbai (India),N/A,91
+2025-12-28 21:34:57,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,142
+2025-12-28 21:34:57,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,245
+2025-12-28 21:34:57,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,248
+2025-12-28 21:34:57,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,262
+2025-12-28 21:34:57,Dubai (UAE),OTHER,Dubai (UAE),N/A,299
+2025-12-28 21:34:57,MA Connect Website,OTHER,MA Connect Website,N/A,339
+2025-12-28 21:34:57,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,530
+2025-12-28 21:34:58,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,800
+2025-12-28 21:34:58,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,826
+2025-12-28 21:34:59,Router,OTHER,Router,N/A,679
+2025-12-28 21:35:02,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,5437
+2025-12-28 21:35:27,London (UK),OTHER,London (UK),N/A,23
+2025-12-28 21:35:27,Pune (India),OTHER,Pune (India),N/A,22
+2025-12-28 21:35:27,GitHub,OTHER,GitHub,N/A,23
+2025-12-28 21:35:27,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,24
+2025-12-28 21:35:27,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,45
+2025-12-28 21:35:27,Mastercard Website,OTHER,Mastercard Website,N/A,45
+2025-12-28 21:35:27,Sydney (Australia),OTHER,Sydney (Australia),N/A,47
+2025-12-28 21:35:27,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,49
+2025-12-28 21:35:27,Google,OTHER,Google,N/A,54
+2025-12-28 21:35:27,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,54
+2025-12-28 21:35:27,Paris (France),OTHER,Paris (France),N/A,63
+2025-12-28 21:35:27,Home Router,OTHER,Home Router,N/A,71
+2025-12-28 21:35:27,Mumbai (India),OTHER,Mumbai (India),N/A,76
+2025-12-28 21:35:27,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,81
+2025-12-28 21:35:27,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,118
+2025-12-28 21:35:27,Dubai (UAE),OTHER,Dubai (UAE),N/A,221
+2025-12-28 21:35:27,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,241
+2025-12-28 21:35:27,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,243
+2025-12-28 21:35:27,MA Connect Website,OTHER,MA Connect Website,N/A,241
+2025-12-28 21:35:27,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,259
+2025-12-28 21:35:27,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,385
+2025-12-28 21:35:27,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,539
+2025-12-28 21:35:27,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,648
+2025-12-28 21:35:28,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,831
+2025-12-28 21:35:28,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,1087
+2025-12-28 21:35:29,Router,OTHER,Router,N/A,680
+2025-12-28 21:35:57,London (UK),OTHER,London (UK),N/A,31
+2025-12-28 21:35:57,Melbourne (Australia),OTHER,Melbourne (Australia),N/A,31
+2025-12-28 21:35:57,Sydney (Australia),OTHER,Sydney (Australia),N/A,30
+2025-12-28 21:35:57,GitHub,OTHER,GitHub,N/A,31
+2025-12-28 21:35:57,Mastercard Website,OTHER,Mastercard Website,N/A,31
+2025-12-28 21:35:57,Mexico City (Mexico),OTHER,Mexico City (Mexico),N/A,32
+2025-12-28 21:35:57,Pune (India),OTHER,Pune (India),N/A,32
+2025-12-28 21:35:57,São Paulo (Brazil),OTHER,São Paulo (Brazil),N/A,35
+2025-12-28 21:35:57,Johannesburg (South Africa),OTHER,Johannesburg (South Africa),N/A,43
+2025-12-28 21:35:57,Google,OTHER,Google,N/A,53
+2025-12-28 21:35:57,Paris (France),OTHER,Paris (France),N/A,52
+2025-12-28 21:35:57,"Ashburn (Virginia, USA)",OTHER,"Ashburn (Virginia, USA)",N/A,54
+2025-12-28 21:35:57,"San Jose (California, USA)",OTHER,"San Jose (California, USA)",N/A,61
+2025-12-28 21:35:57,Home Router,OTHER,Home Router,N/A,69
+2025-12-28 21:35:57,Mumbai (India),OTHER,Mumbai (India),N/A,91
+2025-12-28 21:35:57,Singapore (Singapore),OTHER,Singapore (Singapore),N/A,124
+2025-12-28 21:35:57,Tokyo (Japan),OTHER,Tokyo (Japan),N/A,245
+2025-12-28 21:35:57,Cape Town (South Africa),OTHER,Cape Town (South Africa),N/A,244
+2025-12-28 21:35:57,George Maddaloni Website,OTHER,George Maddaloni Website,N/A,256
+2025-12-28 21:35:57,MA Connect Website,OTHER,MA Connect Website,N/A,290
+2025-12-28 21:35:57,Frankfurt (Germany),OTHER,Frankfurt (Germany),N/A,486
+2025-12-28 21:35:57,Dubai (UAE),OTHER,Dubai (UAE),N/A,538
+2025-12-28 21:35:58,"Dallas (Texas, USA)",OTHER,"Dallas (Texas, USA)",N/A,805
+2025-12-28 21:35:58,Riyadh (Saudi Arabia),OTHER,Riyadh (Saudi Arabia),N/A,815
+2025-12-28 21:35:58,Bangkok (Thailand),OTHER,Bangkok (Thailand),N/A,1410
+2025-12-28 21:35:59,Router,OTHER,Router,N/A,675
+2025-12-28 21:48:32,"Bangkok, TH [GCP] - HTTP",HTTP,"Bangkok, TH",GCP,148
+2025-12-28 21:48:32,"Bangkok, TH [GCP] - DNS",DNS,"Bangkok, TH",GCP,56
+2025-12-28 21:49:02,"Bangkok, TH [GCP] - HTTP",HTTP,"Bangkok, TH",GCP,124
+2025-12-28 21:49:02,"Bangkok, TH [GCP] - DNS",DNS,"Bangkok, TH",GCP,22
+2025-12-28 22:00:31,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,91
+2025-12-28 22:01:01,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,53
+2025-12-28 22:01:01,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,294
+2025-12-28 22:01:01,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,123
+2025-12-28 22:01:01,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,867
+2025-12-28 22:01:01,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,152
+2025-12-28 22:01:01,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,52
+2025-12-28 22:01:01,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,46
+2025-12-28 22:01:01,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,265
+2025-12-28 22:01:01,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,761
+2025-12-28 22:01:01,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,47
+2025-12-28 22:01:01,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,76
+2025-12-28 22:01:01,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,470
+2025-12-28 22:01:01,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,211
+2025-12-28 22:01:01,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,49
+2025-12-28 22:01:01,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,866
+2025-12-28 22:01:01,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,65
+2025-12-28 22:01:01,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,333
+2025-12-28 22:01:01,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,707
+2025-12-28 22:01:01,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,291
+2025-12-28 22:01:01,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,229
+2025-12-28 22:01:01,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,83
+2025-12-28 22:01:01,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,51
+2025-12-28 22:01:01,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,220
+2025-12-28 22:01:01,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,710
+2025-12-28 22:01:01,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,79
+2025-12-28 22:01:01,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,866
+2025-12-28 22:01:01,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,866
+2025-12-28 22:01:01,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,80
+2025-12-28 22:01:01,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,75
+2025-12-28 22:01:01,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,88
+2025-12-28 22:01:01,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,16
+2025-12-28 22:01:01,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,64
+2025-12-28 22:01:01,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,232
+2025-12-28 22:01:01,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,63
+2025-12-28 22:01:01,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,407
+2025-12-28 22:01:01,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,1388
+2025-12-28 22:01:01,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,145
+2025-12-28 22:01:01,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,19
+2025-12-28 22:01:01,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,80
+2025-12-28 22:01:01,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,82
+2025-12-28 22:01:01,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,82
+2025-12-28 22:01:01,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,211
+2025-12-28 22:01:01,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,671
+2025-12-28 22:01:01,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,29
+2025-12-28 22:01:01,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,747
+2025-12-28 22:01:01,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,92
+2025-12-28 22:01:01,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,178
+2025-12-28 22:01:01,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,72
+2025-12-28 22:01:01,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,86
+2025-12-28 22:01:01,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,101
+2025-12-28 22:01:01,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,440
+2025-12-28 22:01:01,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,272
+2025-12-28 22:01:01,"London, UK [AWS] - PING",PING,"London, UK",AWS,80
+2025-12-28 22:01:01,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,420
+2025-12-28 22:01:01,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,246
+2025-12-28 22:01:01,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,47
+2025-12-28 22:01:01,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,864
+2025-12-28 22:01:01,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,758
+2025-12-28 22:01:01,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,262
+2025-12-28 22:01:01,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,106
+2025-12-28 22:01:01,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,72
+2025-12-28 22:01:01,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,80
+2025-12-28 22:01:01,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,426
+2025-12-28 22:01:01,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,77
+2025-12-28 22:01:01,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,863
+2025-12-28 22:01:01,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,220
+2025-12-28 22:01:01,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,80
+2025-12-28 22:01:01,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,2339
+2025-12-28 22:01:01,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,62
+2025-12-28 22:01:31,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,61
+2025-12-28 22:01:31,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,421
+2025-12-28 22:01:31,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,241
+2025-12-28 22:01:31,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,120
+2025-12-28 22:01:31,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,79
+2025-12-28 22:01:31,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,260
+2025-12-28 22:01:31,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,2407
+2025-12-28 22:01:31,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,4462
+2025-12-28 22:01:31,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,154
+2025-12-28 22:01:31,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,199
+2025-12-28 22:01:31,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,225
+2025-12-28 22:01:31,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,956
+2025-12-28 22:01:31,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,85
+2025-12-28 22:01:31,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,822
+2025-12-28 22:01:31,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,68
+2025-12-28 22:01:31,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,484
+2025-12-28 22:01:31,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,86
+2025-12-28 22:01:31,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,69
+2025-12-28 22:01:31,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,241
+2025-12-28 22:01:31,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,82
+2025-12-28 22:01:31,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,206
+2025-12-28 22:01:31,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,47
+2025-12-28 22:01:31,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,135
+2025-12-28 22:01:31,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,814
+2025-12-28 22:01:31,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,72
+2025-12-28 22:01:31,"London, UK [AWS] - PING",PING,"London, UK",AWS,101
+2025-12-28 22:01:31,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,141
+2025-12-28 22:01:31,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,388
+2025-12-28 22:01:31,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,648
+2025-12-28 22:01:31,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,84
+2025-12-28 22:01:31,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,223
+2025-12-28 22:01:31,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,746
+2025-12-28 22:01:31,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,63
+2025-12-28 22:01:31,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,217
+2025-12-28 22:01:31,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,647
+2025-12-28 22:01:31,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,87
+2025-12-28 22:01:31,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,215
+2025-12-28 22:01:31,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,742
+2025-12-28 22:01:31,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,72
+2025-12-28 22:01:31,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,226
+2025-12-28 22:01:31,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,757
+2025-12-28 22:01:31,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,60
+2025-12-28 22:01:31,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,20
+2025-12-28 22:01:31,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,112
+2025-12-28 22:01:31,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,83
+2025-12-28 22:01:31,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,28
+2025-12-28 22:01:31,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,248
+2025-12-28 22:01:31,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,72
+2025-12-28 22:01:31,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,81
+2025-12-28 22:01:31,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,157
+2025-12-28 22:01:31,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,97
+2025-12-28 22:01:31,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,426
+2025-12-28 22:01:31,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,381
+2025-12-28 22:01:31,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,78
+2025-12-28 22:01:31,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,60
+2025-12-28 22:01:31,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,98
+2025-12-28 22:01:31,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,382
+2025-12-28 22:01:31,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,84
+2025-12-28 22:01:31,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,18
+2025-12-28 22:01:31,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,1788
+2025-12-28 22:01:31,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,47
+2025-12-28 22:01:31,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,255
+2025-12-28 22:01:31,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,259
+2025-12-28 22:01:31,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,868
+2025-12-28 22:01:31,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,203
+2025-12-28 22:01:31,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,582
+2025-12-28 22:01:31,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,432
+2025-12-28 22:01:31,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,50
+2025-12-28 22:01:31,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,66
+2025-12-28 22:02:01,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,84
+2025-12-28 22:02:01,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,263
+2025-12-28 22:02:01,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,281
+2025-12-28 22:02:01,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,993
+2025-12-28 22:02:01,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,83
+2025-12-28 22:02:01,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,102
+2025-12-28 22:02:01,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,132
+2025-12-28 22:02:01,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,995
+2025-12-28 22:02:01,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,83
+2025-12-28 22:02:01,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,274
+2025-12-28 22:02:01,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,206
+2025-12-28 22:02:01,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,246
+2025-12-28 22:02:01,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,173
+2025-12-28 22:02:01,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,617
+2025-12-28 22:02:01,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,746
+2025-12-28 22:02:01,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,937
+2025-12-28 22:02:01,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,756
+2025-12-28 22:02:01,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,539
+2025-12-28 22:02:01,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,116
+2025-12-28 22:02:01,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,184
+2025-12-28 22:02:01,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,101
+2025-12-28 22:02:01,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,103
+2025-12-28 22:02:01,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,1006
+2025-12-28 22:02:01,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,783
+2025-12-28 22:02:01,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,116
+2025-12-28 22:02:01,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,195
+2025-12-28 22:02:01,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,129
+2025-12-28 22:02:01,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,295
+2025-12-28 22:02:01,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,105
+2025-12-28 22:02:01,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,184
+2025-12-28 22:02:01,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,46
+2025-12-28 22:02:01,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,745
+2025-12-28 22:02:01,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,110
+2025-12-28 22:02:01,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,82
+2025-12-28 22:02:01,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,1000
+2025-12-28 22:02:01,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,122
+2025-12-28 22:02:01,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,235
+2025-12-28 22:02:01,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,127
+2025-12-28 22:02:01,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,499
+2025-12-28 22:02:01,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,1124
+2025-12-28 22:02:01,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,271
+2025-12-28 22:02:01,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,213
+2025-12-28 22:02:01,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,129
+2025-12-28 22:02:01,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,936
+2025-12-28 22:02:01,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,1881
+2025-12-28 22:02:01,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,125
+2025-12-28 22:02:01,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,120
+2025-12-28 22:02:01,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,119
+2025-12-28 22:02:01,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,298
+2025-12-28 22:02:01,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,124
+2025-12-28 22:02:01,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,238
+2025-12-28 22:02:01,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,958
+2025-12-28 22:02:01,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,106
+2025-12-28 22:02:01,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,56
+2025-12-28 22:02:01,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,122
+2025-12-28 22:02:01,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,170
+2025-12-28 22:02:01,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,499
+2025-12-28 22:02:01,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,284
+2025-12-28 22:02:01,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,119
+2025-12-28 22:02:01,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,492
+2025-12-28 22:02:01,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,100
+2025-12-28 22:02:01,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,123
+2025-12-28 22:02:01,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,498
+2025-12-28 22:02:01,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,513
+2025-12-28 22:02:01,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,43
+2025-12-28 22:02:01,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,99
+2025-12-28 22:02:01,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,129
+2025-12-28 22:02:01,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,126
+2025-12-28 22:02:01,"London, UK [AWS] - PING",PING,"London, UK",AWS,109
+2025-12-28 22:02:31,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,271
+2025-12-28 22:02:31,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,108
+2025-12-28 22:02:31,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,156
+2025-12-28 22:02:31,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,149
+2025-12-28 22:02:31,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,244
+2025-12-28 22:02:31,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,267
+2025-12-28 22:02:31,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,228
+2025-12-28 22:02:31,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,530
+2025-12-28 22:02:31,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,132
+2025-12-28 22:02:31,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,882
+2025-12-28 22:02:31,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,127
+2025-12-28 22:02:31,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,95
+2025-12-28 22:02:31,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,938
+2025-12-28 22:02:31,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,151
+2025-12-28 22:02:31,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,900
+2025-12-28 22:02:31,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,858
+2025-12-28 22:02:31,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,362
+2025-12-28 22:02:31,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,168
+2025-12-28 22:02:31,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,206
+2025-12-28 22:02:31,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,167
+2025-12-28 22:02:31,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,200
+2025-12-28 22:02:31,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,41
+2025-12-28 22:02:31,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,156
+2025-12-28 22:02:31,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,191
+2025-12-28 22:02:31,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,243
+2025-12-28 22:02:31,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,143
+2025-12-28 22:02:31,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,823
+2025-12-28 22:02:31,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,102
+2025-12-28 22:02:31,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,215
+2025-12-28 22:02:31,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,83
+2025-12-28 22:02:31,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,822
+2025-12-28 22:02:31,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,164
+2025-12-28 22:02:31,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,23
+2025-12-28 22:02:31,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,164
+2025-12-28 22:02:31,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,506
+2025-12-28 22:02:31,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,405
+2025-12-28 22:02:31,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,846
+2025-12-28 22:02:31,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,215
+2025-12-28 22:02:31,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,846
+2025-12-28 22:02:31,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,163
+2025-12-28 22:02:31,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,153
+2025-12-28 22:02:31,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,166
+2025-12-28 22:02:31,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,149
+2025-12-28 22:02:31,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,164
+2025-12-28 22:02:31,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,150
+2025-12-28 22:02:31,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,26
+2025-12-28 22:02:31,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,260
+2025-12-28 22:02:31,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,247
+2025-12-28 22:02:31,"London, UK [AWS] - PING",PING,"London, UK",AWS,93
+2025-12-28 22:02:31,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,215
+2025-12-28 22:02:31,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,923
+2025-12-28 22:02:31,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,957
+2025-12-28 22:02:31,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,149
+2025-12-28 22:02:31,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,172
+2025-12-28 22:02:31,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,422
+2025-12-28 22:02:31,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,841
+2025-12-28 22:02:31,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,123
+2025-12-28 22:02:31,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,160
+2025-12-28 22:02:31,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,158
+2025-12-28 22:02:31,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,174
+2025-12-28 22:02:31,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,156
+2025-12-28 22:02:31,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,206
+2025-12-28 22:02:31,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,911
+2025-12-28 22:02:31,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,118
+2025-12-28 22:02:31,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,710
+2025-12-28 22:02:31,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,464
+2025-12-28 22:02:31,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,1048
+2025-12-28 22:02:31,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,156
+2025-12-28 22:03:01,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,372
+2025-12-28 22:03:01,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,141
+2025-12-28 22:03:01,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,86
+2025-12-28 22:03:01,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,181
+2025-12-28 22:03:01,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,430
+2025-12-28 22:03:01,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,1806
+2025-12-28 22:03:01,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,656
+2025-12-28 22:03:01,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,68
+2025-12-28 22:03:01,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,59
+2025-12-28 22:03:01,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,87
+2025-12-28 22:03:01,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,59
+2025-12-28 22:03:01,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,19
+2025-12-28 22:03:01,"London, UK [AWS] - PING",PING,"London, UK",AWS,81
+2025-12-28 22:03:01,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,639
+2025-12-28 22:03:01,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,214
+2025-12-28 22:03:01,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,86
+2025-12-28 22:03:01,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,80
+2025-12-28 22:03:01,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,76
+2025-12-28 22:03:01,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,258
+2025-12-28 22:03:01,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,331
+2025-12-28 22:03:01,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,333
+2025-12-28 22:03:01,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,666
+2025-12-28 22:03:01,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,338
+2025-12-28 22:03:01,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,210
+2025-12-28 22:03:01,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,76
+2025-12-28 22:03:01,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,133
+2025-12-28 22:03:01,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,820
+2025-12-28 22:03:01,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,82
+2025-12-28 22:03:01,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,76
+2025-12-28 22:03:01,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,78
+2025-12-28 22:03:01,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,68
+2025-12-28 22:03:01,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,721
+2025-12-28 22:03:01,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,212
+2025-12-28 22:03:01,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,74
+2025-12-28 22:03:01,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,103
+2025-12-28 22:03:01,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,56
+2025-12-28 22:03:01,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,252
+2025-12-28 22:03:01,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,93
+2025-12-28 22:03:01,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,749
+2025-12-28 22:03:01,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,87
+2025-12-28 22:03:01,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,331
+2025-12-28 22:03:01,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,59
+2025-12-28 22:03:01,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,452
+2025-12-28 22:03:01,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,124
+2025-12-28 22:03:01,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,843
+2025-12-28 22:03:01,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,29
+2025-12-28 22:03:01,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,223
+2025-12-28 22:03:01,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,68
+2025-12-28 22:03:01,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,78
+2025-12-28 22:03:01,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,64
+2025-12-28 22:03:01,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,16
+2025-12-28 22:03:01,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,171
+2025-12-28 22:03:01,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,80
+2025-12-28 22:03:01,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,759
+2025-12-28 22:03:01,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,189
+2025-12-28 22:03:01,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,84
+2025-12-28 22:03:01,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,106
+2025-12-28 22:03:01,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,243
+2025-12-28 22:03:01,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,175
+2025-12-28 22:03:01,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,583
+2025-12-28 22:03:01,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,70
+2025-12-28 22:03:01,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,1666
+2025-12-28 22:03:01,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,806
+2025-12-28 22:03:01,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,76
+2025-12-28 22:03:01,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,201
+2025-12-28 22:03:01,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,259
+2025-12-28 22:03:01,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,859
+2025-12-28 22:03:01,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,68
+2025-12-28 22:03:01,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,77
+2025-12-28 22:03:31,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,59
+2025-12-28 22:03:31,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,158
+2025-12-28 22:03:31,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,252
+2025-12-28 22:03:31,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,86
+2025-12-28 22:03:31,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,188
+2025-12-28 22:03:31,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,243
+2025-12-28 22:03:31,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,83
+2025-12-28 22:03:31,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,74
+2025-12-28 22:03:31,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,221
+2025-12-28 22:03:31,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,86
+2025-12-28 22:03:31,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,210
+2025-12-28 22:03:31,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,1112
+2025-12-28 22:03:31,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,79
+2025-12-28 22:03:31,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,315
+2025-12-28 22:03:31,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,84
+2025-12-28 22:03:31,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,815
+2025-12-28 22:03:31,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,91
+2025-12-28 22:03:31,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,759
+2025-12-28 22:03:31,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,722
+2025-12-28 22:03:31,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,102
+2025-12-28 22:03:31,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,85
+2025-12-28 22:03:31,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,73
+2025-12-28 22:03:31,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,363
+2025-12-28 22:03:31,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,63
+2025-12-28 22:03:31,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,78
+2025-12-28 22:03:31,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,84
+2025-12-28 22:03:31,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,389
+2025-12-28 22:03:31,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,20
+2025-12-28 22:03:31,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,314
+2025-12-28 22:03:31,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,75
+2025-12-28 22:03:31,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,254
+2025-12-28 22:03:31,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,15
+2025-12-28 22:03:31,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,123
+2025-12-28 22:03:31,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,71
+2025-12-28 22:03:31,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,51
+2025-12-28 22:03:31,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,188
+2025-12-28 22:03:31,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,104
+2025-12-28 22:03:31,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,862
+2025-12-28 22:03:31,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,156
+2025-12-28 22:03:31,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,329
+2025-12-28 22:03:31,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,83
+2025-12-28 22:03:31,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,174
+2025-12-28 22:03:31,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,470
+2025-12-28 22:03:31,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,103
+2025-12-28 22:03:31,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,669
+2025-12-28 22:03:31,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,73
+2025-12-28 22:03:31,"London, UK [AWS] - PING",PING,"London, UK",AWS,92
+2025-12-28 22:03:31,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,67
+2025-12-28 22:03:31,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,591
+2025-12-28 22:03:31,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,79
+2025-12-28 22:03:31,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,379
+2025-12-28 22:03:31,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,84
+2025-12-28 22:03:31,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,179
+2025-12-28 22:03:31,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,298
+2025-12-28 22:03:31,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,30
+2025-12-28 22:03:31,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,84
+2025-12-28 22:03:31,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,69
+2025-12-28 22:03:31,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,211
+2025-12-28 22:03:31,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,640
+2025-12-28 22:03:31,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,726
+2025-12-28 22:03:31,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,678
+2025-12-28 22:03:31,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,67
+2025-12-28 22:03:31,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,980
+2025-12-28 22:03:31,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,81
+2025-12-28 22:03:31,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,201
+2025-12-28 22:03:31,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,253
+2025-12-28 22:03:31,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,205
+2025-12-28 22:03:31,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,852
+2025-12-28 22:03:31,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,77
+2025-12-28 22:04:01,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,125
+2025-12-28 22:04:01,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,246
+2025-12-28 22:04:01,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,57
+2025-12-28 22:04:01,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,137
+2025-12-28 22:04:01,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,821
+2025-12-28 22:04:01,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,289
+2025-12-28 22:04:01,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,76
+2025-12-28 22:04:01,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,378
+2025-12-28 22:04:01,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,223
+2025-12-28 22:04:01,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,742
+2025-12-28 22:04:01,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,48
+2025-12-28 22:04:01,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,79
+2025-12-28 22:04:01,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,166
+2025-12-28 22:04:01,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,462
+2025-12-28 22:04:01,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,257
+2025-12-28 22:04:01,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,1707
+2025-12-28 22:04:01,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,75
+2025-12-28 22:04:01,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,719
+2025-12-28 22:04:01,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,297
+2025-12-28 22:04:01,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,59
+2025-12-28 22:04:01,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,59
+2025-12-28 22:04:01,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,77
+2025-12-28 22:04:01,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,319
+2025-12-28 22:04:01,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,288
+2025-12-28 22:04:01,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,17
+2025-12-28 22:04:01,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,589
+2025-12-28 22:04:01,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,258
+2025-12-28 22:04:01,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,210
+2025-12-28 22:04:01,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,1082
+2025-12-28 22:04:01,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,191
+2025-12-28 22:04:01,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,88
+2025-12-28 22:04:01,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,371
+2025-12-28 22:04:01,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,71
+2025-12-28 22:04:01,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,827
+2025-12-28 22:04:01,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,722
+2025-12-28 22:04:01,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,62
+2025-12-28 22:04:01,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,643
+2025-12-28 22:04:01,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,562
+2025-12-28 22:04:01,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,70
+2025-12-28 22:04:01,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,70
+2025-12-28 22:04:01,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,75
+2025-12-28 22:04:01,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,205
+2025-12-28 22:04:01,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,306
+2025-12-28 22:04:01,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,59
+2025-12-28 22:04:01,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,29
+2025-12-28 22:04:01,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,180
+2025-12-28 22:04:01,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,177
+2025-12-28 22:04:01,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,303
+2025-12-28 22:04:01,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,318
+2025-12-28 22:04:01,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,692
+2025-12-28 22:04:01,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,244
+2025-12-28 22:04:01,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,641
+2025-12-28 22:04:01,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,96
+2025-12-28 22:04:01,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,1032
+2025-12-28 22:04:01,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,67
+2025-12-28 22:04:01,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,73
+2025-12-28 22:04:01,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,67
+2025-12-28 22:04:01,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,215
+2025-12-28 22:04:01,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,594
+2025-12-28 22:04:01,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,20
+2025-12-28 22:04:01,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,202
+2025-12-28 22:04:01,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,61
+2025-12-28 22:04:01,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,372
+2025-12-28 22:04:01,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,61
+2025-12-28 22:04:01,"London, UK [AWS] - PING",PING,"London, UK",AWS,79
+2025-12-28 22:04:01,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,554
+2025-12-28 22:04:01,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,102
+2025-12-28 22:04:01,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,299
+2025-12-28 22:04:01,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,101
+2025-12-28 22:04:31,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,87
+2025-12-28 22:04:31,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,246
+2025-12-28 22:04:31,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,60
+2025-12-28 22:04:31,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,148
+2025-12-28 22:04:31,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,88
+2025-12-28 22:04:31,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,733
+2025-12-28 22:04:31,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,826
+2025-12-28 22:04:31,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,173
+2025-12-28 22:04:31,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,71
+2025-12-28 22:04:31,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,103
+2025-12-28 22:04:31,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,87
+2025-12-28 22:04:31,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,371
+2025-12-28 22:04:31,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,433
+2025-12-28 22:04:31,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,57
+2025-12-28 22:04:31,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,772
+2025-12-28 22:04:31,"London, UK [AWS] - PING",PING,"London, UK",AWS,94
+2025-12-28 22:04:31,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,472
+2025-12-28 22:04:31,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,60
+2025-12-28 22:04:31,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,69
+2025-12-28 22:04:31,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,194
+2025-12-28 22:04:31,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,343
+2025-12-28 22:04:31,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,82
+2025-12-28 22:04:31,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,60
+2025-12-28 22:04:31,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,240
+2025-12-28 22:04:31,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,125
+2025-12-28 22:04:31,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,107
+2025-12-28 22:04:31,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,640
+2025-12-28 22:04:31,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,206
+2025-12-28 22:04:31,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,62
+2025-12-28 22:04:31,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,94
+2025-12-28 22:04:31,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,832
+2025-12-28 22:04:31,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,402
+2025-12-28 22:04:31,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,84
+2025-12-28 22:04:31,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,90
+2025-12-28 22:04:31,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,2206
+2025-12-28 22:04:31,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,369
+2025-12-28 22:04:31,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,68
+2025-12-28 22:04:31,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,262
+2025-12-28 22:04:31,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,180
+2025-12-28 22:04:31,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,210
+2025-12-28 22:04:31,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,83
+2025-12-28 22:04:31,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,846
+2025-12-28 22:04:31,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,89
+2025-12-28 22:04:31,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,217
+2025-12-28 22:04:31,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,182
+2025-12-28 22:04:31,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,643
+2025-12-28 22:04:31,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,87
+2025-12-28 22:04:31,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,200
+2025-12-28 22:04:31,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,85
+2025-12-28 22:04:31,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,73
+2025-12-28 22:04:31,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,960
+2025-12-28 22:04:31,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,14
+2025-12-28 22:04:31,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,253
+2025-12-28 22:04:31,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,317
+2025-12-28 22:04:31,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,731
+2025-12-28 22:04:31,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,76
+2025-12-28 22:04:31,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,843
+2025-12-28 22:04:31,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,143
+2025-12-28 22:04:31,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,332
+2025-12-28 22:04:31,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,63
+2025-12-28 22:04:31,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,80
+2025-12-28 22:04:31,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,89
+2025-12-28 22:04:31,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,222
+2025-12-28 22:04:31,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,86
+2025-12-28 22:04:31,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,749
+2025-12-28 22:04:31,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,89
+2025-12-28 22:04:31,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,34
+2025-12-28 22:04:31,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,21
+2025-12-28 22:04:31,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,75
+2025-12-28 22:05:01,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,79
+2025-12-28 22:05:01,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,860
+2025-12-28 22:05:01,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,158
+2025-12-28 22:05:01,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,244
+2025-12-28 22:05:01,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,853
+2025-12-28 22:05:01,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,76
+2025-12-28 22:05:01,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,191
+2025-12-28 22:05:01,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,86
+2025-12-28 22:05:01,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,76
+2025-12-28 22:05:01,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,217
+2025-12-28 22:05:01,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,75
+2025-12-28 22:05:01,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,75
+2025-12-28 22:05:01,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,99
+2025-12-28 22:05:01,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,744
+2025-12-28 22:05:01,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,106
+2025-12-28 22:05:01,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,222
+2025-12-28 22:05:01,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,261
+2025-12-28 22:05:01,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,337
+2025-12-28 22:05:01,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,336
+2025-12-28 22:05:01,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,627
+2025-12-28 22:05:01,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,125
+2025-12-28 22:05:01,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,427
+2025-12-28 22:05:01,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,754
+2025-12-28 22:05:01,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,878
+2025-12-28 22:05:01,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,93
+2025-12-28 22:05:01,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,92
+2025-12-28 22:05:01,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,100
+2025-12-28 22:05:01,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,478
+2025-12-28 22:05:01,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,50
+2025-12-28 22:05:01,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,85
+2025-12-28 22:05:01,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,209
+2025-12-28 22:05:01,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,90
+2025-12-28 22:05:01,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,21
+2025-12-28 22:05:01,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,100
+2025-12-28 22:05:01,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,666
+2025-12-28 22:05:01,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,195
+2025-12-28 22:05:01,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,190
+2025-12-28 22:05:01,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,730
+2025-12-28 22:05:01,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,21
+2025-12-28 22:05:01,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,84
+2025-12-28 22:05:01,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,89
+2025-12-28 22:05:01,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,97
+2025-12-28 22:05:01,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,602
+2025-12-28 22:05:01,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,182
+2025-12-28 22:05:01,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,29
+2025-12-28 22:05:01,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,86
+2025-12-28 22:05:01,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,152
+2025-12-28 22:05:01,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,73
+2025-12-28 22:05:01,"London, UK [AWS] - PING",PING,"London, UK",AWS,81
+2025-12-28 22:05:01,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,352
+2025-12-28 22:05:01,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,100
+2025-12-28 22:05:01,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,439
+2025-12-28 22:05:01,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,204
+2025-12-28 22:05:01,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,92
+2025-12-28 22:05:01,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,67
+2025-12-28 22:05:01,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,89
+2025-12-28 22:05:01,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,73
+2025-12-28 22:05:01,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,402
+2025-12-28 22:05:01,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,257
+2025-12-28 22:05:01,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,369
+2025-12-28 22:05:01,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,99
+2025-12-28 22:05:01,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,868
+2025-12-28 22:05:01,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,218
+2025-12-28 22:05:01,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,699
+2025-12-28 22:05:01,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,76
+2025-12-28 22:05:01,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,97
+2025-12-28 22:05:01,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,94
+2025-12-28 22:05:01,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,693
+2025-12-28 22:05:01,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,251
+2025-12-28 22:05:31,"Milan, IT [AWS] - DNS",DNS,"Milan, IT",AWS,42
+2025-12-28 22:05:31,"Montreal, CA [AWS] - HTTP",HTTP,"Montreal, CA",AWS,155
+2025-12-28 22:05:31,"Paris, FR [AWS] - HTTP",HTTP,"Paris, FR",AWS,317
+2025-12-28 22:05:31,"Seoul, KR [AWS] - PING",PING,"Seoul, KR",AWS,214
+2025-12-28 22:05:31,"Hyderabad, IN [AWS] - DNS",DNS,"Hyderabad, IN",AWS,65
+2025-12-28 22:05:31,"Seoul, KR [AWS] - HTTP",HTTP,"Seoul, KR",AWS,747
+2025-12-28 22:05:31,"Frankfurt, DE [AWS] - DNS",DNS,"Frankfurt, DE",AWS,52
+2025-12-28 22:05:31,"Cape Town, ZA [AWS] - DNS",DNS,"Cape Town, ZA",AWS,64
+2025-12-28 22:05:31,"Jakarta, ID [AWS] - DNS",DNS,"Jakarta, ID",AWS,31
+2025-12-28 22:05:31,"Jakarta, ID [AWS] - PING",PING,"Jakarta, ID",AWS,254
+2025-12-28 22:05:31,"Milan, IT [AWS] - PING",PING,"Milan, IT",AWS,103
+2025-12-28 22:05:31,"Singapore, SG [AWS] - DNS",DNS,"Singapore, SG",AWS,80
+2025-12-28 22:05:31,"Frankfurt, DE [AWS] - PING",PING,"Frankfurt, DE",AWS,93
+2025-12-28 22:05:31,"Cape Town, ZA [AWS] - PING",PING,"Cape Town, ZA",AWS,256
+2025-12-28 22:05:31,"Singapore, SG [AWS] - PING",PING,"Singapore, SG",AWS,241
+2025-12-28 22:05:31,"London, UK [AWS] - HTTP",HTTP,"London, UK",AWS,325
+2025-12-28 22:05:31,"Osaka, JP [AWS] - DNS",DNS,"Osaka, JP",AWS,73
+2025-12-28 22:05:31,"Jakarta, ID [AWS] - HTTP",HTTP,"Jakarta, ID",AWS,859
+2025-12-28 22:05:31,"Milan, IT [AWS] - HTTP",HTTP,"Milan, IT",AWS,375
+2025-12-28 22:05:31,"Hyderabad, IN [AWS] - PING",PING,"Hyderabad, IN",AWS,255
+2025-12-28 22:05:31,"Stockholm, SE [AWS] - DNS",DNS,"Stockholm, SE",AWS,61
+2025-12-28 22:05:31,"Cape Town, ZA [AWS] - HTTP",HTTP,"Cape Town, ZA",AWS,863
+2025-12-28 22:05:31,"Singapore, SG [AWS] - HTTP",HTTP,"Singapore, SG",AWS,843
+2025-12-28 22:05:31,"Osaka, JP [AWS] - PING",PING,"Osaka, JP",AWS,194
+2025-12-28 22:05:31,"Tokyo, JP [AWS] - DNS",DNS,"Tokyo, JP",AWS,90
+2025-12-28 22:05:31,"Hyderabad, IN [AWS] - HTTP",HTTP,"Hyderabad, IN",AWS,843
+2025-12-28 22:05:31,"Frankfurt, DE [AWS] - HTTP",HTTP,"Frankfurt, DE",AWS,347
+2025-12-28 22:05:31,"Osaka, JP [AWS] - HTTP",HTTP,"Osaka, JP",AWS,663
+2025-12-28 22:05:31,"Tokyo, JP [AWS] - PING",PING,"Tokyo, JP",AWS,185
+2025-12-28 22:05:31,"Dubai, AE [AWS] - DNS",DNS,"Dubai, AE",AWS,78
+2025-12-28 22:05:31,"São Paulo, BR [AWS] - DNS",DNS,"São Paulo, BR",AWS,90
+2025-12-28 22:05:31,"London, UK [AWS] - DNS",DNS,"London, UK",AWS,85
+2025-12-28 22:05:31,"Stockholm, SE [AWS] - PING",PING,"Stockholm, SE",AWS,103
+2025-12-28 22:05:31,"Sydney, AU [AWS] - DNS",DNS,"Sydney, AU",AWS,90
+2025-12-28 22:05:31,"Dubai, AE [AWS] - PING",PING,"Dubai, AE",AWS,167
+2025-12-28 22:05:31,"Sydney, AU [AWS] - PING",PING,"Sydney, AU",AWS,209
+2025-12-28 22:05:31,"London, UK [AWS] - PING",PING,"London, UK",AWS,80
+2025-12-28 22:05:31,"São Paulo, BR [AWS] - PING",PING,"São Paulo, BR",AWS,125
+2025-12-28 22:05:31,"Tokyo, JP [AWS] - HTTP",HTTP,"Tokyo, JP",AWS,651
+2025-12-28 22:05:31,"Seoul, KR [AWS] - DNS",DNS,"Seoul, KR",AWS,81
+2025-12-28 22:05:31,"Stockholm, SE [AWS] - HTTP",HTTP,"Stockholm, SE",AWS,390
+2025-12-28 22:05:31,"Paris, FR [AWS] - DNS",DNS,"Paris, FR",AWS,59
+2025-12-28 22:05:31,"Sydney, AU [AWS] - HTTP",HTTP,"Sydney, AU",AWS,730
+2025-12-28 22:05:31,"São Paulo, BR [AWS] - HTTP",HTTP,"São Paulo, BR",AWS,472
+2025-12-28 22:05:31,"Melbourne, AU [AWS] - DNS",DNS,"Melbourne, AU",AWS,61
+2025-12-28 22:05:31,"Riyadh, SA [AWS] - HTTP",HTTP,"Riyadh, SA",AWS,3193
+2025-12-28 22:05:31,"Dubai, AE [AWS] - HTTP",HTTP,"Dubai, AE",AWS,1761
+2025-12-28 22:05:31,"Melbourne, AU [AWS] - PING",PING,"Melbourne, AU",AWS,221
+2025-12-28 22:05:31,"Melbourne, AU [AWS] - HTTP",HTTP,"Melbourne, AU",AWS,734
+2025-12-28 22:05:31,"Riyadh, SA [AWS] - DNS",DNS,"Riyadh, SA",AWS,62
+2025-12-28 22:05:31,"Ashburn, VA [AWS] - DNS",DNS,"Ashburn, VA",AWS,89
+2025-12-28 22:05:31,"Riyadh, SA [AWS] - PING",PING,"Riyadh, SA",AWS,205
+2025-12-28 22:05:31,"Ashburn, VA [AWS] - PING",PING,"Ashburn, VA",AWS,16
+2025-12-28 22:05:31,"Mumbai, IN [AWS] - PING",PING,"Mumbai, IN",AWS,212
+2025-12-28 22:05:31,"Ashburn, VA [AWS] - HTTP",HTTP,"Ashburn, VA",AWS,133
+2025-12-28 22:05:31,"Mumbai, IN [AWS] - DNS",DNS,"Mumbai, IN",AWS,78
+2025-12-28 22:05:31,"Columbus, OH [AWS] - DNS",DNS,"Columbus, OH",AWS,84
+2025-12-28 22:05:31,"Mumbai, IN [AWS] - HTTP",HTTP,"Mumbai, IN",AWS,4737
+2025-12-28 22:05:31,"Columbus, OH [AWS] - PING",PING,"Columbus, OH",AWS,29
+2025-12-28 22:05:31,"Portland, OR [AWS] - DNS",DNS,"Portland, OR",AWS,79
+2025-12-28 22:05:31,"Portland, OR [AWS] - PING",PING,"Portland, OR",AWS,73
+2025-12-28 22:05:31,"Columbus, OH [AWS] - HTTP",HTTP,"Columbus, OH",AWS,181
+2025-12-28 22:05:31,"Portland, OR [AWS] - HTTP",HTTP,"Portland, OR",AWS,321
+2025-12-28 22:05:31,"San Jose, CA [AWS] - DNS",DNS,"San Jose, CA",AWS,82
+2025-12-28 22:05:31,"Montreal, CA [AWS] - DNS",DNS,"Montreal, CA",AWS,55
+2025-12-28 22:05:31,"San Jose, CA [AWS] - PING",PING,"San Jose, CA",AWS,76
+2025-12-28 22:05:31,"Montreal, CA [AWS] - PING",PING,"Montreal, CA",AWS,18
+2025-12-28 22:05:31,"San Jose, CA [AWS] - HTTP",HTTP,"San Jose, CA",AWS,319
+2025-12-28 22:05:31,"Paris, FR [AWS] - PING",PING,"Paris, FR",AWS,86
